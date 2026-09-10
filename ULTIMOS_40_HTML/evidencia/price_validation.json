@@ -1,0 +1,6172 @@
+[
+  {
+    "group": "04_BIKE",
+    "language": "en",
+    "cards": [
+      {
+        "line": 797,
+        "text": "1 hour €4 Perfect for a short ride along the beach or trying a bike for the first time.",
+        "price": 4.0
+      },
+      {
+        "line": 802,
+        "text": "Most popular 4 hours €8 Ideal for a half‑day ride exploring the seafront, Port Olímpic and Ciutadella Park.",
+        "price": 8.0
+      },
+      {
+        "line": 808,
+        "text": "Full day €10 Enjoy a full day cycling around Barcelona's beaches and parks.",
+        "price": 10.0
+      },
+      {
+        "line": 813,
+        "text": "24 hours €12 Pick up today and return tomorrow to make the most of your time on two wheels.",
+        "price": 12.0
+      },
+      {
+        "line": 818,
+        "text": "2 days €20 Get more time to explore with a bike over two days.",
+        "price": 20.0
+      },
+      {
+        "line": 823,
+        "text": "Extra day €8 Extend your bike rental for another day at a reduced rate.",
+        "price": 8.0
+      }
+    ],
+    "accessories": [
+      {
+        "line": 828,
+        "text": "Included extras Bike gear & extras Luggage storageFREE Child seat (selected bikes)€3 Helmet (children)FREE Bike lockFREE Quick local route tipsFREE Reserve by WhatsApp",
+        "price": 3.0
+      }
+    ],
+    "compact": [
+      {
+        "line": 1032,
+        "text": "1 hour €4",
+        "price": 4.0
+      },
+      {
+        "line": 1036,
+        "text": "4 hours €8",
+        "price": 8.0
+      },
+      {
+        "line": 1040,
+        "text": "Full day €10",
+        "price": 10.0
+      },
+      {
+        "line": 1044,
+        "text": "24 hours €12",
+        "price": 12.0
+      },
+      {
+        "line": 1048,
+        "text": "2 days €20",
+        "price": 20.0
+      },
+      {
+        "line": 1052,
+        "text": "Extra day €8",
+        "price": 8.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "1 hour",
+        "price": "4",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/bike/",
+        "description": "1 hour bike rental near Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "4 hours",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/bike/",
+        "description": "4 hour bike rental near Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Full day",
+        "price": "10",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/bike/",
+        "description": "Full day bike rental in Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "24 hours",
+        "price": "12",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/bike/",
+        "description": "24 hour bike rental in Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "2 days",
+        "price": "20",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/bike/",
+        "description": "2 day bike rental in Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Extra day",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/bike/",
+        "description": "Extra day bike rental in Barcelona",
+        "availability": "https://schema.org/InStock"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 799,
+        "text": "€4"
+      },
+      {
+        "line": 805,
+        "text": "€8"
+      },
+      {
+        "line": 810,
+        "text": "€10"
+      },
+      {
+        "line": 815,
+        "text": "€12"
+      },
+      {
+        "line": 820,
+        "text": "€20"
+      },
+      {
+        "line": 825,
+        "text": "€8"
+      },
+      {
+        "line": 1061,
+        "text": "Children's helmet and lock included · Optional child seat (€3) · Help choosing the right bike · Storage for jackets, backpacks and luggage."
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "04_BIKE",
+    "language": "es",
+    "cards": [
+      {
+        "line": 791,
+        "text": "1 hora €4 Perfecto para un paseo corto junto a la playa o para probar una bicicleta por primera vez.",
+        "price": 4.0
+      },
+      {
+        "line": 796,
+        "text": "Más popular 4 horas €8 Ideal para un recorrido de medio día explorando el paseo marítimo, Port Olímpic y el Parc de la Ciutadella.",
+        "price": 8.0
+      },
+      {
+        "line": 802,
+        "text": "Día completo €10 Disfruta de un día completo pedaleando por las playas y parques de Barcelona.",
+        "price": 10.0
+      },
+      {
+        "line": 807,
+        "text": "24 horas €12 Recógela hoy y devuélvela mañana para aprovechar al máximo tu tiempo sobre dos ruedas.",
+        "price": 12.0
+      },
+      {
+        "line": 812,
+        "text": "2 días €20 Gana más tiempo para explorar con una bicicleta durante dos días.",
+        "price": 20.0
+      },
+      {
+        "line": 817,
+        "text": "Día extra €8 Amplía tu alquiler de bicicleta un día más a una tarifa reducida.",
+        "price": 8.0
+      }
+    ],
+    "accessories": [
+      {
+        "line": 822,
+        "text": "Extras incluidos Accesorios y extras de bicicleta Consigna para el equipajeGRATIS Silla infantil (bicicletas seleccionadas)€3 Casco infantilGRATIS Candado de bicicletaGRATIS Consejos rápidos de rutas localesGRATIS Reservar por WhatsApp",
+        "price": 3.0
+      }
+    ],
+    "compact": [
+      {
+        "line": 1005,
+        "text": "1 hora €4",
+        "price": 4.0
+      },
+      {
+        "line": 1009,
+        "text": "4 horas €8",
+        "price": 8.0
+      },
+      {
+        "line": 1013,
+        "text": "Día completo €10",
+        "price": 10.0
+      },
+      {
+        "line": 1017,
+        "text": "24 horas €12",
+        "price": 12.0
+      },
+      {
+        "line": 1021,
+        "text": "2 días €20",
+        "price": 20.0
+      },
+      {
+        "line": 1025,
+        "text": "Día extra €8",
+        "price": 8.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "1 hora",
+        "price": "4",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/es/bike/",
+        "description": "1 hora de alquiler de bicicleta cerca de Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "4 horas",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/es/bike/",
+        "description": "4 horas de alquiler de bicicleta cerca de Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Día completo",
+        "price": "10",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/es/bike/",
+        "description": "Alquiler de bicicleta de día completo en Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "24 horas",
+        "price": "12",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/es/bike/",
+        "description": "Alquiler de bicicleta de 24 horas en Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "2 días",
+        "price": "20",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/es/bike/",
+        "description": "Alquiler de bicicleta de 2 días en Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Día extra",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/es/bike/",
+        "description": "Día extra de alquiler de bicicleta en Barcelona",
+        "availability": "https://schema.org/InStock"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 793,
+        "text": "€4"
+      },
+      {
+        "line": 799,
+        "text": "€8"
+      },
+      {
+        "line": 804,
+        "text": "€10"
+      },
+      {
+        "line": 809,
+        "text": "€12"
+      },
+      {
+        "line": 814,
+        "text": "€20"
+      },
+      {
+        "line": 819,
+        "text": "€8"
+      },
+      {
+        "line": 1034,
+        "text": "Casco infantil y candado incluidos · Silla infantil opcional (€3) · Ayuda para elegir la bicicleta adecuada · Consigna para chaquetas, mochilas y equipaje."
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "04_BIKE",
+    "language": "fr",
+    "cards": [
+      {
+        "line": 720,
+        "text": "1 heure €4 Parfait pour une courte balade le long de la plage ou pour essayer un vélo pour la première fois.",
+        "price": 4.0
+      },
+      {
+        "line": 725,
+        "text": "Le plus populaire 4 heures €8 Idéal pour une demi-journée à explorer la promenade du front de mer, Port Olímpic et le parc de la Ciutadella.",
+        "price": 8.0
+      },
+      {
+        "line": 731,
+        "text": "Journée complète €10 Profitez d’une journée complète à pédaler le long des plages et dans les parcs de Barcelone.",
+        "price": 10.0
+      },
+      {
+        "line": 736,
+        "text": "24 heures €12 Prenez-le aujourd’hui et rendez-le demain pour profiter au maximum de votre temps sur deux roues.",
+        "price": 12.0
+      },
+      {
+        "line": 741,
+        "text": "2 jours €20 Profitez de plus de temps pour explorer Barcelone à vélo pendant deux jours.",
+        "price": 20.0
+      },
+      {
+        "line": 746,
+        "text": "Jour supplémentaire €8 Prolongez votre location de vélo d’une journée supplémentaire à tarif réduit.",
+        "price": 8.0
+      }
+    ],
+    "accessories": [
+      {
+        "line": 751,
+        "text": "Extras inclus Équipement et extras des vélos Consigne pour bagagesGRATUIT Siège enfant (certains vélos)€3 Casque pour enfantGRATUIT Antivol de véloGRATUIT Conseils rapides d’itinéraires locauxGRATUIT Réserver sur WhatsApp",
+        "price": 3.0
+      }
+    ],
+    "compact": [
+      {
+        "line": 932,
+        "text": "1 heure €4",
+        "price": 4.0
+      },
+      {
+        "line": 936,
+        "text": "4 heures €8",
+        "price": 8.0
+      },
+      {
+        "line": 940,
+        "text": "Journée complète €10",
+        "price": 10.0
+      },
+      {
+        "line": 944,
+        "text": "24 heures €12",
+        "price": 12.0
+      },
+      {
+        "line": 948,
+        "text": "2 jours €20",
+        "price": 20.0
+      },
+      {
+        "line": 952,
+        "text": "Jour supplémentaire €8",
+        "price": 8.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "1 heure",
+        "price": "4",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/fr/bike/",
+        "description": "1 heure de location de vélo près de Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "4 heures",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/fr/bike/",
+        "description": "4 heures de location de vélo près de Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Journée complète",
+        "price": "10",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/fr/bike/",
+        "description": "Location de vélo à la journée à Barcelone",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "24 heures",
+        "price": "12",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/fr/bike/",
+        "description": "Location de vélo 24 heures à Barcelone",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "2 jours",
+        "price": "20",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/fr/bike/",
+        "description": "Location de vélo 2 jours à Barcelone",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Jour supplémentaire",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/fr/bike/",
+        "description": "Jour supplémentaire de location de vélo à Barcelone",
+        "availability": "https://schema.org/InStock"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 722,
+        "text": "€4"
+      },
+      {
+        "line": 728,
+        "text": "€8"
+      },
+      {
+        "line": 733,
+        "text": "€10"
+      },
+      {
+        "line": 738,
+        "text": "€12"
+      },
+      {
+        "line": 743,
+        "text": "€20"
+      },
+      {
+        "line": 748,
+        "text": "€8"
+      },
+      {
+        "line": 961,
+        "text": "Casque, antivol et consigne bagages · Casque pour enfant et antivol inclus · Siège enfant en option (€3) · Aide pour choisir le vélo adapté · Consigne pour vestes, sacs à dos et bagages."
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "04_BIKE",
+    "language": "it",
+    "cards": [
+      {
+        "line": 726,
+        "text": "1 ora €4 Perfetto per un breve giro vicino alla spiaggia o per provare una bicicletta per la prima volta.",
+        "price": 4.0
+      },
+      {
+        "line": 731,
+        "text": "Più richiesto 4 ore €8 Ideale per un percorso di mezza giornata lungo il lungomare, Port Olímpic e il Parc de la Ciutadella.",
+        "price": 8.0
+      },
+      {
+        "line": 737,
+        "text": "Giornata intera €10 Goditi una giornata intera pedalando tra le spiagge e i parchi di Barcellona.",
+        "price": 10.0
+      },
+      {
+        "line": 742,
+        "text": "24 ore €12 Ritira oggi e restituisci domani per sfruttare al massimo il tuo tempo su due ruote.",
+        "price": 12.0
+      },
+      {
+        "line": 747,
+        "text": "2 giorni €20 Hai più tempo per esplorare Barcellona in bicicletta per due giorni.",
+        "price": 20.0
+      },
+      {
+        "line": 752,
+        "text": "Giorno extra €8 Prolunga il tuo noleggio bici di un giorno in più a una tariffa ridotta.",
+        "price": 8.0
+      }
+    ],
+    "accessories": [
+      {
+        "line": 757,
+        "text": "Extra inclusi Attrezzatura ed extra delle biciclette Deposito bagagliGRATUITO Seggiolino bambino (alcune biciclette)€3 Casco bambinoGRATUITO Lucchetto biciGRATUITO Consigli rapidi su percorsi localiGRATUITO Prenota su WhatsApp",
+        "price": 3.0
+      }
+    ],
+    "compact": [
+      {
+        "line": 938,
+        "text": "1 ora €4",
+        "price": 4.0
+      },
+      {
+        "line": 942,
+        "text": "4 ore €8",
+        "price": 8.0
+      },
+      {
+        "line": 946,
+        "text": "Giornata intera €10",
+        "price": 10.0
+      },
+      {
+        "line": 950,
+        "text": "24 ore €12",
+        "price": 12.0
+      },
+      {
+        "line": 954,
+        "text": "2 giorni €20",
+        "price": 20.0
+      },
+      {
+        "line": 958,
+        "text": "Giorno extra €8",
+        "price": 8.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "1 ora",
+        "price": "4",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/it/bike/",
+        "description": "1 ora di noleggio bici vicino a Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "4 ore",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/it/bike/",
+        "description": "4 ore di noleggio bici vicino a Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Giornata intera",
+        "price": "10",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/it/bike/",
+        "description": "Noleggio bici per una giornata intera a Barcellona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "24 ore",
+        "price": "12",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/it/bike/",
+        "description": "Noleggio bici 24 ore a Barcellona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "2 giorni",
+        "price": "20",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/it/bike/",
+        "description": "Noleggio bici per 2 giorni a Barcellona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Giorno extra",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/it/bike/",
+        "description": "Giorno extra di noleggio bici a Barcellona",
+        "availability": "https://schema.org/InStock"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 728,
+        "text": "€4"
+      },
+      {
+        "line": 734,
+        "text": "€8"
+      },
+      {
+        "line": 739,
+        "text": "€10"
+      },
+      {
+        "line": 744,
+        "text": "€12"
+      },
+      {
+        "line": 749,
+        "text": "€20"
+      },
+      {
+        "line": 754,
+        "text": "€8"
+      },
+      {
+        "line": 967,
+        "text": "Casco, lucchetto e deposito bagagli · Casco bambino e lucchetto inclusi · Seggiolino opzionale (€3) · Aiuto per scegliere la bicicletta giusta · Deposito per giacche, zaini e bagagli."
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "04_BIKE",
+    "language": "de",
+    "cards": [
+      {
+        "line": 728,
+        "text": "1 Stunde €4 Perfekt für eine kurze Fahrt am Strand oder um ein Fahrrad zum ersten Mal auszuprobieren.",
+        "price": 4.0
+      },
+      {
+        "line": 733,
+        "text": "Am beliebtesten 4 Stunden €8 Ideal für eine halbtägige Tour entlang der Strandpromenade, Port Olímpic und des Parc de la Ciutadella.",
+        "price": 8.0
+      },
+      {
+        "line": 739,
+        "text": "Ganzer Tag €10 Genieße einen ganzen Tag auf dem Rad entlang der Strände und Parks von Barcelona.",
+        "price": 10.0
+      },
+      {
+        "line": 744,
+        "text": "24 Stunden €12 Heute abholen und morgen zurückgeben, um deine Zeit auf zwei Rädern optimal zu nutzen.",
+        "price": 12.0
+      },
+      {
+        "line": 749,
+        "text": "2 Tage €20 Mehr Zeit, Barcelona zwei Tage lang mit dem Fahrrad zu erkunden.",
+        "price": 20.0
+      },
+      {
+        "line": 754,
+        "text": "Zusätzlicher Tag €8 Verlängere deine Fahrradmiete um einen weiteren Tag zu einem günstigeren Preis.",
+        "price": 8.0
+      }
+    ],
+    "accessories": [
+      {
+        "line": 759,
+        "text": "Inklusive Extras Fahrrad-Zubehör und Extras GepäckaufbewahrungKOSTENLOS Kindersitz (ausgewählte Fahrräder)€3 KinderhelmKOSTENLOS FahrradschlossKOSTENLOS Schnelle lokale RoutentippsKOSTENLOS Per WhatsApp reservieren",
+        "price": 3.0
+      }
+    ],
+    "compact": [
+      {
+        "line": 978,
+        "text": "1 Stunde €4",
+        "price": 4.0
+      },
+      {
+        "line": 982,
+        "text": "4 Stunden €8",
+        "price": 8.0
+      },
+      {
+        "line": 986,
+        "text": "Ganzer Tag €10",
+        "price": 10.0
+      },
+      {
+        "line": 990,
+        "text": "24 Stunden €12",
+        "price": 12.0
+      },
+      {
+        "line": 994,
+        "text": "2 Tage €20",
+        "price": 20.0
+      },
+      {
+        "line": 998,
+        "text": "Zusatztag €8",
+        "price": 8.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "1 Stunde",
+        "price": "4",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/de/bike/",
+        "description": "1 Stunde Fahrradverleih nahe Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "4 Stunden",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/de/bike/",
+        "description": "4 Stunden Fahrradverleih nahe Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Ganzer Tag",
+        "price": "10",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/de/bike/",
+        "description": "Ganztägiger Fahrradverleih in Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "24 Stunden",
+        "price": "12",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/de/bike/",
+        "description": "24-Stunden-Fahrradverleih in Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "2 Tage",
+        "price": "20",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/de/bike/",
+        "description": "2-Tage-Fahrradverleih in Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Zusätzlicher Tag",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/de/bike/",
+        "description": "Zusätzlicher Tag Fahrradverleih in Barcelona",
+        "availability": "https://schema.org/InStock"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 730,
+        "text": "€4"
+      },
+      {
+        "line": 736,
+        "text": "€8"
+      },
+      {
+        "line": 741,
+        "text": "€10"
+      },
+      {
+        "line": 746,
+        "text": "€12"
+      },
+      {
+        "line": 751,
+        "text": "€20"
+      },
+      {
+        "line": 756,
+        "text": "€8"
+      },
+      {
+        "line": 1007,
+        "text": "Helm, Schloss und Gepäckaufbewahrung · Kinderhelm und Schloss inklusive · Optionaler Kindersitz (€3) · Hilfe bei der Wahl des passenden Fahrrads · Aufbewahrung für Jacken, Rucksäcke und Gepäck."
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "04_BIKE",
+    "language": "nl",
+    "cards": [
+      {
+        "line": 736,
+        "text": "1 uur €4 Perfect voor een korte rit langs het strand of om voor het eerst een fiets uit te proberen.",
+        "price": 4.0
+      },
+      {
+        "line": 741,
+        "text": "Meest gekozen 4 uur €8 Ideaal voor een rit van een halve dag langs de boulevard, Port Olímpic en Parc de la Ciutadella.",
+        "price": 8.0
+      },
+      {
+        "line": 747,
+        "text": "Hele dag €10 Geniet een hele dag van fietsen langs de stranden en parken van Barcelona.",
+        "price": 10.0
+      },
+      {
+        "line": 752,
+        "text": "24 uur €12 Haal vandaag op en breng morgen terug om het meeste uit je tijd op twee wielen te halen.",
+        "price": 12.0
+      },
+      {
+        "line": 757,
+        "text": "2 dagen €20 Meer tijd om Barcelona twee dagen lang per fiets te verkennen.",
+        "price": 20.0
+      },
+      {
+        "line": 762,
+        "text": "Extra dag €8 Verleng je fietsverhuur met een extra dag tegen een lager tarief.",
+        "price": 8.0
+      }
+    ],
+    "accessories": [
+      {
+        "line": 767,
+        "text": "Inbegrepen extra’s Fietsuitrusting en extra’s BagageopslagGRATIS Kinderzitje (geselecteerde fietsen)€3 KinderhelmGRATIS FietsslotGRATIS Snelle lokale routetipsGRATIS Reserveren via WhatsApp",
+        "price": 3.0
+      }
+    ],
+    "compact": [
+      {
+        "line": 986,
+        "text": "1 uur €4",
+        "price": 4.0
+      },
+      {
+        "line": 990,
+        "text": "4 uur €8",
+        "price": 8.0
+      },
+      {
+        "line": 994,
+        "text": "Hele dag €10",
+        "price": 10.0
+      },
+      {
+        "line": 998,
+        "text": "24 uur €12",
+        "price": 12.0
+      },
+      {
+        "line": 1002,
+        "text": "2 dagen €20",
+        "price": 20.0
+      },
+      {
+        "line": 1006,
+        "text": "Extra dag €8",
+        "price": 8.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "1 uur",
+        "price": "4",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/nl/bike/",
+        "description": "1 uur fietsverhuur vlak bij Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "4 uur",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/nl/bike/",
+        "description": "4 uur fietsverhuur vlak bij Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Hele dag",
+        "price": "10",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/nl/bike/",
+        "description": "Hele dag fietsverhuur in Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "24 uur",
+        "price": "12",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/nl/bike/",
+        "description": "24 uur fietsverhuur in Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "2 dagen",
+        "price": "20",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/nl/bike/",
+        "description": "2 dagen fietsverhuur in Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Extra dag",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/nl/bike/",
+        "description": "Extra dag fietsverhuur in Barcelona",
+        "availability": "https://schema.org/InStock"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 738,
+        "text": "€4"
+      },
+      {
+        "line": 744,
+        "text": "€8"
+      },
+      {
+        "line": 749,
+        "text": "€10"
+      },
+      {
+        "line": 754,
+        "text": "€12"
+      },
+      {
+        "line": 759,
+        "text": "€20"
+      },
+      {
+        "line": 764,
+        "text": "€8"
+      },
+      {
+        "line": 1015,
+        "text": "Helm, slot en bagageopslag · Kinderhelm en slot inbegrepen · Optioneel kinderzitje (€3) · Hulp bij het kiezen van de juiste fiets · Opslag voor jassen, rugzakken en bagage."
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "04_BIKE",
+    "language": "pt",
+    "cards": [
+      {
+        "line": 742,
+        "text": "1 hora €4 Perfeito para um passeio curto junto à praia ou para experimentar uma bicicleta pela primeira vez.",
+        "price": 4.0
+      },
+      {
+        "line": 747,
+        "text": "Mais popular 4 horas €8 Ideal para um percurso de meio dia explorando o passeio marítimo, Port Olímpic e o Parc de la Ciutadella.",
+        "price": 8.0
+      },
+      {
+        "line": 753,
+        "text": "Dia completo €10 Desfruta de um dia completo a pedalar pelas praias e parques de Barcelona.",
+        "price": 10.0
+      },
+      {
+        "line": 758,
+        "text": "24 horas €12 Leva hoje e devolve amanhã para aproveitares ao máximo o teu tempo sobre duas rodas.",
+        "price": 12.0
+      },
+      {
+        "line": 763,
+        "text": "2 dias €20 Ganha mais tempo para explorar Barcelona de bicicleta durante dois dias.",
+        "price": 20.0
+      },
+      {
+        "line": 768,
+        "text": "Dia extra €8 Prolonga o teu aluguer de bicicleta por mais um dia a um preço reduzido.",
+        "price": 8.0
+      }
+    ],
+    "accessories": [
+      {
+        "line": 773,
+        "text": "Extras incluídos Equipamento e extras das bicicletas Guarda de bagagemGRÁTIS Cadeira infantil (bicicletas selecionadas)€3 Capacete infantilGRÁTIS Cadeado de bicicletaGRÁTIS Dicas rápidas de rotas locaisGRÁTIS Reservar por WhatsApp",
+        "price": 3.0
+      }
+    ],
+    "compact": [
+      {
+        "line": 974,
+        "text": "1 hora €4",
+        "price": 4.0
+      },
+      {
+        "line": 978,
+        "text": "4 horas €8",
+        "price": 8.0
+      },
+      {
+        "line": 982,
+        "text": "Dia completo €10",
+        "price": 10.0
+      },
+      {
+        "line": 986,
+        "text": "24 horas €12",
+        "price": 12.0
+      },
+      {
+        "line": 990,
+        "text": "2 dias €20",
+        "price": 20.0
+      },
+      {
+        "line": 994,
+        "text": "Dia extra €8",
+        "price": 8.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "1 hora",
+        "price": "4",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/pt/bike/",
+        "description": "1 hora de aluguer de bicicleta perto de Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "4 horas",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/pt/bike/",
+        "description": "4 horas de aluguer de bicicleta perto de Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Dia completo",
+        "price": "10",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/pt/bike/",
+        "description": "Aluguer de bicicleta de dia completo em Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "24 horas",
+        "price": "12",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/pt/bike/",
+        "description": "Aluguer de bicicleta de 24 horas em Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "2 dias",
+        "price": "20",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/pt/bike/",
+        "description": "Aluguer de bicicleta de 2 dias em Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Dia extra",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/pt/bike/",
+        "description": "Dia extra de aluguer de bicicleta em Barcelona",
+        "availability": "https://schema.org/InStock"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 744,
+        "text": "€4"
+      },
+      {
+        "line": 750,
+        "text": "€8"
+      },
+      {
+        "line": 755,
+        "text": "€10"
+      },
+      {
+        "line": 760,
+        "text": "€12"
+      },
+      {
+        "line": 765,
+        "text": "€20"
+      },
+      {
+        "line": 770,
+        "text": "€8"
+      },
+      {
+        "line": 1003,
+        "text": "Capacete, cadeado e guarda de bagagem · Capacete infantil e cadeado incluídos · Cadeira infantil opcional (€3) · Ajuda para escolher a bicicleta certa · Guarda de bagagem gratuita."
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "04_BIKE",
+    "language": "ca",
+    "cards": [
+      {
+        "line": 726,
+        "text": "1 hora €4 Perfecte per a una passejada curta al costat de la platja o per provar una bicicleta per primera vegada.",
+        "price": 4.0
+      },
+      {
+        "line": 731,
+        "text": "Més popular 4 hores €8 Ideal per a un recorregut de mig dia explorant el passeig marítim, Port Olímpic i el Parc de la Ciutadella.",
+        "price": 8.0
+      },
+      {
+        "line": 737,
+        "text": "Dia complet €10 Gaudeix d’un dia complet pedalant per les platges i parcs de Barcelona.",
+        "price": 10.0
+      },
+      {
+        "line": 742,
+        "text": "24 hores €12 Recull-la avui i torna-la demà per aprofitar al màxim el teu temps sobre dues rodes.",
+        "price": 12.0
+      },
+      {
+        "line": 747,
+        "text": "2 dies €20 Guanya més temps per explorar Barcelona amb bicicleta durant dos dies.",
+        "price": 20.0
+      },
+      {
+        "line": 752,
+        "text": "Dia extra €8 Amplia el teu lloguer de bicicleta un dia més a un preu reduït.",
+        "price": 8.0
+      }
+    ],
+    "accessories": [
+      {
+        "line": 757,
+        "text": "Extres inclosos Equipament i extres de bicicletes Guarda d’equipatgeGRATUÏT Cadireta infantil (bicicletes seleccionades)€3 Casc infantilGRATUÏT Cadenat de bicicletaGRATUÏT Consells ràpids de rutes localsGRATUÏT Reservar per WhatsApp",
+        "price": 3.0
+      }
+    ],
+    "compact": [
+      {
+        "line": 959,
+        "text": "1 hora €4",
+        "price": 4.0
+      },
+      {
+        "line": 963,
+        "text": "4 hores €8",
+        "price": 8.0
+      },
+      {
+        "line": 967,
+        "text": "Dia complet €10",
+        "price": 10.0
+      },
+      {
+        "line": 971,
+        "text": "24 hores €12",
+        "price": 12.0
+      },
+      {
+        "line": 975,
+        "text": "2 dies €20",
+        "price": 20.0
+      },
+      {
+        "line": 979,
+        "text": "Dia extra €8",
+        "price": 8.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "1 hora",
+        "price": "4",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/cat/bike/",
+        "description": "1 hora de lloguer de bicicleta a prop de Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "4 hores",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/cat/bike/",
+        "description": "4 hores de lloguer de bicicleta a prop de Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Dia complet",
+        "price": "10",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/cat/bike/",
+        "description": "Lloguer de bicicleta de dia complet a Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "24 hores",
+        "price": "12",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/cat/bike/",
+        "description": "Lloguer de bicicleta de 24 hores a Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "2 dies",
+        "price": "20",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/cat/bike/",
+        "description": "Lloguer de bicicleta de 2 dies a Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Dia extra",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/cat/bike/",
+        "description": "Dia extra de lloguer de bicicleta a Barcelona",
+        "availability": "https://schema.org/InStock"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 728,
+        "text": "€4"
+      },
+      {
+        "line": 734,
+        "text": "€8"
+      },
+      {
+        "line": 739,
+        "text": "€10"
+      },
+      {
+        "line": 744,
+        "text": "€12"
+      },
+      {
+        "line": 749,
+        "text": "€20"
+      },
+      {
+        "line": 754,
+        "text": "€8"
+      },
+      {
+        "line": 988,
+        "text": "Casc, cadenat i guarda d’equipatge · Casc infantil i cadenat inclosos · Cadireta infantil opcional (€3) · Ajuda per triar la bicicleta adequada · Guarda d’equipatge per a jaquetes, motxilles i equipatge."
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "04_BIKE",
+    "language": "sv",
+    "cards": [
+      {
+        "line": 738,
+        "text": "1 timme €4 Perfekt för en kort tur längs stranden eller för att prova en cykel för första gången.",
+        "price": 4.0
+      },
+      {
+        "line": 743,
+        "text": "Mest populär 4 timmar €8 Perfekt för en halvdagstur längs strandpromenaden, Port Olímpic och Parc de la Ciutadella.",
+        "price": 8.0
+      },
+      {
+        "line": 749,
+        "text": "Heldag €10 Njut av en heldag på cykel längs Barcelonas stränder och parker.",
+        "price": 10.0
+      },
+      {
+        "line": 754,
+        "text": "24 timmar €12 Hämta idag och lämna tillbaka imorgon för att få ut så mycket som möjligt av din tid på två hjul.",
+        "price": 12.0
+      },
+      {
+        "line": 759,
+        "text": "2 dagar €20 Få mer tid att utforska Barcelona med cykel i två dagar.",
+        "price": 20.0
+      },
+      {
+        "line": 764,
+        "text": "Extra dag €8 Förläng din cykelhyra med en extra dag till ett lägre pris.",
+        "price": 8.0
+      }
+    ],
+    "accessories": [
+      {
+        "line": 769,
+        "text": "Extra som ingår Cykelutrustning och extra BagageförvaringGRATIS Barnsits (utvalda cyklar)€3 BarnhjälmGRATIS CykellåsGRATIS Snabba lokala ruttipsGRATIS Boka via WhatsApp",
+        "price": 3.0
+      }
+    ],
+    "compact": [
+      {
+        "line": 972,
+        "text": "1 timme €4",
+        "price": 4.0
+      },
+      {
+        "line": 976,
+        "text": "4 timmar €8",
+        "price": 8.0
+      },
+      {
+        "line": 980,
+        "text": "Heldag €10",
+        "price": 10.0
+      },
+      {
+        "line": 984,
+        "text": "24 timmar €12",
+        "price": 12.0
+      },
+      {
+        "line": 988,
+        "text": "2 dagar €20",
+        "price": 20.0
+      },
+      {
+        "line": 992,
+        "text": "Extra dag €8",
+        "price": 8.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "1 timme",
+        "price": "4",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/sv/bike/",
+        "description": "1 timmes cykeluthyrning nära Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "4 timmar",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/sv/bike/",
+        "description": "4 timmars cykeluthyrning nära Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Heldag",
+        "price": "10",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/sv/bike/",
+        "description": "Heldagsuthyrning av cykel i Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "24 timmar",
+        "price": "12",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/sv/bike/",
+        "description": "24 timmars cykeluthyrning i Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "2 dagar",
+        "price": "20",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/sv/bike/",
+        "description": "2 dagars cykeluthyrning i Barcelona",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Extra dag",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/sv/bike/",
+        "description": "Extra dag cykeluthyrning i Barcelona",
+        "availability": "https://schema.org/InStock"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 740,
+        "text": "€4"
+      },
+      {
+        "line": 746,
+        "text": "€8"
+      },
+      {
+        "line": 751,
+        "text": "€10"
+      },
+      {
+        "line": 756,
+        "text": "€12"
+      },
+      {
+        "line": 761,
+        "text": "€20"
+      },
+      {
+        "line": 766,
+        "text": "€8"
+      },
+      {
+        "line": 1001,
+        "text": "Hjälm, lås och bagageförvaring · Barnhjälm och lås ingår · Barnsits som tillval (€3) · Hjälp att välja rätt cykel · Förvaring för jackor, ryggsäckar och bagage."
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "04_BIKE",
+    "language": "pl",
+    "cards": [
+      {
+        "line": 797,
+        "text": "1 godzina €4 Idealne na krótką przejażdżkę wzdłuż plaży lub pierwszą próbę jazdy rowerem.",
+        "price": 4.0
+      },
+      {
+        "line": 802,
+        "text": "Najpopularniejsze 4 godziny €8 Idealne na półdniową przejażdżkę nad morzem, przy Port Olímpic i w parku Ciutadella.",
+        "price": 8.0
+      },
+      {
+        "line": 808,
+        "text": "Cały dzień €10 Ciesz się całym dniem jazdy rowerem po plażach i parkach Barcelony.",
+        "price": 10.0
+      },
+      {
+        "line": 813,
+        "text": "24 godziny €12 Odbierz rower dziś i zwróć jutro, aby lepiej wykorzystać czas na dwóch kółkach.",
+        "price": 12.0
+      },
+      {
+        "line": 818,
+        "text": "2 dni €20 Zyskaj więcej czasu na zwiedzanie przez dwa dni na rowerze.",
+        "price": 20.0
+      },
+      {
+        "line": 823,
+        "text": "Dodatkowy dzień €8 Przedłuż wynajem roweru o kolejny dzień w niższej cenie.",
+        "price": 8.0
+      }
+    ],
+    "accessories": [
+      {
+        "line": 828,
+        "text": "Dodatki w cenie Sprzęt i dodatki do rowerów Przechowanie bagażuDARMOWO Fotelik dziecięcy (wybrane rowery)€3 Kask (dzieci)DARMOWO Zapięcie roweroweDARMOWO Szybkie lokalne wskazówki trasDARMOWO Zarezerwuj przez WhatsApp",
+        "price": 3.0
+      }
+    ],
+    "compact": [
+      {
+        "line": 1031,
+        "text": "1 godzina €4",
+        "price": 4.0
+      },
+      {
+        "line": 1035,
+        "text": "4 godziny €8",
+        "price": 8.0
+      },
+      {
+        "line": 1039,
+        "text": "Cały dzień €10",
+        "price": 10.0
+      },
+      {
+        "line": 1043,
+        "text": "24 godziny €12",
+        "price": 12.0
+      },
+      {
+        "line": 1047,
+        "text": "2 dni €20",
+        "price": 20.0
+      },
+      {
+        "line": 1051,
+        "text": "Dodatkowy dzień €8",
+        "price": 8.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "1 godzina",
+        "price": "4",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/pl/bike/",
+        "description": "1 godzina wynajem rowerów blisko Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "4 godziny",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/pl/bike/",
+        "description": "4 hour wynajem rowerów blisko Port Olímpic",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Cały dzień",
+        "price": "10",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/pl/bike/",
+        "description": "Całodniowy wynajem rowerów w Barcelonie",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "24 godziny",
+        "price": "12",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/pl/bike/",
+        "description": "24 hour wynajem rowerów w Barcelonie",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "2 dni",
+        "price": "20",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/pl/bike/",
+        "description": "Dwudniowy wynajem rowerów w Barcelonie",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "name": "Dodatkowy dzień",
+        "price": "8",
+        "priceCurrency": "EUR",
+        "url": "https://rentalscooterbarcelona.com/pl/bike/",
+        "description": "Dodatkowy dzień wynajmu rowerów w Barcelonie",
+        "availability": "https://schema.org/InStock"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 799,
+        "text": "€4"
+      },
+      {
+        "line": 805,
+        "text": "€8"
+      },
+      {
+        "line": 810,
+        "text": "€10"
+      },
+      {
+        "line": 815,
+        "text": "€12"
+      },
+      {
+        "line": 820,
+        "text": "€20"
+      },
+      {
+        "line": 825,
+        "text": "€8"
+      },
+      {
+        "line": 1060,
+        "text": "Kask dziecięcy i zapięcie w cenie · Opcjonalny fotelik dziecięcy (€3) · Pomoc w wyborze odpowiedniego roweru · Przechowanie kurtek, plecaków i bagażu."
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "expected": [
+          4.0,
+          8.0,
+          10.0,
+          12.0,
+          20.0,
+          8.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "06_QUADS",
+    "language": "en",
+    "cards": [
+      {
+        "line": 779,
+        "text": "1 hour €6 Perfect for a quick seafront roll or trying quad skates for the first time.",
+        "price": 6.0
+      },
+      {
+        "line": 784,
+        "text": "Most popular 2 hours €12 Ideal for Barceloneta, Port Olímpic and Ciutadella Park at your own pace.",
+        "price": 12.0
+      },
+      {
+        "line": 790,
+        "text": "3 hours €15 Best for longer beachfront routes and easy cruising through the park.",
+        "price": 15.0
+      },
+      {
+        "line": 795,
+        "text": "Full day €18 Enjoy a full day on classic roller skates with flexible same-day return.",
+        "price": 18.0
+      },
+      {
+        "line": 800,
+        "text": "24 hours €20 Pick up today and return tomorrow to stretch your skating time into the next day.",
+        "price": 20.0
+      },
+      {
+        "line": 805,
+        "text": "Extra day €10 Extend your rental for one more day at a lower rate.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 991,
+        "text": "1 hour€6",
+        "price": 6.0
+      },
+      {
+        "line": 991,
+        "text": "2 hours€12",
+        "price": 12.0
+      },
+      {
+        "line": 991,
+        "text": "3 hours€15",
+        "price": 15.0
+      },
+      {
+        "line": 991,
+        "text": "Full day€18",
+        "price": 18.0
+      },
+      {
+        "line": 991,
+        "text": "24 hours€20",
+        "price": 20.0
+      },
+      {
+        "line": 991,
+        "text": "Extra day€10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Roller skate rental 1 hour",
+        "url": "https://rentalscooterbarcelona.com/quads/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Roller skate rental 2 hours",
+        "url": "https://rentalscooterbarcelona.com/quads/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Roller skate rental 3 hours",
+        "url": "https://rentalscooterbarcelona.com/quads/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Roller skate rental full day",
+        "url": "https://rentalscooterbarcelona.com/quads/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Roller skate rental 24 hours",
+        "url": "https://rentalscooterbarcelona.com/quads/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Roller skate rental extra day",
+        "url": "https://rentalscooterbarcelona.com/quads/",
+        "availability": "https://schema.org/InStock"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 781,
+        "text": "€6"
+      },
+      {
+        "line": 787,
+        "text": "€12"
+      },
+      {
+        "line": 792,
+        "text": "€15"
+      },
+      {
+        "line": 797,
+        "text": "€18"
+      },
+      {
+        "line": 802,
+        "text": "€20"
+      },
+      {
+        "line": 807,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "06_QUADS",
+    "language": "es",
+    "cards": [
+      {
+        "line": 773,
+        "text": "1 hora €6 Perfecto para una vuelta rápida por el paseo marítimo o para probar patines de 4 ruedas por primera vez.",
+        "price": 6.0
+      },
+      {
+        "line": 778,
+        "text": "Más popular 2 horas €12 Ideal para recorrer la Barceloneta, el Port Olímpic y el Parc de la Ciutadella a tu ritmo.",
+        "price": 12.0
+      },
+      {
+        "line": 784,
+        "text": "3 horas €15 La mejor opción para rutas más largas junto a la playa y paseos tranquilos por el parque.",
+        "price": 15.0
+      },
+      {
+        "line": 789,
+        "text": "Día completo €18 Disfruta de un día completo con patines clásicos y devuélvelos el mismo día.",
+        "price": 18.0
+      },
+      {
+        "line": 794,
+        "text": "24 horas €20 Recógelos hoy y devuélvelos mañana para alargar tu tiempo de patinaje hasta el día siguiente.",
+        "price": 20.0
+      },
+      {
+        "line": 799,
+        "text": "Día extra €10 Amplía tu alquiler un día más con una tarifa reducida.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 964,
+        "text": "1 hora€6",
+        "price": 6.0
+      },
+      {
+        "line": 964,
+        "text": "2 horas€12",
+        "price": 12.0
+      },
+      {
+        "line": 964,
+        "text": "3 horas€15",
+        "price": 15.0
+      },
+      {
+        "line": 964,
+        "text": "Día completo€18",
+        "price": 18.0
+      },
+      {
+        "line": 964,
+        "text": "24 horas€20",
+        "price": 20.0
+      },
+      {
+        "line": 964,
+        "text": "Día extra€10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Alquiler de patines de 4 ruedas 1 hora",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/es/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Alquiler de patines de 4 ruedas 2 horas",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/es/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Alquiler de patines de 4 ruedas 3 horas",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/es/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Alquiler de patines de 4 ruedas día completo",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/es/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Alquiler de patines de 4 ruedas 24 horas",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/es/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Alquiler de patines de 4 ruedas día extra",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/es/quads/"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 775,
+        "text": "€6"
+      },
+      {
+        "line": 781,
+        "text": "€12"
+      },
+      {
+        "line": 786,
+        "text": "€15"
+      },
+      {
+        "line": 791,
+        "text": "€18"
+      },
+      {
+        "line": 796,
+        "text": "€20"
+      },
+      {
+        "line": 801,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "06_QUADS",
+    "language": "fr",
+    "cards": [
+      {
+        "line": 705,
+        "text": "1 heure €6 Parfait pour une petite balade en bord de mer ou pour essayer les rollers quad pour la première fois.",
+        "price": 6.0
+      },
+      {
+        "line": 710,
+        "text": "Le plus populaire 2 heures €12 Idéal pour la Barceloneta, le Port Olímpic et le parc de la Ciutadella à votre rythme.",
+        "price": 12.0
+      },
+      {
+        "line": 716,
+        "text": "3 heures €15 Idéal pour des parcours plus longs en bord de mer et une balade tranquille dans le parc.",
+        "price": 15.0
+      },
+      {
+        "line": 721,
+        "text": "Journée complète €18 Profitez d’une journée complète en patins à roulettes classiques.",
+        "price": 18.0
+      },
+      {
+        "line": 726,
+        "text": "24 heures €20 Retirez-les aujourd’hui et retournez-les demain pour prolonger votre temps de patinage jusqu’au lendemain.",
+        "price": 20.0
+      },
+      {
+        "line": 731,
+        "text": "Jour supplémentaire €10 Prolongez votre location d’un jour supplémentaire à tarif réduit.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 896,
+        "text": "1 heure€6",
+        "price": 6.0
+      },
+      {
+        "line": 896,
+        "text": "2 heures€12",
+        "price": 12.0
+      },
+      {
+        "line": 896,
+        "text": "3 heures€15",
+        "price": 15.0
+      },
+      {
+        "line": 896,
+        "text": "Journée complète€18",
+        "price": 18.0
+      },
+      {
+        "line": 896,
+        "text": "24 heures€20",
+        "price": 20.0
+      },
+      {
+        "line": 896,
+        "text": "Jour supplémentaire€10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Location de patins à roulettes 1 heure",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/fr/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Location de patins à roulettes 2 heures",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/fr/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Location de patins à roulettes 3 heures",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/fr/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Location de patins à roulettes journée complète",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/fr/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Location de patins à roulettes 24 heures",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/fr/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Location de patins à roulettes jour supplémentaire",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/fr/quads/"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 707,
+        "text": "€6"
+      },
+      {
+        "line": 713,
+        "text": "€12"
+      },
+      {
+        "line": 718,
+        "text": "€15"
+      },
+      {
+        "line": 723,
+        "text": "€18"
+      },
+      {
+        "line": 728,
+        "text": "€20"
+      },
+      {
+        "line": 733,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "06_QUADS",
+    "language": "it",
+    "cards": [
+      {
+        "line": 710,
+        "text": "1 ora €6 Perfetto per un giro veloce sul lungomare o per provare i pattini a quattro ruote per la prima volta.",
+        "price": 6.0
+      },
+      {
+        "line": 715,
+        "text": "Più richiesto 2 ore €12 Ideale per la Barceloneta, il Port Olímpic e il Parc de la Ciutadella al tuo ritmo.",
+        "price": 12.0
+      },
+      {
+        "line": 721,
+        "text": "3 ore €15 Ideale per percorsi più lunghi sul mare e giri tranquilli nel parco.",
+        "price": 15.0
+      },
+      {
+        "line": 726,
+        "text": "Giornata intera €18 Goditi una giornata intera con pattini classici a rotelle e riconsegna in giornata.",
+        "price": 18.0
+      },
+      {
+        "line": 731,
+        "text": "24 ore €20 Ritira oggi e riconsegna domani per allungare il tempo di pattinaggio fino al giorno successivo.",
+        "price": 20.0
+      },
+      {
+        "line": 736,
+        "text": "Giorno extra €10 Estendi il noleggio di un altro giorno a una tariffa ridotta.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 901,
+        "text": "1 ora€6",
+        "price": 6.0
+      },
+      {
+        "line": 901,
+        "text": "2 ore€12",
+        "price": 12.0
+      },
+      {
+        "line": 901,
+        "text": "3 ore€15",
+        "price": 15.0
+      },
+      {
+        "line": 901,
+        "text": "Giornata intera€18",
+        "price": 18.0
+      },
+      {
+        "line": 901,
+        "text": "24 ore€20",
+        "price": 20.0
+      },
+      {
+        "line": 901,
+        "text": "Giorno extra€10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Noleggio pattini a rotelle 1 ora",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/it/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Noleggio pattini a rotelle 2 ore",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/it/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Noleggio pattini a rotelle 3 ore",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/it/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Noleggio pattini a rotelle giornata intera",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/it/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Noleggio pattini a rotelle 24 ore",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/it/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Noleggio pattini a rotelle giorno extra",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/it/quads/"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 712,
+        "text": "€6"
+      },
+      {
+        "line": 718,
+        "text": "€12"
+      },
+      {
+        "line": 723,
+        "text": "€15"
+      },
+      {
+        "line": 728,
+        "text": "€18"
+      },
+      {
+        "line": 733,
+        "text": "€20"
+      },
+      {
+        "line": 738,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "06_QUADS",
+    "language": "de",
+    "cards": [
+      {
+        "line": 712,
+        "text": "1 Stunde €6 Perfekt für eine kurze Fahrt an der Strandpromenade oder um Quad-Skates zum ersten Mal auszuprobieren.",
+        "price": 6.0
+      },
+      {
+        "line": 717,
+        "text": "Am beliebtesten 2 Stunden €12 Ideal für Barceloneta, Port Olímpic und den Parc de la Ciutadella in deinem eigenen Tempo.",
+        "price": 12.0
+      },
+      {
+        "line": 723,
+        "text": "3 Stunden €15 Am besten für längere Routen am Strand und entspanntes Fahren durch den Park.",
+        "price": 15.0
+      },
+      {
+        "line": 728,
+        "text": "Ganzer Tag €18 Genieße einen ganzen Tag mit klassischen Rollschuhen und flexibler Rückgabe am selben Tag.",
+        "price": 18.0
+      },
+      {
+        "line": 733,
+        "text": "24 Stunden €20 Heute abholen und morgen zurückgeben, um die Fahrzeit bis zum nächsten Tag zu verlängern.",
+        "price": 20.0
+      },
+      {
+        "line": 738,
+        "text": "Zusatztag €10 Verlängere deine Miete um einen weiteren Tag zu einem günstigeren Tarif.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 942,
+        "text": "1 Stunde€6",
+        "price": 6.0
+      },
+      {
+        "line": 942,
+        "text": "2 Stunden€12",
+        "price": 12.0
+      },
+      {
+        "line": 942,
+        "text": "3 Stunden€15",
+        "price": 15.0
+      },
+      {
+        "line": 942,
+        "text": "Ganzer Tag€18",
+        "price": 18.0
+      },
+      {
+        "line": 942,
+        "text": "24 Stunden€20",
+        "price": 20.0
+      },
+      {
+        "line": 942,
+        "text": "Zusatztag€10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Rollschuhe 1 Stunde mieten",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/de/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Rollschuhe 2 Stunden mieten",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/de/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Rollschuhe 3 Stunden mieten",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/de/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Rollschuhe ganztägig mieten",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/de/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Rollschuhe 24 Stunden mieten",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/de/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Rollschuhe Zusatztag",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/de/quads/"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 714,
+        "text": "€6"
+      },
+      {
+        "line": 720,
+        "text": "€12"
+      },
+      {
+        "line": 725,
+        "text": "€15"
+      },
+      {
+        "line": 730,
+        "text": "€18"
+      },
+      {
+        "line": 735,
+        "text": "€20"
+      },
+      {
+        "line": 740,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "06_QUADS",
+    "language": "nl",
+    "cards": [
+      {
+        "line": 721,
+        "text": "1 uur €6 Perfect voor een korte rit langs zee of om quad skates voor het eerst te proberen.",
+        "price": 6.0
+      },
+      {
+        "line": 726,
+        "text": "Populairst 2 uur €12 Ideaal voor Barceloneta, Port Olímpic en Parc de la Ciutadella in je eigen tempo.",
+        "price": 12.0
+      },
+      {
+        "line": 732,
+        "text": "3 uur €15 Het beste voor langere routes langs het strand en rustig rijden door het park.",
+        "price": 15.0
+      },
+      {
+        "line": 737,
+        "text": "Volledige dag €18 Geniet een volledige dag van klassieke rolschaatsen met flexibele terugbrengmogelijkheid op dezelfde dag.",
+        "price": 18.0
+      },
+      {
+        "line": 742,
+        "text": "24 uur €20 Haal vandaag op en breng morgen terug om je rolschaatstijd tot de volgende dag te verlengen.",
+        "price": 20.0
+      },
+      {
+        "line": 747,
+        "text": "Extra dag €10 Verleng je huur met nog een dag tegen een lager tarief.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 951,
+        "text": "1 uur€6",
+        "price": 6.0
+      },
+      {
+        "line": 951,
+        "text": "2 uur€12",
+        "price": 12.0
+      },
+      {
+        "line": 951,
+        "text": "3 uur€15",
+        "price": 15.0
+      },
+      {
+        "line": 951,
+        "text": "Volledige dag€18",
+        "price": 18.0
+      },
+      {
+        "line": 951,
+        "text": "24 uur€20",
+        "price": 20.0
+      },
+      {
+        "line": 951,
+        "text": "Extra dag€10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Rolschaatsen huren 1 uur",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/nl/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Rolschaatsen huren 2 uur",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/nl/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Rolschaatsen huren 3 uur",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/nl/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Rolschaatsen huren hele dag",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/nl/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Rolschaatsen huren 24 uur",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/nl/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Rolschaatsen huren extra dag",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/nl/quads/"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 723,
+        "text": "€6"
+      },
+      {
+        "line": 729,
+        "text": "€12"
+      },
+      {
+        "line": 734,
+        "text": "€15"
+      },
+      {
+        "line": 739,
+        "text": "€18"
+      },
+      {
+        "line": 744,
+        "text": "€20"
+      },
+      {
+        "line": 749,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "06_QUADS",
+    "language": "pt",
+    "cards": [
+      {
+        "line": 727,
+        "text": "1 hora €6 Perfeito para uma volta rápida junto ao mar ou para experimentar patins de 4 rodas pela primeira vez.",
+        "price": 6.0
+      },
+      {
+        "line": 732,
+        "text": "Mais popular 2 horas €12 Ideal para a Barceloneta, o Port Olímpic e o Parc de la Ciutadella ao teu ritmo.",
+        "price": 12.0
+      },
+      {
+        "line": 738,
+        "text": "3 horas €15 A melhor opção para percursos mais longos junto à praia e passeios tranquilos pelo parque.",
+        "price": 15.0
+      },
+      {
+        "line": 743,
+        "text": "Dia completo €18 Desfruta de um dia completo com patins clássicos e devolução flexível no mesmo dia.",
+        "price": 18.0
+      },
+      {
+        "line": 748,
+        "text": "24 horas €20 Recolha hoje e devolve amanhã para prolongar o tempo de patinagem até ao dia seguinte.",
+        "price": 20.0
+      },
+      {
+        "line": 753,
+        "text": "Dia extra €10 Prolonga o aluguer por mais um dia com uma tarifa reduzida.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 939,
+        "text": "1 hora€6",
+        "price": 6.0
+      },
+      {
+        "line": 939,
+        "text": "2 horas€12",
+        "price": 12.0
+      },
+      {
+        "line": 939,
+        "text": "3 horas€15",
+        "price": 15.0
+      },
+      {
+        "line": 939,
+        "text": "Dia completo€18",
+        "price": 18.0
+      },
+      {
+        "line": 939,
+        "text": "24 horas€20",
+        "price": 20.0
+      },
+      {
+        "line": 939,
+        "text": "Dia extra€10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Aluguer de patins de 4 rodas 1 hora",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/pt/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Aluguer de patins de 4 rodas 2 horas",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/pt/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Aluguer de patins de 4 rodas 3 horas",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/pt/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Aluguer de patins de 4 rodas dia completo",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/pt/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Aluguer de patins de 4 rodas 24 horas",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/pt/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Aluguer de patins de 4 rodas dia extra",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/pt/quads/"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 729,
+        "text": "€6"
+      },
+      {
+        "line": 735,
+        "text": "€12"
+      },
+      {
+        "line": 740,
+        "text": "€15"
+      },
+      {
+        "line": 745,
+        "text": "€18"
+      },
+      {
+        "line": 750,
+        "text": "€20"
+      },
+      {
+        "line": 755,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "06_QUADS",
+    "language": "ca",
+    "cards": [
+      {
+        "line": 710,
+        "text": "1 hora €6 Perfecte per fer una volta ràpida pel passeig marítim o provar patins de 4 rodes per primera vegada.",
+        "price": 6.0
+      },
+      {
+        "line": 715,
+        "text": "Més popular 2 hores €12 Ideal per recórrer la Barceloneta, el Port Olímpic i el Parc de la Ciutadella al teu ritme.",
+        "price": 12.0
+      },
+      {
+        "line": 721,
+        "text": "3 hores €15 La millor opció per a rutes més llargues vora la platja i passejos tranquils pel parc.",
+        "price": 15.0
+      },
+      {
+        "line": 726,
+        "text": "Dia complet €18 Gaudeix d’un dia complet amb patins clàssics.",
+        "price": 18.0
+      },
+      {
+        "line": 731,
+        "text": "24 hores €20 Recull-los avui i torna’ls demà per allargar el temps de patinatge fins l’endemà.",
+        "price": 20.0
+      },
+      {
+        "line": 736,
+        "text": "Dia extra €10 Allarga el lloguer un dia més amb una tarifa reduïda.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 923,
+        "text": "1 hora€6",
+        "price": 6.0
+      },
+      {
+        "line": 923,
+        "text": "2 hores€12",
+        "price": 12.0
+      },
+      {
+        "line": 923,
+        "text": "3 hores€15",
+        "price": 15.0
+      },
+      {
+        "line": 923,
+        "text": "Dia complet€18",
+        "price": 18.0
+      },
+      {
+        "line": 923,
+        "text": "24 hores€20",
+        "price": 20.0
+      },
+      {
+        "line": 923,
+        "text": "Dia extra€10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Lloguer de patins de 4 rodes 1 hora",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/cat/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Lloguer de patins de 4 rodes 2 hores",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/cat/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Lloguer de patins de 4 rodes 3 hores",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/cat/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Lloguer de patins de 4 rodes dia complet",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/cat/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Lloguer de patins de 4 rodes 24 hores",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/cat/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Lloguer de patins de 4 rodes dia extra",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/cat/quads/"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 712,
+        "text": "€6"
+      },
+      {
+        "line": 718,
+        "text": "€12"
+      },
+      {
+        "line": 723,
+        "text": "€15"
+      },
+      {
+        "line": 728,
+        "text": "€18"
+      },
+      {
+        "line": 733,
+        "text": "€20"
+      },
+      {
+        "line": 738,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "06_QUADS",
+    "language": "sv",
+    "cards": [
+      {
+        "line": 723,
+        "text": "1 timme €6 Perfekt för en kort tur längs havet eller för att prova quad skates för första gången.",
+        "price": 6.0
+      },
+      {
+        "line": 728,
+        "text": "Mest populärt 2 timmar €12 Perfekt för Barceloneta, Port Olímpic och Parc de la Ciutadella i din egen takt.",
+        "price": 12.0
+      },
+      {
+        "line": 734,
+        "text": "3 timmar €15 Bäst för längre strandrutter och lugn åkning genom parken.",
+        "price": 15.0
+      },
+      {
+        "line": 739,
+        "text": "Heldag €18 Njut av en hel dag med klassiska rullskridskor och flexibel återlämning samma dag.",
+        "price": 18.0
+      },
+      {
+        "line": 744,
+        "text": "24 timmar €20 Hämta idag och lämna tillbaka imorgon för att förlänga åktiden till nästa dag.",
+        "price": 20.0
+      },
+      {
+        "line": 749,
+        "text": "Extra dag €10 Förläng hyran med en extra dag till ett lägre pris.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 937,
+        "text": "1 timme€6",
+        "price": 6.0
+      },
+      {
+        "line": 937,
+        "text": "2 timmar€12",
+        "price": 12.0
+      },
+      {
+        "line": 937,
+        "text": "3 timmar€15",
+        "price": 15.0
+      },
+      {
+        "line": 937,
+        "text": "Heldag€18",
+        "price": 18.0
+      },
+      {
+        "line": 937,
+        "text": "24 timmar€20",
+        "price": 20.0
+      },
+      {
+        "line": 937,
+        "text": "Extra dag€10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Hyra rullskridskor 1 timme",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/sv/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Hyra rullskridskor 2 timmar",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/sv/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Hyra rullskridskor 3 timmar",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/sv/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Hyra rullskridskor heldag",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/sv/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Hyra rullskridskor 24 timmar",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/sv/quads/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Hyra rullskridskor extra dag",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/sv/quads/"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 725,
+        "text": "€6"
+      },
+      {
+        "line": 731,
+        "text": "€12"
+      },
+      {
+        "line": 736,
+        "text": "€15"
+      },
+      {
+        "line": 741,
+        "text": "€18"
+      },
+      {
+        "line": 746,
+        "text": "€20"
+      },
+      {
+        "line": 751,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "06_QUADS",
+    "language": "pl",
+    "cards": [
+      {
+        "line": 779,
+        "text": "1 godzina €6 Idealne na krótką przejażdżkę nad morzem albo pierwszą próbę jazdy na wrotkach.",
+        "price": 6.0
+      },
+      {
+        "line": 784,
+        "text": "Najpopularniejsze 2 godziny €12 Idealne do odkrywania Barceloneta, Port Olímpic i parku Ciutadella we własnym tempie.",
+        "price": 12.0
+      },
+      {
+        "line": 790,
+        "text": "3 godziny €15 Najlepsze na dłuższe trasy przy plaży i spokojną jazdę przez park.",
+        "price": 15.0
+      },
+      {
+        "line": 795,
+        "text": "Cały dzień €18 Ciesz się całym dniem jazdy na klasycznych wrotkach z elastycznym zwrotem tego samego dnia.",
+        "price": 18.0
+      },
+      {
+        "line": 800,
+        "text": "24 godziny €20 Odbierz dziś i zwróć jutro, aby przedłużyć czas jazdy do następnego dnia.",
+        "price": 20.0
+      },
+      {
+        "line": 805,
+        "text": "Dodatkowy dzień €10 Przedłuż wynajem o jeszcze jeden dzień w niższej cenie.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 991,
+        "text": "1 godzina€6",
+        "price": 6.0
+      },
+      {
+        "line": 991,
+        "text": "2 godziny€12",
+        "price": 12.0
+      },
+      {
+        "line": 991,
+        "text": "3 godziny€15",
+        "price": 15.0
+      },
+      {
+        "line": 991,
+        "text": "Cały dzień€18",
+        "price": 18.0
+      },
+      {
+        "line": 991,
+        "text": "24 godziny€20",
+        "price": 20.0
+      },
+      {
+        "line": 991,
+        "text": "Dodatkowy dzień€10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Wynajem wrotek 1 godzina",
+        "url": "https://rentalscooterbarcelona.com/pl/quads/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Wynajem wrotek 2 godziny",
+        "url": "https://rentalscooterbarcelona.com/pl/quads/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Wynajem wrotek 3 godziny",
+        "url": "https://rentalscooterbarcelona.com/pl/quads/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Całodniowy wynajem wrotek",
+        "url": "https://rentalscooterbarcelona.com/pl/quads/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Wynajem wrotek 24 godziny",
+        "url": "https://rentalscooterbarcelona.com/pl/quads/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Dodatkowy dzień wynajmu wrotek",
+        "url": "https://rentalscooterbarcelona.com/pl/quads/",
+        "availability": "https://schema.org/InStock"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 781,
+        "text": "€6"
+      },
+      {
+        "line": 787,
+        "text": "€12"
+      },
+      {
+        "line": 792,
+        "text": "€15"
+      },
+      {
+        "line": 797,
+        "text": "€18"
+      },
+      {
+        "line": 802,
+        "text": "€20"
+      },
+      {
+        "line": 807,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "07_SKATEBOARD",
+    "language": "en",
+    "cards": [
+      {
+        "line": 757,
+        "text": "1 hour €6 Perfect for a quick roll by the beach or trying a skateboard for the first time.",
+        "price": 6.0
+      },
+      {
+        "line": 762,
+        "text": "Most popular 2 hours €12 Ideal for a longer beachfront ride, Port Olímpic and open areas near Ciutadella Park.",
+        "price": 12.0
+      },
+      {
+        "line": 768,
+        "text": "3 hours €15 Best for combining coastal cruising with extra time to stop at local skate spots.",
+        "price": 15.0
+      },
+      {
+        "line": 773,
+        "text": "Full day €18 Enjoy a full day of cruising, exploring and stopping wherever the route feels right.",
+        "price": 18.0
+      },
+      {
+        "line": 778,
+        "text": "24 hours €20 Pick up today and return tomorrow to make the most of your Barcelona visit on a board.",
+        "price": 20.0
+      },
+      {
+        "line": 783,
+        "text": "Extra day €10 Extend your skateboard rental for another day at a reduced rate.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 971,
+        "text": "1 hour €6",
+        "price": 6.0
+      },
+      {
+        "line": 975,
+        "text": "2 hours €12",
+        "price": 12.0
+      },
+      {
+        "line": 979,
+        "text": "3 hours €15",
+        "price": 15.0
+      },
+      {
+        "line": 983,
+        "text": "Full day €18",
+        "price": 18.0
+      },
+      {
+        "line": 987,
+        "text": "24 hours €20",
+        "price": 20.0
+      },
+      {
+        "line": 991,
+        "text": "Extra day €10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Skateboard rental 1 hour",
+        "url": "https://rentalscooterbarcelona.com/skateboard/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Skateboard rental 2 hours",
+        "url": "https://rentalscooterbarcelona.com/skateboard/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Skateboard rental 3 hours",
+        "url": "https://rentalscooterbarcelona.com/skateboard/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Skateboard rental full day",
+        "url": "https://rentalscooterbarcelona.com/skateboard/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Skateboard rental 24 hours",
+        "url": "https://rentalscooterbarcelona.com/skateboard/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Skateboard rental extra day",
+        "url": "https://rentalscooterbarcelona.com/skateboard/",
+        "availability": "https://schema.org/InStock"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 759,
+        "text": "€6"
+      },
+      {
+        "line": 765,
+        "text": "€12"
+      },
+      {
+        "line": 770,
+        "text": "€15"
+      },
+      {
+        "line": 775,
+        "text": "€18"
+      },
+      {
+        "line": 780,
+        "text": "€20"
+      },
+      {
+        "line": 785,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "07_SKATEBOARD",
+    "language": "es",
+    "cards": [
+      {
+        "line": 751,
+        "text": "1 hora €6 Perfecto para una vuelta rápida por la playa o para probar un skateboard por primera vez.",
+        "price": 6.0
+      },
+      {
+        "line": 756,
+        "text": "Más popular 2 horas €12 Ideal para una ruta más larga por la playa, el Port Olímpic y zonas abiertas cerca del Parc de la Ciutadella.",
+        "price": 12.0
+      },
+      {
+        "line": 762,
+        "text": "3 horas €15 La mejor opción para combinar paseo junto al mar con tiempo extra para parar en zonas locales de skate.",
+        "price": 15.0
+      },
+      {
+        "line": 767,
+        "text": "Día completo €18 Disfruta de un día completo para rodar, explorar y parar donde te apetezca.",
+        "price": 18.0
+      },
+      {
+        "line": 772,
+        "text": "24 horas €20 Recoge hoy y devuelve mañana para aprovechar Barcelona sobre una tabla.",
+        "price": 20.0
+      },
+      {
+        "line": 777,
+        "text": "Día extra €10 Amplía tu alquiler de skateboard un día más con una tarifa reducida.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 958,
+        "text": "1 hora €6",
+        "price": 6.0
+      },
+      {
+        "line": 962,
+        "text": "2 horas €12",
+        "price": 12.0
+      },
+      {
+        "line": 966,
+        "text": "3 horas €15",
+        "price": 15.0
+      },
+      {
+        "line": 970,
+        "text": "Día completo €18",
+        "price": 18.0
+      },
+      {
+        "line": 974,
+        "text": "24 horas €20",
+        "price": 20.0
+      },
+      {
+        "line": 978,
+        "text": "Día extra €10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Alquiler de skateboard 1 hora",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/es/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Alquiler de skateboard 2 horas",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/es/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Alquiler de skateboard 3 horas",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/es/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Alquiler de skateboard día completo",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/es/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Alquiler de skateboard 24 horas",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/es/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Alquiler de skateboard día extra",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/es/skateboard/"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 753,
+        "text": "€6"
+      },
+      {
+        "line": 759,
+        "text": "€12"
+      },
+      {
+        "line": 764,
+        "text": "€15"
+      },
+      {
+        "line": 769,
+        "text": "€18"
+      },
+      {
+        "line": 774,
+        "text": "€20"
+      },
+      {
+        "line": 779,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "07_SKATEBOARD",
+    "language": "fr",
+    "cards": [
+      {
+        "line": 690,
+        "text": "1 heure €6 Parfait pour une petite balade près de la plage ou pour essayer un skateboard pour la première fois.",
+        "price": 6.0
+      },
+      {
+        "line": 695,
+        "text": "Le plus populaire 2 heures €12 Idéal pour une balade plus longue en bord de mer, le Port Olímpic et les espaces ouverts près du parc de la Ciutadella.",
+        "price": 12.0
+      },
+      {
+        "line": 701,
+        "text": "3 heures €15 Le meilleur choix pour combiner balade côtière et pauses dans des spots de skate locaux.",
+        "price": 15.0
+      },
+      {
+        "line": 706,
+        "text": "Journée complète €18 Profitez d’une journée complète pour rouler, explorer et vous arrêter où vous voulez.",
+        "price": 18.0
+      },
+      {
+        "line": 711,
+        "text": "24 heures €20 Retirez aujourd’hui et retournez demain pour profiter de Barcelone sur une planche.",
+        "price": 20.0
+      },
+      {
+        "line": 716,
+        "text": "Jour supplémentaire €10 Prolongez votre location de skateboard d’une journée à tarif réduit.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 901,
+        "text": "1 heure €6",
+        "price": 6.0
+      },
+      {
+        "line": 905,
+        "text": "2 heures €12",
+        "price": 12.0
+      },
+      {
+        "line": 909,
+        "text": "3 heures €15",
+        "price": 15.0
+      },
+      {
+        "line": 913,
+        "text": "Journée complète €18",
+        "price": 18.0
+      },
+      {
+        "line": 917,
+        "text": "24 heures €20",
+        "price": 20.0
+      },
+      {
+        "line": 921,
+        "text": "Jour supplémentaire €10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Location de skateboard 1 heure",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/fr/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Location de skateboard 2 heures",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/fr/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Location de skateboard 3 heures",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/fr/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Location de skateboard journée complète",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/fr/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Location de skateboard 24 heures",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/fr/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Location de skateboard journée supplémentaire",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/fr/skateboard/"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 692,
+        "text": "€6"
+      },
+      {
+        "line": 698,
+        "text": "€12"
+      },
+      {
+        "line": 703,
+        "text": "€15"
+      },
+      {
+        "line": 708,
+        "text": "€18"
+      },
+      {
+        "line": 713,
+        "text": "€20"
+      },
+      {
+        "line": 718,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "07_SKATEBOARD",
+    "language": "it",
+    "cards": [
+      {
+        "line": 695,
+        "text": "1 ora €6 Perfetto per un giro veloce vicino alla spiaggia o per provare uno skateboard per la prima volta.",
+        "price": 6.0
+      },
+      {
+        "line": 700,
+        "text": "Più richiesto 2 ore €12 Ideale per un giro più lungo sul lungomare, al Port Olímpic e negli spazi aperti vicino al Parc de la Ciutadella.",
+        "price": 12.0
+      },
+      {
+        "line": 706,
+        "text": "3 ore €15 La scelta migliore per combinare cruising sulla costa e tempo extra per fermarsi negli spot locali.",
+        "price": 15.0
+      },
+      {
+        "line": 711,
+        "text": "Giornata intera €18 Goditi un’intera giornata di cruising, esplorazione e soste dove preferisci.",
+        "price": 18.0
+      },
+      {
+        "line": 716,
+        "text": "24 ore €20 Ritira oggi e restituisci domani per goderti Barcellona sulla tavola.",
+        "price": 20.0
+      },
+      {
+        "line": 721,
+        "text": "Giorno extra €10 Estendi il noleggio dello skateboard per un altro giorno a tariffa ridotta.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 906,
+        "text": "1 ora €6",
+        "price": 6.0
+      },
+      {
+        "line": 910,
+        "text": "2 ore €12",
+        "price": 12.0
+      },
+      {
+        "line": 914,
+        "text": "3 ore €15",
+        "price": 15.0
+      },
+      {
+        "line": 918,
+        "text": "Giornata intera €18",
+        "price": 18.0
+      },
+      {
+        "line": 922,
+        "text": "24 ore €20",
+        "price": 20.0
+      },
+      {
+        "line": 926,
+        "text": "Giorno extra €10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Noleggio skateboard 1 ora",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/it/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Noleggio skateboard 2 ore",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/it/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Noleggio skateboard 3 ore",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/it/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Noleggio skateboard giornata intera",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/it/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Noleggio skateboard 24 ore",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/it/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Noleggio skateboard giorno extra",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/it/skateboard/"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 697,
+        "text": "€6"
+      },
+      {
+        "line": 703,
+        "text": "€12"
+      },
+      {
+        "line": 708,
+        "text": "€15"
+      },
+      {
+        "line": 713,
+        "text": "€18"
+      },
+      {
+        "line": 718,
+        "text": "€20"
+      },
+      {
+        "line": 723,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "07_SKATEBOARD",
+    "language": "de",
+    "cards": [
+      {
+        "line": 697,
+        "text": "1 Stunde €6 Perfekt für eine kurze Runde am Strand oder um zum ersten Mal ein Skateboard auszuprobieren.",
+        "price": 6.0
+      },
+      {
+        "line": 702,
+        "text": "Am beliebtesten 2 Stunden €12 Ideal für eine längere Fahrt am Strand, Port Olímpic und offene Bereiche nahe dem Parc de la Ciutadella.",
+        "price": 12.0
+      },
+      {
+        "line": 708,
+        "text": "3 Stunden €15 Am besten, wenn du Küstencruising mit zusätzlichen Stopps an geeigneten Bereichen zum Skaten verbinden möchtest.",
+        "price": 15.0
+      },
+      {
+        "line": 713,
+        "text": "Ganzer Tag €18 Genieße einen ganzen Tag zum Cruisen, Erkunden und Stoppen, wo es dir gefällt.",
+        "price": 18.0
+      },
+      {
+        "line": 718,
+        "text": "24 Stunden €20 Heute abholen und morgen zurückbringen, um Barcelona auf dem Board voll auszunutzen.",
+        "price": 20.0
+      },
+      {
+        "line": 723,
+        "text": "Zusatztag €10 Verlängere deine Skateboard-Miete um einen weiteren Tag zum reduzierten Preis.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 932,
+        "text": "1 Stunde €6",
+        "price": 6.0
+      },
+      {
+        "line": 936,
+        "text": "2 Stunden €12",
+        "price": 12.0
+      },
+      {
+        "line": 940,
+        "text": "3 Stunden €15",
+        "price": 15.0
+      },
+      {
+        "line": 944,
+        "text": "Ganzer Tag €18",
+        "price": 18.0
+      },
+      {
+        "line": 948,
+        "text": "24 Stunden €20",
+        "price": 20.0
+      },
+      {
+        "line": 952,
+        "text": "Zusatztag €10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Skateboard-Verleih 1 Stunde",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/de/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Skateboard-Verleih 2 Stunden",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/de/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Skateboard-Verleih 3 Stunden",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/de/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Skateboard-Verleih ganzer Tag",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/de/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Skateboard-Verleih 24 Stunden",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/de/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Skateboard-Verleih Zusatztag",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/de/skateboard/"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 699,
+        "text": "€6"
+      },
+      {
+        "line": 705,
+        "text": "€12"
+      },
+      {
+        "line": 710,
+        "text": "€15"
+      },
+      {
+        "line": 715,
+        "text": "€18"
+      },
+      {
+        "line": 720,
+        "text": "€20"
+      },
+      {
+        "line": 725,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "07_SKATEBOARD",
+    "language": "nl",
+    "cards": [
+      {
+        "line": 706,
+        "text": "1 uur €6 Perfect voor een korte rit bij het strand of om voor het eerst een skateboard te proberen.",
+        "price": 6.0
+      },
+      {
+        "line": 711,
+        "text": "Meest populair 2 uur €12 Ideaal voor een langere rit langs het strand, Port Olímpic en open ruimtes bij Parc de la Ciutadella.",
+        "price": 12.0
+      },
+      {
+        "line": 717,
+        "text": "3 uur €15 Beste keuze om cruisen langs de kust te combineren met extra tijd bij lokale skateplekken.",
+        "price": 15.0
+      },
+      {
+        "line": 722,
+        "text": "Hele dag €18 Geniet van een hele dag cruisen, ontdekken en stoppen waar je wilt.",
+        "price": 18.0
+      },
+      {
+        "line": 727,
+        "text": "24 uur €20 Vandaag ophalen en morgen terugbrengen om Barcelona optimaal op een board te beleven.",
+        "price": 20.0
+      },
+      {
+        "line": 732,
+        "text": "Extra dag €10 Verleng je skateboardhuur met een extra dag tegen een lager tarief.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 941,
+        "text": "1 uur €6",
+        "price": 6.0
+      },
+      {
+        "line": 945,
+        "text": "2 uur €12",
+        "price": 12.0
+      },
+      {
+        "line": 949,
+        "text": "3 uur €15",
+        "price": 15.0
+      },
+      {
+        "line": 953,
+        "text": "Hele dag €18",
+        "price": 18.0
+      },
+      {
+        "line": 957,
+        "text": "24 uur €20",
+        "price": 20.0
+      },
+      {
+        "line": 961,
+        "text": "Extra dag €10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Skateboard huren 1 uur",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/nl/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Skateboard huren 2 uur",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/nl/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Skateboard huren 3 uur",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/nl/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Skateboard huren hele dag",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/nl/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Skateboard huren 24 uur",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/nl/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Skateboard huren extra dag",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/nl/skateboard/"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 708,
+        "text": "€6"
+      },
+      {
+        "line": 714,
+        "text": "€12"
+      },
+      {
+        "line": 719,
+        "text": "€15"
+      },
+      {
+        "line": 724,
+        "text": "€18"
+      },
+      {
+        "line": 729,
+        "text": "€20"
+      },
+      {
+        "line": 734,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "07_SKATEBOARD",
+    "language": "pt",
+    "cards": [
+      {
+        "line": 712,
+        "text": "1 hora €6 Perfeito para uma volta rápida junto à praia ou para experimentar um skateboard pela primeira vez.",
+        "price": 6.0
+      },
+      {
+        "line": 717,
+        "text": "Mais popular 2 horas €12 Ideal para um passeio mais longo junto à praia, Port Olímpic e espaços abertos perto do Parc de la Ciutadella.",
+        "price": 12.0
+      },
+      {
+        "line": 723,
+        "text": "3 horas €15 A melhor opção para combinar cruising junto à costa com tempo extra para parar em spots locais de skate.",
+        "price": 15.0
+      },
+      {
+        "line": 728,
+        "text": "Dia completo €18 Desfruta de um dia completo para andar, explorar e parar onde quiseres.",
+        "price": 18.0
+      },
+      {
+        "line": 733,
+        "text": "24 horas €20 Levanta hoje e devolve amanhã para aproveitar Barcelona sobre uma tábua.",
+        "price": 20.0
+      },
+      {
+        "line": 738,
+        "text": "Dia extra €10 Prolonga o teu aluguer de skateboard por mais um dia com tarifa reduzida.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 929,
+        "text": "1 hora €6",
+        "price": 6.0
+      },
+      {
+        "line": 933,
+        "text": "2 horas €12",
+        "price": 12.0
+      },
+      {
+        "line": 937,
+        "text": "3 horas €15",
+        "price": 15.0
+      },
+      {
+        "line": 941,
+        "text": "Dia completo €18",
+        "price": 18.0
+      },
+      {
+        "line": 945,
+        "text": "24 horas €20",
+        "price": 20.0
+      },
+      {
+        "line": 949,
+        "text": "Dia extra €10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Aluguer de skateboard 1 hora",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/pt/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Aluguer de skateboard 2 horas",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/pt/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Aluguer de skateboard 3 horas",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/pt/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Aluguer de skateboard dia completo",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/pt/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Aluguer de skateboard 24 horas",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/pt/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Aluguer de skateboard dia extra",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/pt/skateboard/"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 714,
+        "text": "€6"
+      },
+      {
+        "line": 720,
+        "text": "€12"
+      },
+      {
+        "line": 725,
+        "text": "€15"
+      },
+      {
+        "line": 730,
+        "text": "€18"
+      },
+      {
+        "line": 735,
+        "text": "€20"
+      },
+      {
+        "line": 740,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "07_SKATEBOARD",
+    "language": "ca",
+    "cards": [
+      {
+        "line": 695,
+        "text": "1 hora €6 Perfecte per fer una volta ràpida per la platja o provar un skateboard per primera vegada.",
+        "price": 6.0
+      },
+      {
+        "line": 700,
+        "text": "Més popular 2 hores €12 Ideal per a una ruta més llarga pel front marítim, el Port Olímpic i espais oberts prop del Parc de la Ciutadella.",
+        "price": 12.0
+      },
+      {
+        "line": 706,
+        "text": "3 hores €15 La millor opció per combinar una ruta vora el mar amb temps extra per parar en zones locals de skate.",
+        "price": 15.0
+      },
+      {
+        "line": 711,
+        "text": "Dia complet €18 Gaudeix d’un dia complet per rodar, explorar i parar on et vingui de gust.",
+        "price": 18.0
+      },
+      {
+        "line": 716,
+        "text": "24 hores €20 Recull avui i torna demà per aprofitar Barcelona sobre una taula.",
+        "price": 20.0
+      },
+      {
+        "line": 721,
+        "text": "Dia extra €10 Allarga el teu lloguer de skateboard un dia més amb una tarifa reduïda.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 913,
+        "text": "1 hora €6",
+        "price": 6.0
+      },
+      {
+        "line": 917,
+        "text": "2 hores €12",
+        "price": 12.0
+      },
+      {
+        "line": 921,
+        "text": "3 hores €15",
+        "price": 15.0
+      },
+      {
+        "line": 925,
+        "text": "Dia complet €18",
+        "price": 18.0
+      },
+      {
+        "line": 929,
+        "text": "24 hores €20",
+        "price": 20.0
+      },
+      {
+        "line": 933,
+        "text": "Dia extra €10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Lloguer de skateboard 1 hora",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/cat/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Lloguer de skateboard 2 hores",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/cat/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Lloguer de skateboard 3 hores",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/cat/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Lloguer de skateboard dia complet",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/cat/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Lloguer de skateboard 24 hores",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/cat/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Lloguer de skateboard dia extra",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/cat/skateboard/"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 697,
+        "text": "€6"
+      },
+      {
+        "line": 703,
+        "text": "€12"
+      },
+      {
+        "line": 708,
+        "text": "€15"
+      },
+      {
+        "line": 713,
+        "text": "€18"
+      },
+      {
+        "line": 718,
+        "text": "€20"
+      },
+      {
+        "line": 723,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "07_SKATEBOARD",
+    "language": "sv",
+    "cards": [
+      {
+        "line": 708,
+        "text": "1 timme €6 Perfekt för en snabb tur vid stranden eller för att prova skateboard för första gången.",
+        "price": 6.0
+      },
+      {
+        "line": 713,
+        "text": "Mest populär 2 timmar €12 Perfekt för en längre tur längs stranden, Port Olímpic och öppna ytor nära Parc de la Ciutadella.",
+        "price": 12.0
+      },
+      {
+        "line": 719,
+        "text": "3 timmar €15 Bäst om du vill kombinera turer längs kusten med extra tid vid lokala platser för skateboardåkning.",
+        "price": 15.0
+      },
+      {
+        "line": 724,
+        "text": "Heldag €18 Njut av en hel dag med åkning, upptäckter och stopp där det passar.",
+        "price": 18.0
+      },
+      {
+        "line": 729,
+        "text": "24 timmar €20 Hämta idag och lämna tillbaka imorgon för att få ut mer av Barcelona på bräda.",
+        "price": 20.0
+      },
+      {
+        "line": 734,
+        "text": "Extra dag €10 Förläng din skateboardhyra ytterligare en dag till reducerat pris.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 927,
+        "text": "1 timme €6",
+        "price": 6.0
+      },
+      {
+        "line": 931,
+        "text": "2 timmar €12",
+        "price": 12.0
+      },
+      {
+        "line": 935,
+        "text": "3 timmar €15",
+        "price": 15.0
+      },
+      {
+        "line": 939,
+        "text": "Heldag €18",
+        "price": 18.0
+      },
+      {
+        "line": 943,
+        "text": "24 timmar €20",
+        "price": 20.0
+      },
+      {
+        "line": 947,
+        "text": "Extra dag €10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Hyra skateboard 1 timme",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/sv/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Hyra skateboard 2 timmar",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/sv/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Hyra skateboard 3 timmar",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/sv/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Hyra skateboard heldag",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/sv/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Hyra skateboard 24 timmar",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/sv/skateboard/"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Hyra skateboard extra dag",
+        "availability": "https://schema.org/InStock",
+        "url": "https://rentalscooterbarcelona.com/sv/skateboard/"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 710,
+        "text": "€6"
+      },
+      {
+        "line": 716,
+        "text": "€12"
+      },
+      {
+        "line": 721,
+        "text": "€15"
+      },
+      {
+        "line": 726,
+        "text": "€18"
+      },
+      {
+        "line": 731,
+        "text": "€20"
+      },
+      {
+        "line": 736,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "07_SKATEBOARD",
+    "language": "pl",
+    "cards": [
+      {
+        "line": 765,
+        "text": "1 godzina €6 Idealne na krótką przejażdżkę przy plaży albo pierwszą próbę jazdy na deskorolce.",
+        "price": 6.0
+      },
+      {
+        "line": 770,
+        "text": "Najpopularniejsze 2 godziny €12 Idealne na dłuższą jazdę przy plaży, Port Olímpic i otwartych przestrzeniach blisko parku Ciutadella.",
+        "price": 12.0
+      },
+      {
+        "line": 776,
+        "text": "3 godziny €15 Najlepsze do połączenia spokojnej jazdy nad morzem z dodatkowym czasem na lokalne miejsca do jazdy.",
+        "price": 15.0
+      },
+      {
+        "line": 781,
+        "text": "Cały dzień €18 Ciesz się całym dniem spokojnej jazdy, odkrywania okolicy i zatrzymywania się tam, gdzie trasa Ci odpowiada.",
+        "price": 18.0
+      },
+      {
+        "line": 786,
+        "text": "24 godziny €20 Odbierz deskę dziś i zwróć jutro, aby lepiej wykorzystać pobyt w Barcelonie.",
+        "price": 20.0
+      },
+      {
+        "line": 791,
+        "text": "Dodatkowy dzień €10 Przedłuż wynajem deskorolki o kolejny dzień w niższej cenie.",
+        "price": 10.0
+      }
+    ],
+    "accessories": [],
+    "compact": [
+      {
+        "line": 982,
+        "text": "1 godzina €6",
+        "price": 6.0
+      },
+      {
+        "line": 986,
+        "text": "2 godziny €12",
+        "price": 12.0
+      },
+      {
+        "line": 990,
+        "text": "3 godziny €15",
+        "price": 15.0
+      },
+      {
+        "line": 994,
+        "text": "Cały dzień €18",
+        "price": 18.0
+      },
+      {
+        "line": 998,
+        "text": "24 godziny €20",
+        "price": 20.0
+      },
+      {
+        "line": 1002,
+        "text": "Dodatkowy dzień €10",
+        "price": 10.0
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "6",
+        "name": "Wynajem deskorolek 1 godzina",
+        "url": "https://rentalscooterbarcelona.com/pl/skateboard/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "12",
+        "name": "Wynajem deskorolek 2 godziny",
+        "url": "https://rentalscooterbarcelona.com/pl/skateboard/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "15",
+        "name": "Wynajem deskorolek 3 godziny",
+        "url": "https://rentalscooterbarcelona.com/pl/skateboard/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "18",
+        "name": "Całodniowy wynajem deskorolek",
+        "url": "https://rentalscooterbarcelona.com/pl/skateboard/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "20",
+        "name": "Wynajem deskorolek 24 godziny",
+        "url": "https://rentalscooterbarcelona.com/pl/skateboard/",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut",
+        "priceCurrency": "EUR",
+        "price": "10",
+        "name": "Dodatkowy dzień wynajmu deskorolek",
+        "url": "https://rentalscooterbarcelona.com/pl/skateboard/",
+        "availability": "https://schema.org/InStock"
+      }
+    ],
+    "money_paragraphs": [
+      {
+        "line": 767,
+        "text": "€6"
+      },
+      {
+        "line": 773,
+        "text": "€12"
+      },
+      {
+        "line": 778,
+        "text": "€15"
+      },
+      {
+        "line": 783,
+        "text": "€18"
+      },
+      {
+        "line": 788,
+        "text": "€20"
+      },
+      {
+        "line": 793,
+        "text": "€10"
+      }
+    ],
+    "comparisons": [
+      {
+        "test": "all_card_prices_match_same_group_EN_or_inline_service_context",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      },
+      {
+        "test": "offer_prices_match_cards",
+        "pass": true
+      },
+      {
+        "test": "compact_matches_cards",
+        "actual": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "expected": [
+          6.0,
+          12.0,
+          15.0,
+          18.0,
+          20.0,
+          10.0
+        ],
+        "pass": true
+      }
+    ]
+  },
+  {
+    "group": "09_LOCATION_CONTACT",
+    "language": "en",
+    "cards": [],
+    "accessories": [],
+    "compact": [],
+    "offers": [],
+    "money_paragraphs": [],
+    "comparisons": []
+  },
+  {
+    "group": "09_LOCATION_CONTACT",
+    "language": "es",
+    "cards": [],
+    "accessories": [],
+    "compact": [],
+    "offers": [],
+    "money_paragraphs": [],
+    "comparisons": []
+  },
+  {
+    "group": "09_LOCATION_CONTACT",
+    "language": "fr",
+    "cards": [],
+    "accessories": [],
+    "compact": [],
+    "offers": [],
+    "money_paragraphs": [],
+    "comparisons": []
+  },
+  {
+    "group": "09_LOCATION_CONTACT",
+    "language": "it",
+    "cards": [],
+    "accessories": [],
+    "compact": [],
+    "offers": [],
+    "money_paragraphs": [],
+    "comparisons": []
+  },
+  {
+    "group": "09_LOCATION_CONTACT",
+    "language": "de",
+    "cards": [],
+    "accessories": [],
+    "compact": [],
+    "offers": [],
+    "money_paragraphs": [],
+    "comparisons": []
+  },
+  {
+    "group": "09_LOCATION_CONTACT",
+    "language": "nl",
+    "cards": [],
+    "accessories": [],
+    "compact": [],
+    "offers": [],
+    "money_paragraphs": [],
+    "comparisons": []
+  },
+  {
+    "group": "09_LOCATION_CONTACT",
+    "language": "pt",
+    "cards": [],
+    "accessories": [],
+    "compact": [],
+    "offers": [],
+    "money_paragraphs": [],
+    "comparisons": []
+  },
+  {
+    "group": "09_LOCATION_CONTACT",
+    "language": "ca",
+    "cards": [],
+    "accessories": [],
+    "compact": [],
+    "offers": [],
+    "money_paragraphs": [],
+    "comparisons": []
+  },
+  {
+    "group": "09_LOCATION_CONTACT",
+    "language": "sv",
+    "cards": [],
+    "accessories": [],
+    "compact": [],
+    "offers": [],
+    "money_paragraphs": [],
+    "comparisons": []
+  },
+  {
+    "group": "09_LOCATION_CONTACT",
+    "language": "pl",
+    "cards": [],
+    "accessories": [],
+    "compact": [],
+    "offers": [],
+    "money_paragraphs": [],
+    "comparisons": []
+  }
+]

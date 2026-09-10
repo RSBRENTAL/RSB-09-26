@@ -1,0 +1,730 @@
+[
+  {
+    "unified_id": "U03",
+    "group": "04_BIKE",
+    "language": "en",
+    "canonical": "https://rentalscooterbarcelona.com/bike/",
+    "archive_path": "BIKE/bike/index.html",
+    "element": "https://rentalscooterbarcelona.com/bike/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 170,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 556,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "04_BIKE",
+    "language": "es",
+    "canonical": "https://rentalscooterbarcelona.com/es/bike/",
+    "archive_path": "BIKE/es/bike/index.html",
+    "element": "https://rentalscooterbarcelona.com/es/bike/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 167,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 550,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "04_BIKE",
+    "language": "fr",
+    "canonical": "https://rentalscooterbarcelona.com/fr/bike/",
+    "archive_path": "BIKE/fr/bike/index.html",
+    "element": "https://rentalscooterbarcelona.com/fr/bike/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 137,
+        "code": "\"dateModified\": \"2026-07-30\""
+      },
+      {
+        "line": 481,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "04_BIKE",
+    "language": "it",
+    "canonical": "https://rentalscooterbarcelona.com/it/bike/",
+    "archive_path": "BIKE/it/bike/index.html",
+    "element": "https://rentalscooterbarcelona.com/it/bike/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 136,
+        "code": "\"dateModified\": \"2026-07-30\""
+      },
+      {
+        "line": 481,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "04_BIKE",
+    "language": "de",
+    "canonical": "https://rentalscooterbarcelona.com/de/bike/",
+    "archive_path": "BIKE/de/bike/index.html",
+    "element": "https://rentalscooterbarcelona.com/de/bike/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 137,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 489,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "04_BIKE",
+    "language": "nl",
+    "canonical": "https://rentalscooterbarcelona.com/nl/bike/",
+    "archive_path": "BIKE/nl/bike/index.html",
+    "element": "https://rentalscooterbarcelona.com/nl/bike/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 150,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 497,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "04_BIKE",
+    "language": "pt",
+    "canonical": "https://rentalscooterbarcelona.com/pt/bike/",
+    "archive_path": "BIKE/pt/bike/index.html",
+    "element": "https://rentalscooterbarcelona.com/pt/bike/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 150,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 497,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "04_BIKE",
+    "language": "ca",
+    "canonical": "https://rentalscooterbarcelona.com/cat/bike/",
+    "archive_path": "BIKE/cat/bike/index.html",
+    "element": "https://rentalscooterbarcelona.com/cat/bike/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 136,
+        "code": "\"dateModified\": \"2026-07-30\""
+      },
+      {
+        "line": 481,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "04_BIKE",
+    "language": "sv",
+    "canonical": "https://rentalscooterbarcelona.com/sv/bike/",
+    "archive_path": "BIKE/sv/bike/index.html",
+    "element": "https://rentalscooterbarcelona.com/sv/bike/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 150,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 497,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "04_BIKE",
+    "language": "pl",
+    "canonical": "https://rentalscooterbarcelona.com/pl/bike/",
+    "archive_path": "BIKE/pl/bike/index.html",
+    "element": "https://rentalscooterbarcelona.com/pl/bike/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 170,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 556,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "06_QUADS",
+    "language": "en",
+    "canonical": "https://rentalscooterbarcelona.com/quads/",
+    "archive_path": "quads/index.html",
+    "element": "https://rentalscooterbarcelona.com/quads/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 184,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 591,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "06_QUADS",
+    "language": "es",
+    "canonical": "https://rentalscooterbarcelona.com/es/quads/",
+    "archive_path": "es/quads/index.html",
+    "element": "https://rentalscooterbarcelona.com/es/quads/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 180,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 585,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "06_QUADS",
+    "language": "fr",
+    "canonical": "https://rentalscooterbarcelona.com/fr/quads/",
+    "archive_path": "fr/quads/index.html",
+    "element": "https://rentalscooterbarcelona.com/fr/quads/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 151,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 519,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "06_QUADS",
+    "language": "it",
+    "canonical": "https://rentalscooterbarcelona.com/it/quads/",
+    "archive_path": "it/quads/index.html",
+    "element": "https://rentalscooterbarcelona.com/it/quads/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 151,
+        "code": "\"dateModified\": \"2026-07-30\""
+      },
+      {
+        "line": 518,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "06_QUADS",
+    "language": "de",
+    "canonical": "https://rentalscooterbarcelona.com/de/quads/",
+    "archive_path": "de/quads/index.html",
+    "element": "https://rentalscooterbarcelona.com/de/quads/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 152,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 526,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U05",
+    "group": "06_QUADS",
+    "language": "de",
+    "canonical": "https://rentalscooterbarcelona.com/de/quads/",
+    "archive_path": "de/quads/index.html",
+    "element": "Párrafo de enlace a la guía",
+    "current": "Geöffnet von 10:30–13:30 und 16:30–20:00 Uhr. Wir bieten stunden- und tageweise Vermietung. Kinderhelm, Handgelenkschoner, Knieschoner und Ellbogenschoner sind bei jeder Rollschuhmiete inklusive. Die Größen reichen von EU 35 bis 42, und unser lokales Team gibt grundlegende Hinweise sowie Routentipps. Für lokale Routenideen und praktische Tipps kannst du unseren Guide zum Rollschuhe mieten in Barcelona.",
+    "recommended": "Kinderhelm, Handgelenkschoner, Knieschoner und Ellbogenschoner sind bei jeder Rollschuhmiete inklusive. Die Größen reichen von EU 35 bis 42, und unser lokales Team gibt grundlegende Hinweise sowie Routentipps. Für lokale Routenideen und praktische Tipps kannst du unseren <a href=\"https://rentalscooterbarcelona.com/de/blog/roller-skates/\">Guide zum Rollschuhe mieten in Barcelona</a> lesen.</p>",
+    "evidence": [
+      {
+        "line": 809,
+        "code": "Kinderhelm, Handgelenkschoner, Knieschoner und Ellbogenschoner sind bei jeder Rollschuhmiete inklusive. Die Größen reichen von EU 35 bis 42, und unser lokales Team gibt grundlegende Hinweise sowie Routentipps. Für lokale Routenideen und praktische Tipps kannst du unseren <a href=\"https://rentalscooterbarcelona.com/de/blog/roller-skates/\">Guide zum Rollschuhe mieten in Barcelona</a>.</p>"
+      }
+    ],
+    "why": "La construcción modal queda sin infinitivo final.",
+    "impact": "Frase incompleta en alemán/neerlandés.",
+    "expected_edits": "Una inserción de lesen al final del enlace; conservar URL."
+  },
+  {
+    "unified_id": "U03",
+    "group": "06_QUADS",
+    "language": "nl",
+    "canonical": "https://rentalscooterbarcelona.com/nl/quads/",
+    "archive_path": "nl/quads/index.html",
+    "element": "https://rentalscooterbarcelona.com/nl/quads/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 164,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 535,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "06_QUADS",
+    "language": "pt",
+    "canonical": "https://rentalscooterbarcelona.com/pt/quads/",
+    "archive_path": "pt/quads/index.html",
+    "element": "https://rentalscooterbarcelona.com/pt/quads/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 164,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 535,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "06_QUADS",
+    "language": "ca",
+    "canonical": "https://rentalscooterbarcelona.com/cat/quads/",
+    "archive_path": "cat/quads/index.html",
+    "element": "https://rentalscooterbarcelona.com/cat/quads/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 151,
+        "code": "\"dateModified\": \"2026-07-30\""
+      },
+      {
+        "line": 518,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "06_QUADS",
+    "language": "sv",
+    "canonical": "https://rentalscooterbarcelona.com/sv/quads/",
+    "archive_path": "sv/quads/index.html",
+    "element": "https://rentalscooterbarcelona.com/sv/quads/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 164,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 535,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "06_QUADS",
+    "language": "pl",
+    "canonical": "https://rentalscooterbarcelona.com/pl/quads/",
+    "archive_path": "pl/quads/index.html",
+    "element": "https://rentalscooterbarcelona.com/pl/quads/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 184,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 591,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "07_SKATEBOARD",
+    "language": "en",
+    "canonical": "https://rentalscooterbarcelona.com/skateboard/",
+    "archive_path": "skateboard/index.html",
+    "element": "https://rentalscooterbarcelona.com/skateboard/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 169,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 569,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "07_SKATEBOARD",
+    "language": "es",
+    "canonical": "https://rentalscooterbarcelona.com/es/skateboard/",
+    "archive_path": "es/skateboard/index.html",
+    "element": "https://rentalscooterbarcelona.com/es/skateboard/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 166,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 563,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "07_SKATEBOARD",
+    "language": "fr",
+    "canonical": "https://rentalscooterbarcelona.com/fr/skateboard/",
+    "archive_path": "fr/skateboard/index.html",
+    "element": "https://rentalscooterbarcelona.com/fr/skateboard/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 137,
+        "code": "\"dateModified\": \"2026-07-30\""
+      },
+      {
+        "line": 504,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "07_SKATEBOARD",
+    "language": "it",
+    "canonical": "https://rentalscooterbarcelona.com/it/skateboard/",
+    "archive_path": "it/skateboard/index.html",
+    "element": "https://rentalscooterbarcelona.com/it/skateboard/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 136,
+        "code": "\"dateModified\": \"2026-07-30\""
+      },
+      {
+        "line": 503,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "07_SKATEBOARD",
+    "language": "de",
+    "canonical": "https://rentalscooterbarcelona.com/de/skateboard/",
+    "archive_path": "de/skateboard/index.html",
+    "element": "https://rentalscooterbarcelona.com/de/skateboard/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 137,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 511,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "07_SKATEBOARD",
+    "language": "nl",
+    "canonical": "https://rentalscooterbarcelona.com/nl/skateboard/",
+    "archive_path": "nl/skateboard/index.html",
+    "element": "https://rentalscooterbarcelona.com/nl/skateboard/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 150,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 520,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U05",
+    "group": "07_SKATEBOARD",
+    "language": "nl",
+    "canonical": "https://rentalscooterbarcelona.com/nl/skateboard/",
+    "archive_path": "nl/skateboard/index.html",
+    "element": "Párrafo de enlace a la guía",
+    "current": "Elke dag geopend: 10:30–13:30 en 16:30–20:00. We bieden verhuur per uur en per dag. Een kinderhelm is inbegrepen bij elke skateboardhuur en beschermers zijn inbegrepen. Ons lokale team kan je helpen een stabiel board te kiezen, de basis uitleggen en geschikte routes aanbevelen. Voor lokale route-ideeën en praktische tips kun je onze gids voor skateboard huren in Barcelona.",
+    "recommended": "Een kinderhelm is inbegrepen bij elke skateboardhuur en beschermers zijn inbegrepen. Ons lokale team kan je helpen een stabiel board te kiezen, de basis uitleggen en geschikte routes aanbevelen. Voor lokale route-ideeën en praktische tips kun je onze <a href=\"https://rentalscooterbarcelona.com/nl/blog/skateboard/\">gids voor skateboard huren in Barcelona</a> lezen.</p>",
+    "evidence": [
+      {
+        "line": 804,
+        "code": "Een kinderhelm is inbegrepen bij elke skateboardhuur en beschermers zijn inbegrepen. Ons lokale team kan je helpen een stabiel board te kiezen, de basis uitleggen en geschikte routes aanbevelen. Voor lokale route-ideeën en praktische tips kun je onze <a href=\"https://rentalscooterbarcelona.com/nl/blog/skateboard/\">gids voor skateboard huren in Barcelona</a>.</p>"
+      }
+    ],
+    "why": "La construcción modal queda sin infinitivo final.",
+    "impact": "Frase incompleta en alemán/neerlandés.",
+    "expected_edits": "Una inserción de lezen al final del enlace; conservar URL."
+  },
+  {
+    "unified_id": "U03",
+    "group": "07_SKATEBOARD",
+    "language": "pt",
+    "canonical": "https://rentalscooterbarcelona.com/pt/skateboard/",
+    "archive_path": "pt/skateboard/index.html",
+    "element": "https://rentalscooterbarcelona.com/pt/skateboard/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 150,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 520,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "07_SKATEBOARD",
+    "language": "ca",
+    "canonical": "https://rentalscooterbarcelona.com/cat/skateboard/",
+    "archive_path": "cat/skateboard/index.html",
+    "element": "https://rentalscooterbarcelona.com/cat/skateboard/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 136,
+        "code": "\"dateModified\": \"2026-07-30\""
+      },
+      {
+        "line": 503,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "07_SKATEBOARD",
+    "language": "sv",
+    "canonical": "https://rentalscooterbarcelona.com/sv/skateboard/",
+    "archive_path": "sv/skateboard/index.html",
+    "element": "https://rentalscooterbarcelona.com/sv/skateboard/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 150,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 520,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  },
+  {
+    "unified_id": "U03",
+    "group": "07_SKATEBOARD",
+    "language": "pl",
+    "canonical": "https://rentalscooterbarcelona.com/pl/skateboard/",
+    "archive_path": "pl/skateboard/index.html",
+    "element": "https://rentalscooterbarcelona.com/pl/skateboard/#webpage.dateModified",
+    "current": "2026-07-30 / 2026-08-24",
+    "recommended": "Conservar una única fecha real de última modificación, pendiente de registro editorial. No elegir automáticamente la más reciente.",
+    "evidence": [
+      {
+        "line": 169,
+        "code": "\"dateModified\": \"2026-07-30\","
+      },
+      {
+        "line": 577,
+        "code": "\"dateModified\": \"2026-08-24\""
+      }
+    ],
+    "why": "Dos valores de dateModified para la misma entidad WebPage.",
+    "impact": "Ambigüedad temporal del grafo; el JSON sigue siendo válido.",
+    "expected_edits": "Consolidar la propiedad en los dos bloques; fecha real pendiente."
+  }
+]

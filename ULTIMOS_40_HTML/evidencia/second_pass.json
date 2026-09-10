@@ -1,0 +1,1675 @@
+{
+  "utc": "2026-09-09T21:41:23.063726+00:00",
+  "files": [
+    {
+      "group": "04_BIKE",
+      "language": "en",
+      "archive_path": "BIKE/bike/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 17,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/bike/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "04_BIKE",
+      "language": "es",
+      "archive_path": "BIKE/es/bike/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 17,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/es/bike/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "04_BIKE",
+      "language": "fr",
+      "archive_path": "BIKE/fr/bike/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 17,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/fr/bike/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "04_BIKE",
+      "language": "it",
+      "archive_path": "BIKE/it/bike/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 17,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/it/bike/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "04_BIKE",
+      "language": "de",
+      "archive_path": "BIKE/de/bike/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 17,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/de/bike/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "04_BIKE",
+      "language": "nl",
+      "archive_path": "BIKE/nl/bike/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 17,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/nl/bike/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "04_BIKE",
+      "language": "pt",
+      "archive_path": "BIKE/pt/bike/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 17,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/pt/bike/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "04_BIKE",
+      "language": "ca",
+      "archive_path": "BIKE/cat/bike/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 17,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/cat/bike/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "04_BIKE",
+      "language": "sv",
+      "archive_path": "BIKE/sv/bike/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 17,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/sv/bike/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "04_BIKE",
+      "language": "pl",
+      "archive_path": "BIKE/pl/bike/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 17,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/pl/bike/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "06_QUADS",
+      "language": "en",
+      "archive_path": "quads/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/quads/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "06_QUADS",
+      "language": "es",
+      "archive_path": "es/quads/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/es/quads/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "06_QUADS",
+      "language": "fr",
+      "archive_path": "fr/quads/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/fr/quads/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "06_QUADS",
+      "language": "it",
+      "archive_path": "it/quads/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/it/quads/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "06_QUADS",
+      "language": "de",
+      "archive_path": "de/quads/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/de/quads/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "06_QUADS",
+      "language": "nl",
+      "archive_path": "nl/quads/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/nl/quads/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "06_QUADS",
+      "language": "pt",
+      "archive_path": "pt/quads/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/pt/quads/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "06_QUADS",
+      "language": "ca",
+      "archive_path": "cat/quads/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/cat/quads/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "06_QUADS",
+      "language": "sv",
+      "archive_path": "sv/quads/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/sv/quads/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "06_QUADS",
+      "language": "pl",
+      "archive_path": "pl/quads/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/pl/quads/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "07_SKATEBOARD",
+      "language": "en",
+      "archive_path": "skateboard/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 7,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/skateboard/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "07_SKATEBOARD",
+      "language": "es",
+      "archive_path": "es/skateboard/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 7,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/es/skateboard/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "07_SKATEBOARD",
+      "language": "fr",
+      "archive_path": "fr/skateboard/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/fr/skateboard/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "07_SKATEBOARD",
+      "language": "it",
+      "archive_path": "it/skateboard/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/it/skateboard/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "07_SKATEBOARD",
+      "language": "de",
+      "archive_path": "de/skateboard/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/de/skateboard/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "07_SKATEBOARD",
+      "language": "nl",
+      "archive_path": "nl/skateboard/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/nl/skateboard/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "07_SKATEBOARD",
+      "language": "pt",
+      "archive_path": "pt/skateboard/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/pt/skateboard/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "07_SKATEBOARD",
+      "language": "ca",
+      "archive_path": "cat/skateboard/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/cat/skateboard/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "07_SKATEBOARD",
+      "language": "sv",
+      "archive_path": "sv/skateboard/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/sv/skateboard/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "07_SKATEBOARD",
+      "language": "pl",
+      "archive_path": "pl/skateboard/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": false,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 8,
+        "article_count": 15,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/pl/skateboard/#webpage": [
+            "2026-07-30",
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "09_LOCATION_CONTACT",
+      "language": "en",
+      "archive_path": "LOCATION_CONTACT-main/09_LOCATION_CONTACT/location-contact/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": true,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 4,
+        "article_count": 8,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/location-contact/#webpage": [
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "09_LOCATION_CONTACT",
+      "language": "es",
+      "archive_path": "LOCATION_CONTACT-main/09_LOCATION_CONTACT/es/location-contact/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": true,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 4,
+        "article_count": 11,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/es/location-contact/#webpage": [
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "09_LOCATION_CONTACT",
+      "language": "fr",
+      "archive_path": "LOCATION_CONTACT-main/09_LOCATION_CONTACT/fr/location-contact/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": true,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 4,
+        "article_count": 11,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/fr/location-contact/#webpage": [
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "09_LOCATION_CONTACT",
+      "language": "it",
+      "archive_path": "LOCATION_CONTACT-main/09_LOCATION_CONTACT/it/location-contact/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": true,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 4,
+        "article_count": 11,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/it/location-contact/#webpage": [
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "09_LOCATION_CONTACT",
+      "language": "de",
+      "archive_path": "LOCATION_CONTACT-main/09_LOCATION_CONTACT/de/location-contact/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": true,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 4,
+        "article_count": 11,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/de/location-contact/#webpage": [
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "09_LOCATION_CONTACT",
+      "language": "nl",
+      "archive_path": "LOCATION_CONTACT-main/09_LOCATION_CONTACT/nl/location-contact/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": true,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 4,
+        "article_count": 11,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/nl/location-contact/#webpage": [
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "09_LOCATION_CONTACT",
+      "language": "pt",
+      "archive_path": "LOCATION_CONTACT-main/09_LOCATION_CONTACT/pt/location-contact/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": true,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 4,
+        "article_count": 11,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/pt/location-contact/#webpage": [
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "09_LOCATION_CONTACT",
+      "language": "ca",
+      "archive_path": "LOCATION_CONTACT-main/09_LOCATION_CONTACT/cat/location-contact/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": true,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 4,
+        "article_count": 11,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/cat/location-contact/#webpage": [
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "09_LOCATION_CONTACT",
+      "language": "sv",
+      "archive_path": "LOCATION_CONTACT-main/09_LOCATION_CONTACT/sv/location-contact/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": true,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 4,
+        "article_count": 11,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/sv/location-contact/#webpage": [
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    },
+    {
+      "group": "09_LOCATION_CONTACT",
+      "language": "pl",
+      "archive_path": "LOCATION_CONTACT-main/09_LOCATION_CONTACT/pl/location-contact/index.html",
+      "checks": {
+        "original_bytes_match": true,
+        "canonical_own": true,
+        "hreflang_full_reciprocal": true,
+        "og_url_own": true,
+        "no_robot_block": true,
+        "no_duplicate_metadata": true,
+        "all_json_reparsed": true,
+        "global_urls_root": true,
+        "nap_address_exact": true,
+        "name_phone_email": true,
+        "ratings_canonical": true,
+        "hours_canonical": true,
+        "page_id_url_own": true,
+        "one_date_per_entity": true,
+        "no_old_coordinates": true,
+        "map_identifiers": true,
+        "unique_dom_ids": true,
+        "aria_references_resolve": true,
+        "faq_content_matches": true,
+        "article_open_close_dom": true,
+        "fragments_in_scope_resolve": true,
+        "tel_mail_wa_canonical": true,
+        "visible_article_date_matches": true
+      },
+      "facts": {
+        "json_blocks": 2,
+        "faq_count": 4,
+        "article_count": 11,
+        "dateModified_by_id": {
+          "https://rentalscooterbarcelona.com/pl/location-contact/#webpage": [
+            "2026-08-24"
+          ]
+        },
+        "visible_editorial_dates": []
+      }
+    }
+  ]
+}
