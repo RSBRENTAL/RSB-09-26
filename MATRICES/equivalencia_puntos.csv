@@ -1,0 +1,12 @@
+﻿fuente,punto_original,punto_unificado,titulo
+40_HTML,P1,U03,Dos dateModified distintos para la misma WebPage
+40_HTML,P2,U06,Partícula sobrante en la frase alemana de HOME
+40_HTML,P3,U05,Frase sin verbo final en ROLLERBLADES alemán y neerlandés
+40_HTML,P4,U07,Repetición literal en la introducción sueca de ROLLERBLADES
+120_HTML,P1,U01,Coordenadas antiguas en Apple Maps
+120_HTML,P2,U02,Organization.url y WebSite.url localizados en PL
+120_HTML,P3,U03,Dos dateModified para el mismo @id de WebPage
+120_HTML,P4,U04,La fecha visible de actualización difiere de BlogPosting.dateModified
+120_HTML,P5,U05,Frases incompletas de LONGBOARD en alemán y neerlandés
+ULTIMOS_40_HTML,U03,U03,Dos dateModified para la misma WebPage
+ULTIMOS_40_HTML,U05,U05,"Falta el infinitivo en el enlace a la guía, DE/NL"
