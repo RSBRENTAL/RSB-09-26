@@ -1,0 +1,11 @@
+RSB — Auditoría de 40 HTML
+
+Empieza por 00_INFORME_GLOBAL.md.
+01_HOME.md, 02_PRICES.md, 03_SCOOTER.md y 04_ROLLERBLADES.md contienen la auditoría A–W de cada página y sus 10 idiomas.
+matrices/: CSV UTF-8 con BOM, delimitados por coma.
+evidencia/: JSON de extracción y pruebas; no son parches ni HTML corregidos.
+
+Los informes usan rutas y líneas del ZIP original. Las rutas locales de inventario describen el entorno de auditoría, no la ruta pública.
+P1–P4 son errores agrupados; MEJORA/OPCIONAL y NO VERIFICABLE no equivalen a errores.
+price_validation.json contiene 450 comprobaciones booleanas y 6 observaciones de agregados sin resultado booleano; solo las primeras se cuentan como pruebas aprobadas.
+Ningún archivo fuente fue modificado.

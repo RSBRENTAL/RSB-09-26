@@ -1,0 +1,1812 @@
+[
+  {
+    "group": "HOME",
+    "language": "en",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 56,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 692,
+      "alt": "Group enjoying scooter, inline skates and bike rental near Barceloneta Beach and Vila Olímpica in Barcelona",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "HOME",
+    "language": "es",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 59,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, /images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 689,
+      "alt": "Grupo disfrutando del alquiler de scooter, patines en línea y bicicletas cerca de la playa de la Barceloneta y Vila Olímpica en Barcelona",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, /images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "HOME",
+    "language": "fr",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 51,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, /images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 682,
+      "alt": "Groupe profitant de la location de scooter, de rollers et de vélos près de la plage de la Barceloneta et de la Vila Olímpica à Barcelone",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, /images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "HOME",
+    "language": "it",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 52,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, /images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 687,
+      "alt": "Gruppo che si gode il noleggio di scooter, pattini in linea e biciclette vicino alla spiaggia della Barceloneta e a Vila Olímpica, a Barcellona",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, /images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "HOME",
+    "language": "de",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 50,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, /images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 679,
+      "alt": "Gruppe beim Scooter-, Inlineskates- und Fahrradverleih nahe dem Strand von Barceloneta in Barcelona",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, /images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "HOME",
+    "language": "nl",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 59,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, /images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 693,
+      "alt": "Groep die geniet van scooterverhuur, inline skates en fietsen bij het strand van Barceloneta en Vila Olímpica in Barcelona",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, /images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "HOME",
+    "language": "pt",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 59,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, /images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 699,
+      "alt": "Grupo a aproveitar o aluguer de scooter, patins em linha e bicicletas perto da praia da Barceloneta e de Vila Olímpica em Barcelona",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, /images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "HOME",
+    "language": "ca",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 52,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, /images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 687,
+      "alt": "Grup gaudint del lloguer de scooter, patins en línia i bicicletes a prop de la platja de la Barceloneta i de Vila Olímpica a Barcelona",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, /images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "HOME",
+    "language": "sv",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 59,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, /images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 695,
+      "alt": "Grupp som njuter av scooteruthyrning, inlines och cyklar nära Barceloneta-stranden och Vila Olímpica i Barcelona",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, /images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "HOME",
+    "language": "pl",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 47,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, /images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 683,
+      "alt": "Grupa korzystająca z wynajmu skutera, rolek i roweru przy plaży Barceloneta i Vila Olímpica w Barcelonie",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, /images/rsb-barcelona-rental-hero-group-beach-720-v2.webp 720w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "PRICES",
+    "language": "en",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 74,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 1347,
+      "alt": "Group enjoying scooter, bike, inline skates and skateboard and longboard rental on Barceloneta Beach in Barcelona",
+      "class": "hero-photo zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "449",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "800"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "all_price_lines_numeric_match": true
+  },
+  {
+    "group": "PRICES",
+    "language": "es",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 71,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 1344,
+      "alt": "Grupo disfrutando del alquiler de scooter, bicicleta, patines en línea, skateboard y longboard en la playa de la Barceloneta en Barcelona",
+      "class": "hero-photo zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "449",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "800"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "all_price_lines_numeric_match": true
+  },
+  {
+    "group": "PRICES",
+    "language": "fr",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 64,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 1335,
+      "alt": "Groupe profitant de la location de scooter, rollers en ligne, vélos, skateboard et longboard sur la plage de la Barceloneta à Barcelone",
+      "class": "hero-photo zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "449",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "800"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "all_price_lines_numeric_match": true
+  },
+  {
+    "group": "PRICES",
+    "language": "it",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 51,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 1340,
+      "alt": "Gruppo che si gode il noleggio di scooter, biciclette, pattini in linea, skateboard e longboard sulla spiaggia della Barceloneta a Barcellona",
+      "class": "hero-photo zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "449",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "800"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "all_price_lines_numeric_match": true
+  },
+  {
+    "group": "PRICES",
+    "language": "de",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 49,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 1333,
+      "alt": "Gruppe mit Scooter-, Fahrrad-, Inlineskates-, Skateboard- und Longboard-Verleih am Strand der Barceloneta in Barcelona",
+      "class": "hero-photo zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "449",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "800"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "all_price_lines_numeric_match": true
+  },
+  {
+    "group": "PRICES",
+    "language": "nl",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 74,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 1345,
+      "alt": "Groep die geniet van scooter-, fiets-, inline skates-, skateboard- en longboardverhuur op het strand van Barceloneta in Barcelona",
+      "class": "hero-photo zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "449",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "800"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "all_price_lines_numeric_match": true
+  },
+  {
+    "group": "PRICES",
+    "language": "pt",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 74,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 1351,
+      "alt": "Grupo a aproveitar o aluguer de scooter, bicicleta, patins em linha, skateboard e longboard na praia da Barceloneta, em Barcelona",
+      "class": "hero-photo zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "449",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "800"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "all_price_lines_numeric_match": true
+  },
+  {
+    "group": "PRICES",
+    "language": "ca",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 51,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 1340,
+      "alt": "Grup gaudint del lloguer de scooter, bicicleta, patins en línia, skateboard i longboard a la platja de la Barceloneta a Barcelona",
+      "class": "hero-photo zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "449",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "800"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "all_price_lines_numeric_match": true
+  },
+  {
+    "group": "PRICES",
+    "language": "sv",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 74,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 1347,
+      "alt": "Grupp som njuter av scooteruthyrning, cyklar, inlines, skateboard och longboard på Barceloneta-stranden i Barcelona",
+      "class": "hero-photo zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "449",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "800"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "all_price_lines_numeric_match": true
+  },
+  {
+    "group": "PRICES",
+    "language": "pl",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 74,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 1347,
+      "alt": "Grupa korzystająca ze skutera, roweru, rolek, deskorolki i longboardu przy plaży Barceloneta w Barcelonie",
+      "class": "hero-photo zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "449",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-barcelona-rental-hero-group-beach-1600-v1.webp 1600w",
+      "width": "800"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "all_price_lines_numeric_match": true
+  },
+  {
+    "group": "SCOOTER",
+    "language": "en",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 53,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp 1536w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 888,
+      "alt": "Scooter rental in Barcelona near Vila Olímpica and Barceloneta Beach",
+      "class": "service-hero__bg-photo",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "864",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+      "width": "1536"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "SCOOTER",
+    "language": "es",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 52,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp 1536w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 888,
+      "alt": "Alquiler de scooter en Barcelona cerca de Vila Olímpica y la playa de la Barceloneta",
+      "class": "service-hero__bg-photo",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "864",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+      "width": "1536"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "SCOOTER",
+    "language": "fr",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 44,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp 1536w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 781,
+      "alt": "Location de scooter à Barcelone près de Vila Olímpica et de la plage de la Barceloneta",
+      "class": "service-hero__bg-photo",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "864",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+      "width": "1536"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "SCOOTER",
+    "language": "it",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 45,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp 1536w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 786,
+      "alt": "Noleggio scooter a Barcellona vicino a Vila Olímpica e alla spiaggia della Barceloneta",
+      "class": "service-hero__bg-photo",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "864",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+      "width": "1536"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "SCOOTER",
+    "language": "de",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 43,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp 1536w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 827,
+      "alt": "Scooter mieten in Barcelona nahe Vila Olímpica und dem Strand von Barceloneta",
+      "class": "service-hero__bg-photo",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "864",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+      "width": "1536"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "SCOOTER",
+    "language": "nl",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 53,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp 1536w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 836,
+      "alt": "Scooter huren in Barcelona vlak bij Vila Olímpica en het strand van Barceloneta",
+      "class": "service-hero__bg-photo",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "864",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+      "width": "1536"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "SCOOTER",
+    "language": "pt",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 53,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp 1536w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 811,
+      "alt": "Aluguer de scooter em Barcelona perto de Vila Olímpica e da praia da Barceloneta",
+      "class": "service-hero__bg-photo",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "864",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+      "width": "1536"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "SCOOTER",
+    "language": "ca",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 45,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp 1536w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 786,
+      "alt": "Lloguer de scooter a Barcelona a prop de Vila Olímpica i de la platja de la Barceloneta",
+      "class": "service-hero__bg-photo",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "864",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+      "width": "1536"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "SCOOTER",
+    "language": "sv",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 53,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp 1536w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 799,
+      "alt": "Scooteruthyrning i Barcelona nära Vila Olímpica och Barcelonetas strand",
+      "class": "service-hero__bg-photo",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "864",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+      "width": "1536"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "SCOOTER",
+    "language": "pl",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 53,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp 1536w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 855,
+      "alt": "Wynajem skuterów w Barcelonie blisko Vila Olímpica i plaża Barceloneta",
+      "class": "service-hero__bg-photo",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "864",
+      "loading": "eager",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-scooter-rental-barcelona-hero-group-v1-1536.webp",
+      "width": "1536"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": []
+  },
+  {
+    "group": "ROLLERBLADES",
+    "language": "en",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 53,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 786,
+      "alt": "Group enjoying inline skates and rollerblades rental near Barceloneta Beach and Vila Olímpica in Barcelona",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "compact_tables": [],
+    "compact_prices": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "price_cards": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "compact_prices_match": true,
+    "compact_rows": [
+      {
+        "line": 1130,
+        "label": "1 hour",
+        "value": "€6"
+      },
+      {
+        "line": 1134,
+        "label": "2 hours",
+        "value": "€12"
+      },
+      {
+        "line": 1138,
+        "label": "3 hours",
+        "value": "€15"
+      },
+      {
+        "line": 1142,
+        "label": "Full day",
+        "value": "€18"
+      },
+      {
+        "line": 1146,
+        "label": "24 hours",
+        "value": "€20"
+      },
+      {
+        "line": 1150,
+        "label": "Extra day",
+        "value": "€10"
+      },
+      {
+        "line": 1154,
+        "label": "Included accessories",
+        "value": "FREE"
+      }
+    ]
+  },
+  {
+    "group": "ROLLERBLADES",
+    "language": "es",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 53,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 783,
+      "alt": "Grupo disfrutando del alquiler de patines en línea en Barcelona, cerca de la playa de la Barceloneta y Vila Olímpica",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "compact_tables": [],
+    "compact_prices": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "price_cards": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "compact_prices_match": true,
+    "compact_rows": [
+      {
+        "line": 1092,
+        "label": "1 hora",
+        "value": "€6"
+      },
+      {
+        "line": 1096,
+        "label": "2 horas",
+        "value": "€12"
+      },
+      {
+        "line": 1100,
+        "label": "3 horas",
+        "value": "€15"
+      },
+      {
+        "line": 1104,
+        "label": "Día completo",
+        "value": "€18"
+      },
+      {
+        "line": 1108,
+        "label": "24 horas",
+        "value": "€20"
+      },
+      {
+        "line": 1112,
+        "label": "Día extra",
+        "value": "€10"
+      },
+      {
+        "line": 1116,
+        "label": "Accesorios incluidos",
+        "value": "GRATIS"
+      }
+    ]
+  },
+  {
+    "group": "ROLLERBLADES",
+    "language": "fr",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 13,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 722,
+      "alt": "Groupe profitant de la location de rollers en ligne à Barcelone, près de la plage de la Barceloneta et de Vila Olímpica",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "compact_tables": [],
+    "compact_prices": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "price_cards": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "compact_prices_match": true,
+    "compact_rows": [
+      {
+        "line": 1031,
+        "label": "1 heure",
+        "value": "€6"
+      },
+      {
+        "line": 1035,
+        "label": "2 heures",
+        "value": "€12"
+      },
+      {
+        "line": 1039,
+        "label": "3 heures",
+        "value": "€15"
+      },
+      {
+        "line": 1043,
+        "label": "Journée complète",
+        "value": "€18"
+      },
+      {
+        "line": 1047,
+        "label": "24 heures",
+        "value": "€20"
+      },
+      {
+        "line": 1051,
+        "label": "Jour supplémentaire",
+        "value": "€10"
+      },
+      {
+        "line": 1055,
+        "label": "Accessoires inclus",
+        "value": "GRATUIT"
+      }
+    ]
+  },
+  {
+    "group": "ROLLERBLADES",
+    "language": "it",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 46,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 728,
+      "alt": "Gruppo che si gode il noleggio di pattini in linea a Barcellona, vicino alla spiaggia della Barceloneta e a Vila Olímpica",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "compact_tables": [],
+    "compact_prices": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "price_cards": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "compact_prices_match": true,
+    "compact_rows": [
+      {
+        "line": 1037,
+        "label": "1 ora",
+        "value": "€6"
+      },
+      {
+        "line": 1041,
+        "label": "2 ore",
+        "value": "€12"
+      },
+      {
+        "line": 1045,
+        "label": "3 ore",
+        "value": "€15"
+      },
+      {
+        "line": 1049,
+        "label": "Giornata intera",
+        "value": "€18"
+      },
+      {
+        "line": 1053,
+        "label": "24 ore",
+        "value": "€20"
+      },
+      {
+        "line": 1057,
+        "label": "Giorno extra",
+        "value": "€10"
+      },
+      {
+        "line": 1061,
+        "label": "Accessori inclusi",
+        "value": "GRATUITO"
+      }
+    ]
+  },
+  {
+    "group": "ROLLERBLADES",
+    "language": "de",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 44,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 724,
+      "alt": "Gruppe beim Inlineskates-Mieten in Barcelona, nahe dem Strand von Barceloneta und Vila Olímpica",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "compact_tables": [],
+    "compact_prices": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "price_cards": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "compact_prices_match": true,
+    "compact_rows": [
+      {
+        "line": 1085,
+        "label": "1 Stunde",
+        "value": "€6"
+      },
+      {
+        "line": 1089,
+        "label": "2 Stunden",
+        "value": "€12"
+      },
+      {
+        "line": 1093,
+        "label": "3 Stunden",
+        "value": "€15"
+      },
+      {
+        "line": 1097,
+        "label": "Ganzer Tag",
+        "value": "€18"
+      },
+      {
+        "line": 1101,
+        "label": "24 Stunden",
+        "value": "€20"
+      },
+      {
+        "line": 1105,
+        "label": "Extra-Tag",
+        "value": "€10"
+      },
+      {
+        "line": 1109,
+        "label": "Inklusive Zubehör",
+        "value": "KOSTENLOS"
+      }
+    ]
+  },
+  {
+    "group": "ROLLERBLADES",
+    "language": "nl",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 55,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 736,
+      "alt": "Groep geniet van het huren van inline skates in Barcelona, vlak bij het strand van Barceloneta en Vila Olímpica",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "compact_tables": [],
+    "compact_prices": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "price_cards": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "compact_prices_match": true,
+    "compact_rows": [
+      {
+        "line": 1097,
+        "label": "1 uur",
+        "value": "€6"
+      },
+      {
+        "line": 1101,
+        "label": "2 uur",
+        "value": "€12"
+      },
+      {
+        "line": 1105,
+        "label": "3 uur",
+        "value": "€15"
+      },
+      {
+        "line": 1109,
+        "label": "Hele dag",
+        "value": "€18"
+      },
+      {
+        "line": 1113,
+        "label": "24 uur",
+        "value": "€20"
+      },
+      {
+        "line": 1117,
+        "label": "Extra dag",
+        "value": "€10"
+      },
+      {
+        "line": 1121,
+        "label": "Inbegrepen accessoires",
+        "value": "GRATIS"
+      }
+    ]
+  },
+  {
+    "group": "ROLLERBLADES",
+    "language": "pt",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 55,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 742,
+      "alt": "Grupo a desfrutar do aluguer de patins em linha em Barcelona, perto da praia da Barceloneta e de Vila Olímpica",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "compact_tables": [],
+    "compact_prices": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "price_cards": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "compact_prices_match": true,
+    "compact_rows": [
+      {
+        "line": 1085,
+        "label": "1 hora",
+        "value": "€6"
+      },
+      {
+        "line": 1089,
+        "label": "2 horas",
+        "value": "€12"
+      },
+      {
+        "line": 1093,
+        "label": "3 horas",
+        "value": "€15"
+      },
+      {
+        "line": 1097,
+        "label": "Dia completo",
+        "value": "€18"
+      },
+      {
+        "line": 1101,
+        "label": "24 horas",
+        "value": "€20"
+      },
+      {
+        "line": 1105,
+        "label": "Dia extra",
+        "value": "€10"
+      },
+      {
+        "line": 1109,
+        "label": "Acessórios incluídos",
+        "value": "GRÁTIS"
+      }
+    ]
+  },
+  {
+    "group": "ROLLERBLADES",
+    "language": "ca",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 46,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 728,
+      "alt": "Grup gaudint del lloguer de patins en línia a Barcelona, a prop de la platja de la Barceloneta i de Vila Olímpica",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "compact_tables": [],
+    "compact_prices": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "price_cards": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "compact_prices_match": true,
+    "compact_rows": [
+      {
+        "line": 1072,
+        "label": "1 hora",
+        "value": "€6"
+      },
+      {
+        "line": 1076,
+        "label": "2 hores",
+        "value": "€12"
+      },
+      {
+        "line": 1080,
+        "label": "3 hores",
+        "value": "€15"
+      },
+      {
+        "line": 1084,
+        "label": "Dia complet",
+        "value": "€18"
+      },
+      {
+        "line": 1088,
+        "label": "24 hores",
+        "value": "€20"
+      },
+      {
+        "line": 1092,
+        "label": "Dia extra",
+        "value": "€10"
+      },
+      {
+        "line": 1096,
+        "label": "Accessoris inclosos",
+        "value": "GRATUÏT"
+      }
+    ]
+  },
+  {
+    "group": "ROLLERBLADES",
+    "language": "sv",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 55,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 738,
+      "alt": "Grupp som njuter av att hyra inlines i Barcelona, nära Barceloneta-stranden och Vila Olímpica",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "compact_tables": [],
+    "compact_prices": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "price_cards": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "compact_prices_match": true,
+    "compact_rows": [
+      {
+        "line": 1083,
+        "label": "1 timme",
+        "value": "€6"
+      },
+      {
+        "line": 1087,
+        "label": "2 timmar",
+        "value": "€12"
+      },
+      {
+        "line": 1091,
+        "label": "3 timmar",
+        "value": "€15"
+      },
+      {
+        "line": 1095,
+        "label": "Heldag",
+        "value": "€18"
+      },
+      {
+        "line": 1099,
+        "label": "24 timmar",
+        "value": "€20"
+      },
+      {
+        "line": 1103,
+        "label": "Extra dag",
+        "value": "€10"
+      },
+      {
+        "line": 1107,
+        "label": "Tillbehör som ingår",
+        "value": "GRATIS"
+      }
+    ]
+  },
+  {
+    "group": "ROLLERBLADES",
+    "language": "pl",
+    "source_nested_interactives": [],
+    "preload": [
+      {
+        "line": 53,
+        "as": "image",
+        "fetchpriority": "high",
+        "href": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+        "imagesizes": "100vw",
+        "imagesrcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+        "rel": "preload"
+      }
+    ],
+    "hero": {
+      "tag": "img",
+      "line": 786,
+      "alt": "Grupa jeżdżąca na wypożyczonych rolkach przy plaży Barceloneta i Vila Olímpica w Barcelonie",
+      "class": "zoom",
+      "decoding": "async",
+      "fetchpriority": "high",
+      "height": "900",
+      "sizes": "100vw",
+      "src": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp",
+      "srcset": "https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-480-v1.webp 480w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-800-v1.webp 800w, https://rentalscooterbarcelona.com/images/rsb-rollerblades-rental-barcelona-hero-group-beach-1600-v1.webp 1600w",
+      "width": "1600"
+    },
+    "preload_hero_match": true,
+    "critical_metadata_outside_head": [],
+    "compact_tables": [],
+    "compact_prices": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "price_cards": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "compact_prices_match": true,
+    "compact_rows": [
+      {
+        "line": 1129,
+        "label": "1 godzina",
+        "value": "€6"
+      },
+      {
+        "line": 1133,
+        "label": "2 godziny",
+        "value": "€12"
+      },
+      {
+        "line": 1137,
+        "label": "3 godziny",
+        "value": "€15"
+      },
+      {
+        "line": 1141,
+        "label": "Cały dzień",
+        "value": "€18"
+      },
+      {
+        "line": 1145,
+        "label": "24 godziny",
+        "value": "€20"
+      },
+      {
+        "line": 1149,
+        "label": "Dodatkowy dzień",
+        "value": "€10"
+      },
+      {
+        "line": 1153,
+        "label": "Akcesoria w cenie",
+        "value": "DARMOWO"
+      }
+    ]
+  }
+]

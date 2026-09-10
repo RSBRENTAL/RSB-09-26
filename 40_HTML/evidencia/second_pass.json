@@ -1,0 +1,4996 @@
+{
+  "performed_utc": "2026-09-08T00:03:49.780056+00:00",
+  "source_zip_sha256": "d86279df270335cc1dd0e3a0db1976c76d36660bfe78cd7483ee7d06b7302ce7",
+  "files": [
+    {
+      "file": "HOME/en",
+      "archive_path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)(4)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/index.html",
+      "bytes": 99733,
+      "sha256": "8c5d21e348d400d75c21452ae69f28b3edd96e32a6f068325c197927475790ac",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "en"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 9,
+          "close": 9,
+          "parsed": 9
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Do inline skates, bikes, roller skates, skateboards and longboards require a deposit?",
+            "answer": "No. These rentals do not require a deposit. You only need a valid ID."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "HOME/it",
+      "archive_path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)(4)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/it/index.html",
+      "bytes": 92913,
+      "sha256": "4d9499cb3d21da40b86753d1006122c6dfac56a7082f343a080310b4bf983950",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "it"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/it/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/it/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 9,
+          "close": 9,
+          "parsed": 9
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Pattini in linea, biciclette, pattini a rotelle, skateboard e longboard richiedono un deposito?",
+            "answer": "No. Questi noleggi non richiedono deposito. Ti serve solo un documento d’identità valido."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "HOME/nl",
+      "archive_path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)(4)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/nl/index.html",
+      "bytes": 92715,
+      "sha256": "4faddcd800a8f8f9ebe1f8bfad581ddcd8704fe17afe5693e1e8d4d439f4b726",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "nl"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/nl/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/nl/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 9,
+          "close": 9,
+          "parsed": 9
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Hebben inline skates, fietsen, rolschaatsen, skateboards en longboards een borg nodig?",
+            "answer": "Nee. Voor deze verhuur is geen borg nodig. Je hebt alleen een geldig identiteitsbewijs nodig."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "HOME/pt",
+      "archive_path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)(4)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/pt/index.html",
+      "bytes": 93310,
+      "sha256": "fd88c6da82013dad760497d1dcadefa91b4ef64a9f7984b66b4d0d09f8c5ad7b",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "pt-PT"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/pt/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/pt/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 9,
+          "close": 9,
+          "parsed": 9
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Os patins em linha, bicicletas, patins de 4 rodas, skateboards e longboards exigem depósito?",
+            "answer": "Não. Estes alugueres não exigem depósito. Só precisas de um documento de identificação válido."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "HOME/sv",
+      "archive_path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)(4)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/sv/index.html",
+      "bytes": 92883,
+      "sha256": "e95dfcc440d4aebf5018bcd8f78f673f2a709e9d4afa7f87b8f386a0b8c8f0dc",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "sv"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/sv/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/sv/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 9,
+          "close": 9,
+          "parsed": 9
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Behöver inlines, cyklar, rullskridskor, skateboards och longboards en deposition?",
+            "answer": "Nej. Dessa hyror kräver ingen deposition. Du behöver bara en giltig legitimation."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "HOME/es",
+      "archive_path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)(4)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/es/index.html",
+      "bytes": 93791,
+      "sha256": "69ab90fdd158968ed4e5172fc7097f02010eec4d6544968478f4bff55942310f",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "es"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/es/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/es/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 9,
+          "close": 9,
+          "parsed": 9
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "¿Los patines en línea, las bicicletas, los patines de 4 ruedas, los skateboards y los longboards requieren depósito?",
+            "answer": "No. Estos alquileres no requieren depósito. Solo necesitas un documento de identidad válido."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "HOME/fr",
+      "archive_path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)(4)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/fr/index.html",
+      "bytes": 94612,
+      "sha256": "89cc3119cf7e272c79fe4a8c0a7c16bc9d204fbace473745c24f7c3f3974fc45",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "fr"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/fr/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/fr/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 9,
+          "close": 9,
+          "parsed": 9
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "HOME/ca",
+      "archive_path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)(4)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/cat/index.html",
+      "bytes": 94387,
+      "sha256": "d58b5796bae731b8a8f06a2cb69811063f26e3c5140b2cefc0530231922ae3b0",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "ca"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/cat/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/cat/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 9,
+          "close": 9,
+          "parsed": 9
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Els patins en línia, les bicicletes, els patins de quatre rodes, els skateboards i els longboards requereixen dipòsit?",
+            "answer": "No. Aquests lloguers no requereixen dipòsit. Només necessites un document d’identitat vàlid."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "HOME/pl",
+      "archive_path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)(4)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/pl/index.html",
+      "bytes": 92841,
+      "sha256": "1126230d6f8652114c2f6403373f83545694ac414475356ed3bba3c4827fe13a",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "pl"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/pl/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/pl/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 9,
+          "close": 9,
+          "parsed": 9
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Czy rolki, rowery, wrotki, deskorolki i longboardy wymagają kaucji?",
+            "answer": "Nie. Wynajem tego sprzętu nie wymaga kaucji. Potrzebujesz tylko ważnego dokumentu tożsamości."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "HOME/de",
+      "archive_path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)(4)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/de/index.html",
+      "bytes": 93653,
+      "sha256": "c2d621aba88b8a19d8b2662b6428800a3722947e192ad43f50a581e2c0260d9b",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "de"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/de/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/de/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 9,
+          "close": 9,
+          "parsed": 9
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Benötigen Inlineskates, Fahrräder, Rollschuhe, Skateboards und Longboards eine Kaution?",
+            "answer": "Nein. Für diese Mieten ist keine Kaution nötig. Du brauchst nur einen gültigen Ausweis."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "ROLLERBLADES/en",
+      "archive_path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)(4)/RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/rollerblades/index.html",
+      "bytes": 81051,
+      "sha256": "30d4b5e4ff9ccf991797b90fe96cf02bb097dacd12b27f6935107b5ec1969712",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "en"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/rollerblades/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/rollerblades/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/rollerblades/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/rollerblades/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/rollerblades/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/rollerblades/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/rollerblades/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/rollerblades/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/rollerblades/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/rollerblades/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/rollerblades/#webpage",
+            "block": 1,
+            "dateModified": "2026-09-02"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 21,
+          "close": 21,
+          "parsed": 21
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Do I need to leave a deposit to rent inline skates?",
+            "answer": "No. Inline skate rentals do not require a security deposit. A valid ID document is required for the rental."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "ROLLERBLADES/it",
+      "archive_path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)(4)/RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/it/rollerblades/index.html",
+      "bytes": 81984,
+      "sha256": "7a6bc18d71f4207cbdd88c9f8660b2d933e707093b89ab5fc836f095b1d66c13",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "it"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/it/rollerblades/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/rollerblades/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/rollerblades/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/rollerblades/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/rollerblades/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/rollerblades/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/rollerblades/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/rollerblades/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/rollerblades/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/rollerblades/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/it/rollerblades/#webpage",
+            "block": 1,
+            "dateModified": "2026-09-02"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 21,
+          "close": 21,
+          "parsed": 21
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Devo lasciare un deposito per noleggiare i pattini in linea?",
+            "answer": "No. Il noleggio dei pattini in linea non richiede un deposito cauzionale. Per il noleggio è richiesto un documento d’identità valido."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "ROLLERBLADES/nl",
+      "archive_path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)(4)/RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/nl/rollerblades/index.html",
+      "bytes": 81229,
+      "sha256": "0f78e231283e4d2f33a570e56af190109b5ea12bab85e5f50019ed43a3d4fa6b",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "nl"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/nl/rollerblades/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/rollerblades/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/rollerblades/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/rollerblades/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/rollerblades/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/rollerblades/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/rollerblades/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/rollerblades/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/rollerblades/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/rollerblades/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/nl/rollerblades/#webpage",
+            "block": 1,
+            "dateModified": "2026-09-02"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 21,
+          "close": 21,
+          "parsed": 21
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Moet ik een borg achterlaten om inline skates te huren?",
+            "answer": "Nee. Voor de huur van inline skates is geen borg vereist. Voor de huur is een geldig identiteitsbewijs vereist."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "ROLLERBLADES/pt",
+      "archive_path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)(4)/RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/pt/rollerblades/index.html",
+      "bytes": 82678,
+      "sha256": "eb82c60bdca4364f0f763e4a5a909b76dc6e7b241a1955a400c4f036637fa0bc",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "pt-PT"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/pt/rollerblades/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/rollerblades/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/rollerblades/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/rollerblades/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/rollerblades/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/rollerblades/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/rollerblades/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/rollerblades/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/rollerblades/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/rollerblades/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/pt/rollerblades/#webpage",
+            "block": 1,
+            "dateModified": "2026-09-02"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 21,
+          "close": 21,
+          "parsed": 21
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Preciso deixar um depósito para alugar patins em linha?",
+            "answer": "Não. O aluguer de patins em linha não exige depósito de segurança. É necessário um documento de identificação válido para o aluguer."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "ROLLERBLADES/sv",
+      "archive_path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)(4)/RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/sv/rollerblades/index.html",
+      "bytes": 80332,
+      "sha256": "2a872eafda34f391375c57ac9d8bdfa076cc013513cc93fa2eafdcc472307cad",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "sv"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/sv/rollerblades/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/rollerblades/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/rollerblades/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/rollerblades/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/rollerblades/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/rollerblades/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/rollerblades/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/rollerblades/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/rollerblades/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/rollerblades/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/sv/rollerblades/#webpage",
+            "block": 1,
+            "dateModified": "2026-09-02"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 21,
+          "close": 21,
+          "parsed": 21
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Behöver jag lämna en deposition för att hyra inlines?",
+            "answer": "Nej. Hyra av inlines kräver ingen deposition. En giltig ID-handling krävs för hyran."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "ROLLERBLADES/es",
+      "archive_path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)(4)/RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/es/rollerblades/index.html",
+      "bytes": 83367,
+      "sha256": "99a9f801f010db7933139933db6d0d964c5452d9f821b32920379de9d9bba9c6",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "es"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/es/rollerblades/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/rollerblades/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/rollerblades/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/rollerblades/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/rollerblades/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/rollerblades/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/rollerblades/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/rollerblades/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/rollerblades/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/rollerblades/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/es/rollerblades/#webpage",
+            "block": 1,
+            "dateModified": "2026-09-02"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 21,
+          "close": 21,
+          "parsed": 21
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "¿Tengo que dejar un depósito para alquilar patines en línea?",
+            "answer": "No. El alquiler de patines en línea no requiere depósito de seguridad. Se necesita un documento de identidad válido para el alquiler."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "ROLLERBLADES/fr",
+      "archive_path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)(4)/RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/fr/rollerblades/index.html",
+      "bytes": 82619,
+      "sha256": "b1704ca4ab31ef0d6e82dd75bd6944af955526e8073cb1ff2bb222402d04f049",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "fr"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/fr/rollerblades/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/rollerblades/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/rollerblades/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/rollerblades/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/rollerblades/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/rollerblades/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/rollerblades/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/rollerblades/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/rollerblades/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/rollerblades/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/fr/rollerblades/#webpage",
+            "block": 1,
+            "dateModified": "2026-09-02"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 21,
+          "close": 21,
+          "parsed": 21
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "ROLLERBLADES/ca",
+      "archive_path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)(4)/RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/cat/rollerblades/index.html",
+      "bytes": 82206,
+      "sha256": "c7bcd02ce33220fb8e2654fc43f4a4aa5f6ed70b284bcc1de18b73f18230b9b1",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "ca"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/cat/rollerblades/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/rollerblades/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/rollerblades/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/rollerblades/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/rollerblades/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/rollerblades/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/rollerblades/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/rollerblades/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/rollerblades/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/rollerblades/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/cat/rollerblades/#webpage",
+            "block": 1,
+            "dateModified": "2026-09-02"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 21,
+          "close": 21,
+          "parsed": 21
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "He de deixar un dipòsit per llogar patins en línia?",
+            "answer": "No. El lloguer de patins en línia no requereix cap dipòsit de seguretat. Cal un document d’identitat vàlid per al lloguer."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "ROLLERBLADES/pl",
+      "archive_path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)(4)/RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/pl/rollerblades/index.html",
+      "bytes": 81315,
+      "sha256": "d44cfa107631f4c3cc1c9f0386f474672db2420a6eab46bdfffe96e1ccdd868a",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "pl"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/pl/rollerblades/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/rollerblades/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/rollerblades/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/rollerblades/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/rollerblades/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/rollerblades/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/rollerblades/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/rollerblades/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/rollerblades/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/rollerblades/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/pl/rollerblades/#webpage",
+            "block": 1,
+            "dateModified": "2026-09-02"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 21,
+          "close": 21,
+          "parsed": 21
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Czy muszę zostawić kaucję, aby wypożyczyć rolki?",
+            "answer": "Nie. Wypożyczenie rolek nie wymaga kaucji. Do wypożyczenia wymagany jest ważny dokument tożsamości."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "ROLLERBLADES/de",
+      "archive_path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)(4)/RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/de/rollerblades/index.html",
+      "bytes": 82382,
+      "sha256": "ed926e09d62c8cd160f39344866ddad51b9d46b70866d691f5ef8140a522fc8d",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "de"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/de/rollerblades/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/rollerblades/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/rollerblades/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/rollerblades/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/rollerblades/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/rollerblades/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/rollerblades/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/rollerblades/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/rollerblades/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/rollerblades/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/rollerblades/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/de/rollerblades/#webpage",
+            "block": 1,
+            "dateModified": "2026-09-02"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 9,
+        "articles": {
+          "open": 21,
+          "close": 21,
+          "parsed": 21
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Muss ich für die Miete von Inlineskates eine Kaution hinterlegen?",
+            "answer": "Nein. Für die Miete von Inlineskates ist keine Kaution erforderlich. Für die Miete ist ein gültiger Ausweis erforderlich."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "SCOOTER/it",
+      "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/it/scooter/index.html",
+      "bytes": 74748,
+      "sha256": "1e64b01482db311f39a4bbf685c8935924c1707548ec387f1661e491abb8ff73",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": false,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "it"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/it/scooter/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/scooter/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/scooter/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/scooter/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/scooter/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/scooter/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/scooter/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/scooter/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/scooter/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/scooter/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/it/scooter/#webpage",
+            "block": 1,
+            "dateModified": "2026-07-30"
+          },
+          {
+            "id": "https://rentalscooterbarcelona.com/it/scooter/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 11,
+        "articles": {
+          "open": 20,
+          "close": 20,
+          "parsed": 20
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "I noleggi scooter richiedono un deposito?",
+            "answer": "È possibile che venga richiesto un deposito rimborsabile in base alla categoria dello scooter e al veicolo. Porta un documento d’identità o passaporto e contattaci per maggiori dettagli."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "SCOOTER/nl",
+      "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/nl/scooter/index.html",
+      "bytes": 75095,
+      "sha256": "eaf1e1b9f6e74877bc28df54efc714b3a725bd371785bb52cf348f78aad44a19",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": false,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "nl"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/nl/scooter/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/scooter/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/scooter/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/scooter/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/scooter/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/scooter/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/scooter/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/scooter/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/scooter/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/scooter/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/nl/scooter/#webpage",
+            "block": 1,
+            "dateModified": "2026-07-30"
+          },
+          {
+            "id": "https://rentalscooterbarcelona.com/nl/scooter/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 11,
+        "articles": {
+          "open": 20,
+          "close": 20,
+          "parsed": 20
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Is er een borg nodig voor scooterhuur?",
+            "answer": "Er kan een terugbetaalbare borg gelden afhankelijk van de scootercategorie en het voertuig. Neem je ID of paspoort mee en neem contact met ons op voor meer details."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "SCOOTER/pt",
+      "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/pt/scooter/index.html",
+      "bytes": 75293,
+      "sha256": "ad10a7e9c9d69229f63d4564981ea4b69d5f6296bca00b6c4107c8e87abaf75d",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": false,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "pt-PT"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/pt/scooter/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/scooter/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/scooter/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/scooter/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/scooter/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/scooter/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/scooter/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/scooter/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/scooter/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/scooter/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/pt/scooter/#webpage",
+            "block": 1,
+            "dateModified": "2026-07-30"
+          },
+          {
+            "id": "https://rentalscooterbarcelona.com/pt/scooter/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 12,
+        "articles": {
+          "open": 20,
+          "close": 20,
+          "parsed": 20
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Os alugueres de scooter exigem depósito?",
+            "answer": "Pode aplicar-se uma caução reembolsável conforme a categoria da scooter e o veículo. Traz o teu documento de identificação ou passaporte e contacta-nos para mais detalhes."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "SCOOTER/sv",
+      "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/sv/scooter/index.html",
+      "bytes": 73474,
+      "sha256": "4ac68d839ec026bfeb5bc65a5b93b752e6e9287f7b93f46a5d299e8042fa583e",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": false,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "sv"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/sv/scooter/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/scooter/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/scooter/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/scooter/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/scooter/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/scooter/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/scooter/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/scooter/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/scooter/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/scooter/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/sv/scooter/#webpage",
+            "block": 1,
+            "dateModified": "2026-07-30"
+          },
+          {
+            "id": "https://rentalscooterbarcelona.com/sv/scooter/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 11,
+        "articles": {
+          "open": 20,
+          "close": 20,
+          "parsed": 20
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Kräver scooterhyror deposition?",
+            "answer": "En återbetalningsbar deposition kan krävas beroende på scooterns kategori och fordonet. Ta med ID eller pass och kontakta oss för mer information."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "SCOOTER/es",
+      "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/es/scooter/index.html",
+      "bytes": 76646,
+      "sha256": "f65eb76170abc6e02ae2fdec0a8e648c9e740ce6bf447f4337c51d5416c01ee3",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": false,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "es"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/es/scooter/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/scooter/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/scooter/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/scooter/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/scooter/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/scooter/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/scooter/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/scooter/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/scooter/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/scooter/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/es/scooter/#webpage",
+            "block": 1,
+            "dateModified": "2026-07-30"
+          },
+          {
+            "id": "https://rentalscooterbarcelona.com/es/scooter/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 11,
+        "articles": {
+          "open": 20,
+          "close": 20,
+          "parsed": 20
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "¿Los alquileres de scooter requieren depósito?",
+            "answer": "Puede aplicarse un depósito reembolsable según la categoría y el vehículo. Trae tu DNI o pasaporte y contáctanos para más detalles."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "SCOOTER/en",
+      "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/scooter/index.html",
+      "bytes": 75110,
+      "sha256": "ba138ae5221694e86ad860624e7421f4485c53c2157af3dee423c4024d77cce2",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": false,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "en"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/scooter/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/scooter/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/scooter/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/scooter/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/scooter/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/scooter/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/scooter/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/scooter/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/scooter/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/scooter/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/scooter/#webpage",
+            "block": 1,
+            "dateModified": "2026-07-30"
+          },
+          {
+            "id": "https://rentalscooterbarcelona.com/scooter/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 11,
+        "articles": {
+          "open": 20,
+          "close": 20,
+          "parsed": 20
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Do scooter rentals require a deposit?",
+            "answer": "A refundable deposit may apply depending on the scooter category and vehicle. Bring your ID or passport and contact us for details."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "SCOOTER/fr",
+      "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/fr/scooter/index.html",
+      "bytes": 75713,
+      "sha256": "ca5bf1e7c7954892ea93eb5acc938d92dd4263faf6a0612fbcc7b917ec9f3d91",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": false,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "fr"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/fr/scooter/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/scooter/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/scooter/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/scooter/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/scooter/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/scooter/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/scooter/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/scooter/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/scooter/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/scooter/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/fr/scooter/#webpage",
+            "block": 1,
+            "dateModified": "2026-07-30"
+          },
+          {
+            "id": "https://rentalscooterbarcelona.com/fr/scooter/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 11,
+        "articles": {
+          "open": 20,
+          "close": 20,
+          "parsed": 20
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "SCOOTER/ca",
+      "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/cat/scooter/index.html",
+      "bytes": 74424,
+      "sha256": "6c34ccbc7467b1dd8a04056a9c987207841b8d6f3070afe5d922b12ffede4818",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": false,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "ca"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/cat/scooter/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/scooter/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/scooter/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/scooter/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/scooter/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/scooter/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/scooter/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/scooter/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/scooter/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/scooter/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/cat/scooter/#webpage",
+            "block": 1,
+            "dateModified": "2026-07-30"
+          },
+          {
+            "id": "https://rentalscooterbarcelona.com/cat/scooter/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 11,
+        "articles": {
+          "open": 20,
+          "close": 20,
+          "parsed": 20
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Els lloguers de scooter requereixen dipòsit?",
+            "answer": "Pot aplicar-se un dipòsit reemborsable segons la categoria del scooter i el vehicle. Porta el DNI o passaport i contacta’ns per a més detalls."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "SCOOTER/pl",
+      "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/pl/scooter/index.html",
+      "bytes": 75144,
+      "sha256": "dd54d7f4dcbcdd94019d25d453fd312e8373ca2f977a0effb1a8f046414aba60",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": false,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "pl"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/pl/scooter/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/scooter/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/scooter/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/scooter/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/scooter/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/scooter/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/scooter/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/scooter/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/scooter/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/scooter/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/pl/scooter/#webpage",
+            "block": 1,
+            "dateModified": "2026-07-30"
+          },
+          {
+            "id": "https://rentalscooterbarcelona.com/pl/scooter/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 11,
+        "articles": {
+          "open": 20,
+          "close": 20,
+          "parsed": 20
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Czy wynajem skutera wymaga kaucji?",
+            "answer": "Może obowiązywać zwrotna kaucja w zależności od kategorii skutera i pojazdu. Zabierz dowód osobisty lub paszport i skontaktuj się z nami, aby uzyskać więcej informacji."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "SCOOTER/de",
+      "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/de/scooter/index.html",
+      "bytes": 76157,
+      "sha256": "3f3c0ee126d19e43ef10e90b6092c2bb5209bbe40c1d57e27d30ed1ab0a1976a",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": false,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "de"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/de/scooter/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/scooter/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/scooter/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/scooter/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/scooter/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/scooter/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/scooter/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/scooter/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/scooter/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/scooter/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/scooter/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/de/scooter/#webpage",
+            "block": 1,
+            "dateModified": "2026-07-30"
+          },
+          {
+            "id": "https://rentalscooterbarcelona.com/de/scooter/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 11,
+        "articles": {
+          "open": 20,
+          "close": 20,
+          "parsed": 20
+        },
+        "local_fragment_count": 1,
+        "deposit_faq": [
+          {
+            "question": "Erfordern Scooter-Mieten eine Kaution?",
+            "answer": "Je nach Scooter-Kategorie und Fahrzeug kann eine rückerstattbare Kaution erforderlich sein. Bring deinen Ausweis oder Reisepass mit und kontaktiere uns für weitere Details."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "PRICES/it",
+      "archive_path": "RSB_PRICES_PT_PUNTOS_14_15_16_17_18_CORREGIDO(3)(4)/it/Prices/index.html",
+      "bytes": 108144,
+      "sha256": "9754fe138cade1d8c01f7823dc3d9e65282b835e910a598b59bf8d5d8b5fec2c",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "it"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/it/Prices/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/Prices/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/Prices/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/Prices/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/Prices/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/Prices/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/Prices/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/Prices/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/Prices/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/Prices/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/it/Prices/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 6,
+        "articles": {
+          "open": 8,
+          "close": 8,
+          "parsed": 8
+        },
+        "local_fragment_count": 6,
+        "deposit_faq": [
+          {
+            "question": "Prenotazioni e depositi",
+            "answer": "Per la maggior parte degli articoli puoi venire direttamente in negozio, ma nei fine settimana e in alta stagione è consigliata la prenotazione, soprattutto per i gruppi. Per tutti i noleggi è richiesto un documento o passaporto. Un deposito rimborsabile si applica esclusivamente al noleggio di scooter; pattini in linea, biciclette, pattini a rotelle, skateboard e longboard non richiedono alcun deposito."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "PRICES/nl",
+      "archive_path": "RSB_PRICES_PT_PUNTOS_14_15_16_17_18_CORREGIDO(3)(4)/nl/Prices/index.html",
+      "bytes": 106554,
+      "sha256": "006d505c457e59fdf789501ff714b8bb4b2df973687a69a3984ebb9de4186c1e",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "nl"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/nl/Prices/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/Prices/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/Prices/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/Prices/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/Prices/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/Prices/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/Prices/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/Prices/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/Prices/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/Prices/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/nl/Prices/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 6,
+        "articles": {
+          "open": 8,
+          "close": 8,
+          "parsed": 8
+        },
+        "local_fragment_count": 6,
+        "deposit_faq": [
+          {
+            "question": "Boekingen en borg",
+            "answer": "Voor de meeste artikelen kun je direct naar de winkel komen, maar in het weekend en in het hoogseizoen is een reservering aanbevolen, vooral voor groepen. Voor alle verhuur is een identiteitsbewijs of paspoort nodig. Een terugbetaalbare borg geldt uitsluitend voor scooterverhuur; inline skates, fietsen, rolschaatsen, skateboards en longboards vereisen geen borg."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "PRICES/pt",
+      "archive_path": "RSB_PRICES_PT_PUNTOS_14_15_16_17_18_CORREGIDO(3)(4)/pt/Prices/index.html",
+      "bytes": 108176,
+      "sha256": "e0d31ffaca4b400bba32df27434cc59969aa15cddd31fcb1353ca177f1578932",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "pt"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/pt/Prices/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/Prices/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/Prices/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/Prices/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/Prices/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/Prices/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/Prices/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/Prices/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/Prices/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/Prices/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/pt/Prices/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 6,
+        "articles": {
+          "open": 8,
+          "close": 8,
+          "parsed": 8
+        },
+        "local_fragment_count": 6,
+        "deposit_faq": [
+          {
+            "question": "Reservas e depósitos",
+            "answer": "Para a maioria dos artigos podes vir diretamente à loja, mas aos fins de semana e na época alta recomenda-se reserva, especialmente para grupos. É necessário documento de identificação ou passaporte para todos os alugueres. O depósito aplica-se apenas ao aluguer de scooter; patins em linha, bicicletas, patins de 4 rodas, skateboards e longboards não exigem depósito."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "PRICES/sv",
+      "archive_path": "RSB_PRICES_PT_PUNTOS_14_15_16_17_18_CORREGIDO(3)(4)/sv/Prices/index.html",
+      "bytes": 106467,
+      "sha256": "5b2510991ab922f59f4e3f19d69926cfe0390984445127c0a41dddf1ea1f7af5",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "sv"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/sv/Prices/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/Prices/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/Prices/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/Prices/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/Prices/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/Prices/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/Prices/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/Prices/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/Prices/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/Prices/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/sv/Prices/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 6,
+        "articles": {
+          "open": 8,
+          "close": 8,
+          "parsed": 8
+        },
+        "local_fragment_count": 6,
+        "deposit_faq": [
+          {
+            "question": "Bokning och depositioner",
+            "answer": "För de flesta artiklar kan du komma direkt till butiken, men på helger och under högsäsong rekommenderas bokning, särskilt för grupper. ID-kort eller pass krävs för alla hyror. En återbetalningsbar deposition kan endast tillkomma vid scooteruthyrning; inlines, cyklar, rullskridskor, skateboards och longboards kräver ingen deposition."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "PRICES/es",
+      "archive_path": "RSB_PRICES_PT_PUNTOS_14_15_16_17_18_CORREGIDO(3)(4)/es/Prices/index.html",
+      "bytes": 107480,
+      "sha256": "027bacad6c0cdff172b30bd16167c403976c7b9e283c2dd9cfd91012796fa6cc",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "es"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/es/Prices/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/Prices/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/Prices/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/Prices/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/Prices/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/Prices/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/Prices/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/Prices/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/Prices/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/Prices/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/es/Prices/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 6,
+        "articles": {
+          "open": 8,
+          "close": 8,
+          "parsed": 8
+        },
+        "local_fragment_count": 6,
+        "deposit_faq": [
+          {
+            "question": "Reserva y depósitos",
+            "answer": "Para la mayoría de los artículos puedes venir directamente a la tienda, pero los fines de semana y en temporada alta se recomienda reservar, especialmente para grupos. Se requiere DNI o pasaporte para todos los alquileres. El depósito reembolsable se aplica únicamente al alquiler de scooters; patines en línea, bicicletas, patines de cuatro ruedas, skateboards y longboards no requieren depósito."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "PRICES/fr",
+      "archive_path": "RSB_PRICES_PT_PUNTOS_14_15_16_17_18_CORREGIDO(3)(4)/fr/Prices/index.html",
+      "bytes": 109212,
+      "sha256": "9eb0d5b422bde8f51c7a9f244cfd1cce16d9e9ccb625534c16f1b3cbce8f34df",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "fr"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/fr/Prices/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/Prices/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/Prices/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/Prices/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/Prices/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/Prices/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/Prices/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/Prices/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/Prices/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/Prices/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/fr/Prices/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 6,
+        "articles": {
+          "open": 8,
+          "close": 8,
+          "parsed": 8
+        },
+        "local_fragment_count": 6,
+        "deposit_faq": [],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "PRICES/en",
+      "archive_path": "RSB_PRICES_PT_PUNTOS_14_15_16_17_18_CORREGIDO(3)(4)/Prices/index.html",
+      "bytes": 104389,
+      "sha256": "c06a02bf0dd31f8caa2bd404b024d758e4c139c791196c87b2ef3d3205493579",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "en"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/Prices/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/Prices/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/Prices/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/Prices/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/Prices/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/Prices/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/Prices/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/Prices/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/Prices/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/Prices/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/Prices/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 6,
+        "articles": {
+          "open": 8,
+          "close": 8,
+          "parsed": 8
+        },
+        "local_fragment_count": 6,
+        "deposit_faq": [
+          {
+            "question": "Booking & deposits",
+            "answer": "For most items you can come directly to the shop, but during weekends and high season a reservation is recommended, especially for groups. ID or passport is required for all rentals. A refundable security deposit applies only to motor scooter rentals; inline skates, bikes, roller skates, skateboards and longboards do not require a deposit."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "PRICES/ca",
+      "archive_path": "RSB_PRICES_PT_PUNTOS_14_15_16_17_18_CORREGIDO(3)(4)/cat/Prices/index.html",
+      "bytes": 108741,
+      "sha256": "e4fd7950617972ea18dfadc58ca5fe3478f4e7a824d05d0f947bc879c7abb07f",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "ca"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/cat/Prices/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/Prices/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/Prices/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/Prices/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/Prices/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/Prices/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/Prices/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/Prices/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/Prices/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/Prices/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/cat/Prices/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 6,
+        "articles": {
+          "open": 8,
+          "close": 8,
+          "parsed": 8
+        },
+        "local_fragment_count": 6,
+        "deposit_faq": [
+          {
+            "question": "Reserves i dipòsits",
+            "answer": "Per a la majoria d’articles pots venir directament a la botiga, però els caps de setmana i en temporada alta és recomanable reservar, sobretot per a grups. Cal document d’identitat o passaport per a tots els lloguers. Només en el lloguer de scooter pot aplicar-se un dipòsit retornable; bicicletes, patins en línia, patins de quatre rodes, skateboards i longboards no requereixen dipòsit."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "PRICES/pl",
+      "archive_path": "RSB_PRICES_PT_PUNTOS_14_15_16_17_18_CORREGIDO(3)(4)/pl/Prices/index.html",
+      "bytes": 105765,
+      "sha256": "d7cd0f48fe0faae38982f21dcb270c4a31c6c1518bae3d0588c1a94827cc6153",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "pl"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/pl/Prices/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/Prices/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/Prices/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/Prices/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/Prices/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/Prices/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/Prices/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/Prices/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/Prices/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/Prices/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/pl/Prices/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 6,
+        "articles": {
+          "open": 8,
+          "close": 8,
+          "parsed": 8
+        },
+        "local_fragment_count": 6,
+        "deposit_faq": [
+          {
+            "question": "Rezerwacja i kaucje",
+            "answer": "W przypadku większości sprzętu możesz przyjść bezpośrednio do wypożyczalni, ale w weekendy i w sezonie zalecana jest rezerwacja, szczególnie dla grup. Do każdego wynajmu wymagany jest dokument tożsamości lub paszport. Kaucja zwrotna może być wymagana wyłącznie przy wynajmie skutera; rolki, rowery, wrotki, deskorolki i longboardy nie wymagają kaucji."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    },
+    {
+      "file": "PRICES/de",
+      "archive_path": "RSB_PRICES_PT_PUNTOS_14_15_16_17_18_CORREGIDO(3)(4)/de/Prices/index.html",
+      "bytes": 107476,
+      "sha256": "4b8388f9fb08d3363f95d89eaaaf297067ce9e280a3e3f3a3ba63e4e62ff233a",
+      "checks": {
+        "original_sha256_matches_first_pass": true,
+        "single_canonical_own": true,
+        "all_hreflang_reciprocal": true,
+        "og_url_same_page": true,
+        "no_secondary_robots_block": true,
+        "no_duplicate_meta": true,
+        "all_json_reparsed": true,
+        "global_ids_urls": true,
+        "postal_address": true,
+        "phones_email": true,
+        "names": true,
+        "rating": true,
+        "hours": true,
+        "page_urls": true,
+        "single_page_date_value": true,
+        "no_alternative_coordinates": true,
+        "maps_canonical": true,
+        "ids_unique": true,
+        "faq_reparsed_match": true,
+        "article_counts_equal": true,
+        "local_fragments_resolve": true
+      },
+      "facts": {
+        "html_lang": [
+          "de"
+        ],
+        "canonical": [
+          "https://rentalscooterbarcelona.com/de/Prices/"
+        ],
+        "hreflang": [
+          [
+            "x-default",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "en",
+            "https://rentalscooterbarcelona.com/Prices/"
+          ],
+          [
+            "es",
+            "https://rentalscooterbarcelona.com/es/Prices/"
+          ],
+          [
+            "fr",
+            "https://rentalscooterbarcelona.com/fr/Prices/"
+          ],
+          [
+            "it",
+            "https://rentalscooterbarcelona.com/it/Prices/"
+          ],
+          [
+            "de",
+            "https://rentalscooterbarcelona.com/de/Prices/"
+          ],
+          [
+            "nl",
+            "https://rentalscooterbarcelona.com/nl/Prices/"
+          ],
+          [
+            "pt",
+            "https://rentalscooterbarcelona.com/pt/Prices/"
+          ],
+          [
+            "ca",
+            "https://rentalscooterbarcelona.com/cat/Prices/"
+          ],
+          [
+            "sv",
+            "https://rentalscooterbarcelona.com/sv/Prices/"
+          ],
+          [
+            "pl",
+            "https://rentalscooterbarcelona.com/pl/Prices/"
+          ]
+        ],
+        "json_blocks": 2,
+        "webpage_dates": [
+          {
+            "id": "https://rentalscooterbarcelona.com/de/Prices/#webpage",
+            "block": 2,
+            "dateModified": "2026-08-24"
+          }
+        ],
+        "coordinate_literals": {
+          "41.3906488": 5,
+          "2.1984312": 5
+        },
+        "map_ids": {
+          "cid": [
+            "912877649802486634"
+          ],
+          "apple": [
+            "IA5C7938C1925731A"
+          ],
+          "bing": [
+            "YND84466019C726C1"
+          ]
+        },
+        "faq_count": 6,
+        "articles": {
+          "open": 8,
+          "close": 8,
+          "parsed": 8
+        },
+        "local_fragment_count": 6,
+        "deposit_faq": [
+          {
+            "question": "Buchung und Kautionen",
+            "answer": "Für die meisten Artikel kannst du direkt in den Shop kommen, aber an Wochenenden und in der Hochsaison ist eine Reservierung besonders für Gruppen empfehlenswert. Für alle Mieten ist ein Ausweis oder Reisepass erforderlich. Eine rückzahlbare Kaution gilt ausschließlich für die Motorrollervermietung; Inlineskates, Fahrräder, Rollschuhe, Skateboards und Longboards erfordern keine Kaution."
+          }
+        ],
+        "promotions_and_booking_literals": {
+          "2\\s*[x×]\\s*1": 2,
+          "30\\s*%": 0,
+          "70\\s*%": 0
+        }
+      }
+    }
+  ]
+}

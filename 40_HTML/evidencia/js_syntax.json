@@ -1,0 +1,362 @@
+[
+  {
+    "file": "HOME/en",
+    "line": 473,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "HOME/en",
+    "line": 59,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/en",
+    "line": 60,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/es",
+    "line": 472,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "HOME/es",
+    "line": 60,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/es",
+    "line": 60,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/fr",
+    "line": 467,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "HOME/fr",
+    "line": 53,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/fr",
+    "line": 53,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/it",
+    "line": 466,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "HOME/it",
+    "line": 52,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/it",
+    "line": 52,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/de",
+    "line": 464,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "HOME/de",
+    "line": 50,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/de",
+    "line": 50,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/nl",
+    "line": 478,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "HOME/nl",
+    "line": 62,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/nl",
+    "line": 63,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/pt",
+    "line": 478,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "HOME/pt",
+    "line": 62,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/pt",
+    "line": 63,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/ca",
+    "line": 466,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "HOME/ca",
+    "line": 52,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/ca",
+    "line": 52,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/sv",
+    "line": 478,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "HOME/sv",
+    "line": 62,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/sv",
+    "line": 63,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/pl",
+    "line": 464,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "HOME/pl",
+    "line": 50,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "HOME/pl",
+    "line": 51,
+    "kind": "handler",
+    "valid": true
+  },
+  {
+    "file": "PRICES/en",
+    "line": 66,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "PRICES/es",
+    "line": 63,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "PRICES/fr",
+    "line": 56,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "PRICES/it",
+    "line": 56,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "PRICES/de",
+    "line": 54,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "PRICES/nl",
+    "line": 66,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "PRICES/pt",
+    "line": 66,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "PRICES/ca",
+    "line": 56,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "PRICES/sv",
+    "line": 66,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "PRICES/pl",
+    "line": 66,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "SCOOTER/en",
+    "line": 628,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "SCOOTER/es",
+    "line": 622,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "SCOOTER/fr",
+    "line": 517,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "SCOOTER/it",
+    "line": 516,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "SCOOTER/de",
+    "line": 563,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "SCOOTER/nl",
+    "line": 572,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "SCOOTER/pt",
+    "line": 541,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "SCOOTER/ca",
+    "line": 516,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "SCOOTER/sv",
+    "line": 533,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "SCOOTER/pl",
+    "line": 589,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "ROLLERBLADES/en",
+    "line": 581,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "ROLLERBLADES/es",
+    "line": 578,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "ROLLERBLADES/fr",
+    "line": 519,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "ROLLERBLADES/it",
+    "line": 519,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "ROLLERBLADES/de",
+    "line": 521,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "ROLLERBLADES/nl",
+    "line": 533,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "ROLLERBLADES/pt",
+    "line": 533,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "ROLLERBLADES/ca",
+    "line": 519,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "ROLLERBLADES/sv",
+    "line": 533,
+    "kind": "script",
+    "valid": true
+  },
+  {
+    "file": "ROLLERBLADES/pl",
+    "line": 581,
+    "kind": "script",
+    "valid": true
+  }
+]

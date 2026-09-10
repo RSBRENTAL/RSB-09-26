@@ -1,0 +1,7106 @@
+[
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Full day",
+    "price": "35",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1410,
+        "label": "Full day",
+        "value": "€35"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "24 hours",
+    "price": "40",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1410,
+        "label": "24 hours",
+        "value": "€40"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "2 days",
+    "price": "80",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1410,
+        "label": "2 days",
+        "value": "€80"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "3 days",
+    "price": "115",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1410,
+        "label": "3 days",
+        "value": "€115"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Extra day",
+    "price": "30",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1410,
+        "label": "Extra day",
+        "value": "€30"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "1 hour",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1420,
+        "label": "1 hour",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "2 hours",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1420,
+        "label": "2 hours",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "3 hours",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1420,
+        "label": "3 hours",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Full day",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1420,
+        "label": "Full day",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "24 hours",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1420,
+        "label": "24 hours",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Extra day",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1420,
+        "label": "Extra day",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "1 hour",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1439,
+        "label": "1 hour",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "2 hours",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1439,
+        "label": "2 hours",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "3 hours",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1439,
+        "label": "3 hours",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Full day",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1439,
+        "label": "Full day",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "24 hours",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1439,
+        "label": "24 hours",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Extra day",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1439,
+        "label": "Extra day",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "1 hour",
+    "price": "4",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1430,
+        "label": "1 hour",
+        "value": "€4"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "4 hours",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1430,
+        "label": "4 hours",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Full day",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1430,
+        "label": "Full day",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "24 hours",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1430,
+        "label": "24 hours",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "2 days",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1430,
+        "label": "2 days",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Extra day",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1430,
+        "label": "Extra day",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Child seat (selected bikes)",
+    "price": "3",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1430,
+        "label": "Child seat (selected bikes)",
+        "value": "€3"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "1 hour",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1449,
+        "label": "1 hour",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "2 hours",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1449,
+        "label": "2 hours",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "3 hours",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1449,
+        "label": "3 hours",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Full day",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1449,
+        "label": "Full day",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "24 hours",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1449,
+        "label": "24 hours",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Extra day",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1449,
+        "label": "Extra day",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "1 hour",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1449,
+        "label": "1 hour",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "2 hours",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1449,
+        "label": "2 hours",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "3 hours",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1449,
+        "label": "3 hours",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Full day",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1449,
+        "label": "Full day",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "24 hours",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1449,
+        "label": "24 hours",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Extra day",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1449,
+        "label": "Extra day",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "check": "service_schema_visible_prices",
+    "service": "scooter",
+    "schema": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "visible": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "prices_page": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "pass": true
+  },
+  {
+    "language": "en",
+    "check": "aggregate_arithmetic",
+    "service": "scooter",
+    "declared": {
+      "lowPrice": "35",
+      "highPrice": "115",
+      "offerCount": "5"
+    },
+    "individual_min": 30.0,
+    "individual_max": 115.0,
+    "individual_count": 5,
+    "context": "Extra day is a conditional extension, not necessarily a standalone rental. Range interpretation requires review."
+  },
+  {
+    "language": "en",
+    "check": "service_schema_visible_prices",
+    "service": "rollerblades",
+    "schema": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "visible": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "prices_page": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "pass": true
+  },
+  {
+    "language": "en",
+    "check": "aggregate_arithmetic",
+    "service": "rollerblades",
+    "declared": {
+      "lowPrice": "6",
+      "highPrice": "20",
+      "offerCount": "6"
+    },
+    "individual_min": 6.0,
+    "individual_max": 20.0,
+    "individual_count": 6,
+    "context": "Extra day is a conditional extension, not necessarily a standalone rental. Range interpretation requires review."
+  },
+  {
+    "language": "en",
+    "check": "home_from_prices",
+    "visible": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "prices_page": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "pass": true
+  },
+  {
+    "language": "en",
+    "check": "prices_featured_offer",
+    "service": "scooter",
+    "name": "Full-day scooter rental in Barcelona",
+    "price": "35",
+    "pass": true
+  },
+  {
+    "language": "en",
+    "check": "prices_featured_offer",
+    "service": "rollerblades",
+    "name": "1-hour inline skates rental in Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "en",
+    "check": "prices_featured_offer",
+    "service": "bike",
+    "name": "1-hour bike rental in Barcelona",
+    "price": "4",
+    "pass": true
+  },
+  {
+    "language": "en",
+    "check": "prices_featured_offer",
+    "service": "quads",
+    "name": "1-hour roller skate rental in Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "en",
+    "check": "prices_featured_offer",
+    "service": "skateboard",
+    "name": "1-hour skateboard rental in Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "en",
+    "check": "prices_featured_offer",
+    "service": "longboard",
+    "name": "1-hour longboard rental in Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Día completo",
+    "price": "35",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1405,
+        "label": "Día completo",
+        "value": "€35"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "24 horas",
+    "price": "40",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1405,
+        "label": "24 horas",
+        "value": "€40"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "2 días",
+    "price": "80",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1405,
+        "label": "2 días",
+        "value": "€80"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "3 días",
+    "price": "115",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1405,
+        "label": "3 días",
+        "value": "€115"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Día extra",
+    "price": "30",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1405,
+        "label": "Día extra",
+        "value": "€30"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "1 hora",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1415,
+        "label": "1 hora",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "2 horas",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1415,
+        "label": "2 horas",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "3 horas",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1415,
+        "label": "3 horas",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Día completo",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1415,
+        "label": "Día completo",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "24 horas",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1415,
+        "label": "24 horas",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Día extra",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1415,
+        "label": "Día extra",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "1 hora",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1434,
+        "label": "1 hora",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "2 horas",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1434,
+        "label": "2 horas",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "3 horas",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1434,
+        "label": "3 horas",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Día completo",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1434,
+        "label": "Día completo",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "24 horas",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1434,
+        "label": "24 horas",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Día extra",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1434,
+        "label": "Día extra",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "1 hora",
+    "price": "4",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1425,
+        "label": "1 hora",
+        "value": "€4"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "4 horas",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1425,
+        "label": "4 horas",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Día completo",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1425,
+        "label": "Día completo",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "24 horas",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1425,
+        "label": "24 horas",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "2 días",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1425,
+        "label": "2 días",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Día extra",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1425,
+        "label": "Día extra",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Silla infantil (bicicletas seleccionadas)",
+    "price": "3",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1425,
+        "label": "Silla infantil (bicicletas seleccionadas)",
+        "value": "€3"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "1 hora",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1444,
+        "label": "1 hora",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "2 horas",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1444,
+        "label": "2 horas",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "3 horas",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1444,
+        "label": "3 horas",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Día completo",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1444,
+        "label": "Día completo",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "24 horas",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1444,
+        "label": "24 horas",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Día extra",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1444,
+        "label": "Día extra",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "1 hora",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1444,
+        "label": "1 hora",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "2 horas",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1444,
+        "label": "2 horas",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "3 horas",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1444,
+        "label": "3 horas",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Día completo",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1444,
+        "label": "Día completo",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "24 horas",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1444,
+        "label": "24 horas",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Día extra",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1444,
+        "label": "Día extra",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "es",
+    "check": "service_schema_visible_prices",
+    "service": "scooter",
+    "schema": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "visible": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "prices_page": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "pass": true
+  },
+  {
+    "language": "es",
+    "check": "aggregate_arithmetic",
+    "service": "scooter",
+    "declared": {
+      "lowPrice": "35",
+      "highPrice": "115",
+      "offerCount": "5"
+    },
+    "individual_min": 30.0,
+    "individual_max": 115.0,
+    "individual_count": 5,
+    "context": "Extra day is a conditional extension, not necessarily a standalone rental. Range interpretation requires review."
+  },
+  {
+    "language": "es",
+    "check": "service_schema_visible_prices",
+    "service": "rollerblades",
+    "schema": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "visible": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "prices_page": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "pass": true
+  },
+  {
+    "language": "es",
+    "check": "aggregate_arithmetic",
+    "service": "rollerblades",
+    "declared": {
+      "lowPrice": "6",
+      "highPrice": "20",
+      "offerCount": "6"
+    },
+    "individual_min": 6.0,
+    "individual_max": 20.0,
+    "individual_count": 6,
+    "context": "Extra day is a conditional extension, not necessarily a standalone rental. Range interpretation requires review."
+  },
+  {
+    "language": "es",
+    "check": "home_from_prices",
+    "visible": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "prices_page": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "pass": true
+  },
+  {
+    "language": "es",
+    "check": "prices_featured_offer",
+    "service": "scooter",
+    "name": "Alquiler de scooter día completo en Barcelona",
+    "price": "35",
+    "pass": true
+  },
+  {
+    "language": "es",
+    "check": "prices_featured_offer",
+    "service": "rollerblades",
+    "name": "Alquiler de patines en línea 1 hora en Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "es",
+    "check": "prices_featured_offer",
+    "service": "bike",
+    "name": "Alquiler de bicicletas 1 hora en Barcelona",
+    "price": "4",
+    "pass": true
+  },
+  {
+    "language": "es",
+    "check": "prices_featured_offer",
+    "service": "quads",
+    "name": "Alquiler de patines de 4 ruedas 1 hora en Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "es",
+    "check": "prices_featured_offer",
+    "service": "skateboard",
+    "name": "Alquiler de skateboard 1 hora en Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "es",
+    "check": "prices_featured_offer",
+    "service": "longboard",
+    "name": "Alquiler de longboard 1 hora en Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Journée complète",
+    "price": "35",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1390,
+        "label": "Journée complète",
+        "value": "€35"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "24 heures",
+    "price": "40",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1390,
+        "label": "24 heures",
+        "value": "€40"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "2 jours",
+    "price": "80",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1390,
+        "label": "2 jours",
+        "value": "€80"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "3 jours",
+    "price": "115",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1390,
+        "label": "3 jours",
+        "value": "€115"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Jour supplémentaire",
+    "price": "30",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1390,
+        "label": "Jour supplémentaire",
+        "value": "€30"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "1 heure",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1400,
+        "label": "1 heure",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "2 heures",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1400,
+        "label": "2 heures",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "3 heures",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1400,
+        "label": "3 heures",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Journée complète",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1400,
+        "label": "Journée complète",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "24 heures",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1400,
+        "label": "24 heures",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Jour supplémentaire",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1400,
+        "label": "Jour supplémentaire",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "1 heure",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1419,
+        "label": "1 heure",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "2 heures",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1419,
+        "label": "2 heures",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "3 heures",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1419,
+        "label": "3 heures",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Journée complète",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1419,
+        "label": "Journée complète",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "24 heures",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1419,
+        "label": "24 heures",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Jour supplémentaire",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1419,
+        "label": "Jour supplémentaire",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "1 heure",
+    "price": "4",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1410,
+        "label": "1 heure",
+        "value": "€4"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "4 heures",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1410,
+        "label": "4 heures",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Journée complète",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1410,
+        "label": "Journée complète",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "24 heures",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1410,
+        "label": "24 heures",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "2 jours",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1410,
+        "label": "2 jours",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Jour supplémentaire",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1410,
+        "label": "Jour supplémentaire",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Siège enfant (certains vélos)",
+    "price": "3",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1410,
+        "label": "Siège enfant (certains vélos)",
+        "value": "€3"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "1 heure",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1429,
+        "label": "1 heure",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "2 heures",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1429,
+        "label": "2 heures",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "3 heures",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1429,
+        "label": "3 heures",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Journée complète",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1429,
+        "label": "Journée complète",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "24 heures",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1429,
+        "label": "24 heures",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Jour supplémentaire",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1429,
+        "label": "Jour supplémentaire",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "1 heure",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1429,
+        "label": "1 heure",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "2 heures",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1429,
+        "label": "2 heures",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "3 heures",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1429,
+        "label": "3 heures",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Journée complète",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1429,
+        "label": "Journée complète",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "24 heures",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1429,
+        "label": "24 heures",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Jour supplémentaire",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1429,
+        "label": "Jour supplémentaire",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "fr",
+    "check": "service_schema_visible_prices",
+    "service": "scooter",
+    "schema": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "visible": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "prices_page": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "pass": true
+  },
+  {
+    "language": "fr",
+    "check": "service_schema_visible_prices",
+    "service": "rollerblades",
+    "schema": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "visible": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "prices_page": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "pass": true
+  },
+  {
+    "language": "fr",
+    "check": "home_from_prices",
+    "visible": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "prices_page": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "pass": true
+  },
+  {
+    "language": "fr",
+    "check": "prices_featured_offer",
+    "service": "scooter",
+    "name": "Location de scooter journée complète à Barcelone",
+    "price": "35",
+    "pass": true
+  },
+  {
+    "language": "fr",
+    "check": "prices_featured_offer",
+    "service": "rollerblades",
+    "name": "Location de rollers en ligne 1 heure à Barcelone",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "fr",
+    "check": "prices_featured_offer",
+    "service": "bike",
+    "name": "Location de vélo 1 heure à Barcelone",
+    "price": "4",
+    "pass": true
+  },
+  {
+    "language": "fr",
+    "check": "prices_featured_offer",
+    "service": "quads",
+    "name": "Location de patins à roulettes 1 heure à Barcelone",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "fr",
+    "check": "prices_featured_offer",
+    "service": "skateboard",
+    "name": "Location de skateboard 1 heure à Barcelone",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "fr",
+    "check": "prices_featured_offer",
+    "service": "longboard",
+    "name": "Location de longboard 1 heure à Barcelone",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Giornata intera",
+    "price": "35",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1395,
+        "label": "Giornata intera",
+        "value": "€35"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "24 ore",
+    "price": "40",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1395,
+        "label": "24 ore",
+        "value": "€40"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "2 giorni",
+    "price": "80",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1395,
+        "label": "2 giorni",
+        "value": "€80"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "3 giorni",
+    "price": "115",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1395,
+        "label": "3 giorni",
+        "value": "€115"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Giorno extra",
+    "price": "30",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1395,
+        "label": "Giorno extra",
+        "value": "€30"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "1 ora",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1405,
+        "label": "1 ora",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "2 ore",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1405,
+        "label": "2 ore",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "3 ore",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1405,
+        "label": "3 ore",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Giornata intera",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1405,
+        "label": "Giornata intera",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "24 ore",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1405,
+        "label": "24 ore",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Giorno extra",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1405,
+        "label": "Giorno extra",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "1 ora",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1424,
+        "label": "1 ora",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "2 ore",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1424,
+        "label": "2 ore",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "3 ore",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1424,
+        "label": "3 ore",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Giornata intera",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1424,
+        "label": "Giornata intera",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "24 ore",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1424,
+        "label": "24 ore",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Giorno extra",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1424,
+        "label": "Giorno extra",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "1 ora",
+    "price": "4",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1415,
+        "label": "1 ora",
+        "value": "€4"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "4 ore",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1415,
+        "label": "4 ore",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Giornata intera",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1415,
+        "label": "Giornata intera",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "24 ore",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1415,
+        "label": "24 ore",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "2 giorni",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1415,
+        "label": "2 giorni",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Giorno extra",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1415,
+        "label": "Giorno extra",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Seggiolino bambino (alcune biciclette)",
+    "price": "3",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1415,
+        "label": "Seggiolino bambino (alcune biciclette)",
+        "value": "€3"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "1 ora",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "1 ora",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "2 ore",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "2 ore",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "3 ore",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "3 ore",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Giornata intera",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "Giornata intera",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "24 ore",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "24 ore",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Giorno extra",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "Giorno extra",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "1 ora",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "1 ora",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "2 ore",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "2 ore",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "3 ore",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "3 ore",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Giornata intera",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "Giornata intera",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "24 ore",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "24 ore",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Giorno extra",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "Giorno extra",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "it",
+    "check": "service_schema_visible_prices",
+    "service": "scooter",
+    "schema": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "visible": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "prices_page": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "pass": true
+  },
+  {
+    "language": "it",
+    "check": "service_schema_visible_prices",
+    "service": "rollerblades",
+    "schema": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "visible": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "prices_page": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "pass": true
+  },
+  {
+    "language": "it",
+    "check": "home_from_prices",
+    "visible": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "prices_page": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "pass": true
+  },
+  {
+    "language": "it",
+    "check": "prices_featured_offer",
+    "service": "scooter",
+    "name": "Noleggio scooter giornata intera a Barcellona",
+    "price": "35",
+    "pass": true
+  },
+  {
+    "language": "it",
+    "check": "prices_featured_offer",
+    "service": "rollerblades",
+    "name": "Noleggio pattini in linea 1 ora a Barcellona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "it",
+    "check": "prices_featured_offer",
+    "service": "bike",
+    "name": "Noleggio bicicletta 1 ora a Barcellona",
+    "price": "4",
+    "pass": true
+  },
+  {
+    "language": "it",
+    "check": "prices_featured_offer",
+    "service": "quads",
+    "name": "Noleggio pattini a rotelle 1 ora a Barcellona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "it",
+    "check": "prices_featured_offer",
+    "service": "skateboard",
+    "name": "Noleggio skateboard 1 ora a Barcellona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "it",
+    "check": "prices_featured_offer",
+    "service": "longboard",
+    "name": "Noleggio longboard 1 ora a Barcellona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Ganzer Tag",
+    "price": "35",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1388,
+        "label": "Ganzer Tag",
+        "value": "€35"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "24 Stunden",
+    "price": "40",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1388,
+        "label": "24 Stunden",
+        "value": "€40"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "2 Tage",
+    "price": "80",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1388,
+        "label": "2 Tage",
+        "value": "€80"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "3 Tage",
+    "price": "115",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1388,
+        "label": "3 Tage",
+        "value": "€115"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Zusätzlicher Tag",
+    "price": "30",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1388,
+        "label": "Zusätzlicher Tag",
+        "value": "€30"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "1 Stunde",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1398,
+        "label": "1 Stunde",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "2 Stunden",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1398,
+        "label": "2 Stunden",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "3 Stunden",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1398,
+        "label": "3 Stunden",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Ganzer Tag",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1398,
+        "label": "Ganzer Tag",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "24 Stunden",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1398,
+        "label": "24 Stunden",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Zusätzlicher Tag",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1398,
+        "label": "Zusätzlicher Tag",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "1 Stunde",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1417,
+        "label": "1 Stunde",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "2 Stunden",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1417,
+        "label": "2 Stunden",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "3 Stunden",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1417,
+        "label": "3 Stunden",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Ganzer Tag",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1417,
+        "label": "Ganzer Tag",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "24 Stunden",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1417,
+        "label": "24 Stunden",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Zusätzlicher Tag",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1417,
+        "label": "Zusätzlicher Tag",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "1 Stunde",
+    "price": "4",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1408,
+        "label": "1 Stunde",
+        "value": "€4"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "4 Stunden",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1408,
+        "label": "4 Stunden",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Ganzer Tag",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1408,
+        "label": "Ganzer Tag",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "24 Stunden",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1408,
+        "label": "24 Stunden",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "2 Tage",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1408,
+        "label": "2 Tage",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Zusätzlicher Tag",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1408,
+        "label": "Zusätzlicher Tag",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Kindersitz (ausgewählte Fahrräder)",
+    "price": "3",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1408,
+        "label": "Kindersitz (ausgewählte Fahrräder)",
+        "value": "€3"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "1 Stunde",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1427,
+        "label": "1 Stunde",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "2 Stunden",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1427,
+        "label": "2 Stunden",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "3 Stunden",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1427,
+        "label": "3 Stunden",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Ganzer Tag",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1427,
+        "label": "Ganzer Tag",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "24 Stunden",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1427,
+        "label": "24 Stunden",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Zusätzlicher Tag",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1427,
+        "label": "Zusätzlicher Tag",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "1 Stunde",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1427,
+        "label": "1 Stunde",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "2 Stunden",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1427,
+        "label": "2 Stunden",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "3 Stunden",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1427,
+        "label": "3 Stunden",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Ganzer Tag",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1427,
+        "label": "Ganzer Tag",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "24 Stunden",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1427,
+        "label": "24 Stunden",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Zusätzlicher Tag",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1427,
+        "label": "Zusätzlicher Tag",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "check": "service_schema_visible_prices",
+    "service": "scooter",
+    "schema": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "visible": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "prices_page": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "pass": true
+  },
+  {
+    "language": "de",
+    "check": "service_schema_visible_prices",
+    "service": "rollerblades",
+    "schema": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "visible": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "prices_page": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "pass": true
+  },
+  {
+    "language": "de",
+    "check": "home_from_prices",
+    "visible": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "prices_page": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "pass": true
+  },
+  {
+    "language": "de",
+    "check": "prices_featured_offer",
+    "service": "scooter",
+    "name": "Scooter mieten – ganzer Tag in Barcelona",
+    "price": "35",
+    "pass": true
+  },
+  {
+    "language": "de",
+    "check": "prices_featured_offer",
+    "service": "rollerblades",
+    "name": "Inlineskates mieten – 1 Stunde in Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "de",
+    "check": "prices_featured_offer",
+    "service": "bike",
+    "name": "Fahrrad mieten – 1 Stunde in Barcelona",
+    "price": "4",
+    "pass": true
+  },
+  {
+    "language": "de",
+    "check": "prices_featured_offer",
+    "service": "quads",
+    "name": "Rollschuhe mieten – 1 Stunde in Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "de",
+    "check": "prices_featured_offer",
+    "service": "skateboard",
+    "name": "Skateboard mieten – 1 Stunde in Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "de",
+    "check": "prices_featured_offer",
+    "service": "longboard",
+    "name": "Longboard mieten – 1 Stunde in Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Hele dag",
+    "price": "35",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1400,
+        "label": "Hele dag",
+        "value": "€35"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "24 uur",
+    "price": "40",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1400,
+        "label": "24 uur",
+        "value": "€40"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "2 dagen",
+    "price": "80",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1400,
+        "label": "2 dagen",
+        "value": "€80"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "3 dagen",
+    "price": "115",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1400,
+        "label": "3 dagen",
+        "value": "€115"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Extra dag",
+    "price": "30",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1400,
+        "label": "Extra dag",
+        "value": "€30"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "1 uur",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1410,
+        "label": "1 uur",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "2 uur",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1410,
+        "label": "2 uur",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "3 uur",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1410,
+        "label": "3 uur",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Hele dag",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1410,
+        "label": "Hele dag",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "24 uur",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1410,
+        "label": "24 uur",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Extra dag",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1410,
+        "label": "Extra dag",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "1 uur",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1429,
+        "label": "1 uur",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "2 uur",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1429,
+        "label": "2 uur",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "3 uur",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1429,
+        "label": "3 uur",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Hele dag",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1429,
+        "label": "Hele dag",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "24 uur",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1429,
+        "label": "24 uur",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Extra dag",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1429,
+        "label": "Extra dag",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "1 uur",
+    "price": "4",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1420,
+        "label": "1 uur",
+        "value": "€4"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "4 uur",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1420,
+        "label": "4 uur",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Hele dag",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1420,
+        "label": "Hele dag",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "24 uur",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1420,
+        "label": "24 uur",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "2 dagen",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1420,
+        "label": "2 dagen",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Extra dag",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1420,
+        "label": "Extra dag",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Kinderzitje (geselecteerde fietsen)",
+    "price": "3",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1420,
+        "label": "Kinderzitje (geselecteerde fietsen)",
+        "value": "€3"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "1 uur",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1439,
+        "label": "1 uur",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "2 uur",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1439,
+        "label": "2 uur",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "3 uur",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1439,
+        "label": "3 uur",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Hele dag",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1439,
+        "label": "Hele dag",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "24 uur",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1439,
+        "label": "24 uur",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Extra dag",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1439,
+        "label": "Extra dag",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "1 uur",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1439,
+        "label": "1 uur",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "2 uur",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1439,
+        "label": "2 uur",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "3 uur",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1439,
+        "label": "3 uur",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Hele dag",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1439,
+        "label": "Hele dag",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "24 uur",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1439,
+        "label": "24 uur",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Extra dag",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1439,
+        "label": "Extra dag",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "nl",
+    "check": "service_schema_visible_prices",
+    "service": "scooter",
+    "schema": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "visible": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "prices_page": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "pass": true
+  },
+  {
+    "language": "nl",
+    "check": "service_schema_visible_prices",
+    "service": "rollerblades",
+    "schema": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "visible": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "prices_page": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "pass": true
+  },
+  {
+    "language": "nl",
+    "check": "home_from_prices",
+    "visible": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "prices_page": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "pass": true
+  },
+  {
+    "language": "nl",
+    "check": "prices_featured_offer",
+    "service": "scooter",
+    "name": "Scooterverhuur voor een hele dag in Barcelona",
+    "price": "35",
+    "pass": true
+  },
+  {
+    "language": "nl",
+    "check": "prices_featured_offer",
+    "service": "rollerblades",
+    "name": "Inline skates huren voor 1 uur in Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "nl",
+    "check": "prices_featured_offer",
+    "service": "bike",
+    "name": "Fiets huren voor 1 uur in Barcelona",
+    "price": "4",
+    "pass": true
+  },
+  {
+    "language": "nl",
+    "check": "prices_featured_offer",
+    "service": "quads",
+    "name": "Rolschaatsen huren voor 1 uur in Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "nl",
+    "check": "prices_featured_offer",
+    "service": "skateboard",
+    "name": "Skateboard huren voor 1 uur in Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "nl",
+    "check": "prices_featured_offer",
+    "service": "longboard",
+    "name": "Longboard huren voor 1 uur in Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Dia completo",
+    "price": "35",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1406,
+        "label": "Dia completo",
+        "value": "€35"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "24 horas",
+    "price": "40",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1406,
+        "label": "24 horas",
+        "value": "€40"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "2 dias",
+    "price": "80",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1406,
+        "label": "2 dias",
+        "value": "€80"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "3 dias",
+    "price": "115",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1406,
+        "label": "3 dias",
+        "value": "€115"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Dia extra",
+    "price": "30",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1406,
+        "label": "Dia extra",
+        "value": "€30"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "1 hora",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1416,
+        "label": "1 hora",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "2 horas",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1416,
+        "label": "2 horas",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "3 horas",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1416,
+        "label": "3 horas",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Dia completo",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1416,
+        "label": "Dia completo",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "24 horas",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1416,
+        "label": "24 horas",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Dia extra",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1416,
+        "label": "Dia extra",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "1 hora",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1435,
+        "label": "1 hora",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "2 horas",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1435,
+        "label": "2 horas",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "3 horas",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1435,
+        "label": "3 horas",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Dia completo",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1435,
+        "label": "Dia completo",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "24 horas",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1435,
+        "label": "24 horas",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Dia extra",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1435,
+        "label": "Dia extra",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "1 hora",
+    "price": "4",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1426,
+        "label": "1 hora",
+        "value": "€4"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "4 horas",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1426,
+        "label": "4 horas",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Dia completo",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1426,
+        "label": "Dia completo",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "24 horas",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1426,
+        "label": "24 horas",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "2 dias",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1426,
+        "label": "2 dias",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Dia extra",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1426,
+        "label": "Dia extra",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Cadeira para criança (bicicletas selecionadas)",
+    "price": "3",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1426,
+        "label": "Cadeira para criança (bicicletas selecionadas)",
+        "value": "€3"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "1 hora",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1445,
+        "label": "1 hora",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "2 horas",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1445,
+        "label": "2 horas",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "3 horas",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1445,
+        "label": "3 horas",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Dia completo",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1445,
+        "label": "Dia completo",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "24 horas",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1445,
+        "label": "24 horas",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Dia extra",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1445,
+        "label": "Dia extra",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "1 hora",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1445,
+        "label": "1 hora",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "2 horas",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1445,
+        "label": "2 horas",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "3 horas",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1445,
+        "label": "3 horas",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Dia completo",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1445,
+        "label": "Dia completo",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "24 horas",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1445,
+        "label": "24 horas",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Dia extra",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1445,
+        "label": "Dia extra",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "pt",
+    "check": "service_schema_visible_prices",
+    "service": "scooter",
+    "schema": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "visible": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "prices_page": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "pass": true
+  },
+  {
+    "language": "pt",
+    "check": "service_schema_visible_prices",
+    "service": "rollerblades",
+    "schema": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "visible": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "prices_page": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "pass": true
+  },
+  {
+    "language": "pt",
+    "check": "home_from_prices",
+    "visible": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "prices_page": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "pass": true
+  },
+  {
+    "language": "pt",
+    "check": "prices_featured_offer",
+    "service": "scooter",
+    "name": "Aluguer de scooter por dia completo em Barcelona",
+    "price": "35",
+    "pass": true
+  },
+  {
+    "language": "pt",
+    "check": "prices_featured_offer",
+    "service": "rollerblades",
+    "name": "Aluguer de patins em linha por 1 hora em Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "pt",
+    "check": "prices_featured_offer",
+    "service": "bike",
+    "name": "Aluguer de bicicleta por 1 hora em Barcelona",
+    "price": "4",
+    "pass": true
+  },
+  {
+    "language": "pt",
+    "check": "prices_featured_offer",
+    "service": "quads",
+    "name": "Aluguer de patins de 4 rodas por 1 hora em Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "pt",
+    "check": "prices_featured_offer",
+    "service": "skateboard",
+    "name": "Aluguer de skateboard por 1 hora em Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "pt",
+    "check": "prices_featured_offer",
+    "service": "longboard",
+    "name": "Aluguer de longboard por 1 hora em Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Dia complet",
+    "price": "35",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1395,
+        "label": "Dia complet",
+        "value": "€35"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "24 hores",
+    "price": "40",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1395,
+        "label": "24 hores",
+        "value": "€40"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "2 dies",
+    "price": "80",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1395,
+        "label": "2 dies",
+        "value": "€80"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "3 dies",
+    "price": "115",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1395,
+        "label": "3 dies",
+        "value": "€115"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Dia extra",
+    "price": "30",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1395,
+        "label": "Dia extra",
+        "value": "€30"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "1 hora",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1405,
+        "label": "1 hora",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "2 hores",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1405,
+        "label": "2 hores",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "3 hores",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1405,
+        "label": "3 hores",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Dia complet",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1405,
+        "label": "Dia complet",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "24 hores",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1405,
+        "label": "24 hores",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Dia extra",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1405,
+        "label": "Dia extra",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "1 hora",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1424,
+        "label": "1 hora",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "2 hores",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1424,
+        "label": "2 hores",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "3 hores",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1424,
+        "label": "3 hores",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Dia complet",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1424,
+        "label": "Dia complet",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "24 hores",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1424,
+        "label": "24 hores",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Dia extra",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1424,
+        "label": "Dia extra",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "1 hora",
+    "price": "4",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1415,
+        "label": "1 hora",
+        "value": "€4"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "4 hores",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1415,
+        "label": "4 hores",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Dia complet",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1415,
+        "label": "Dia complet",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "24 hores",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1415,
+        "label": "24 hores",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "2 dies",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1415,
+        "label": "2 dies",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Dia extra",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1415,
+        "label": "Dia extra",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Cadireta infantil (bicicletes seleccionades)",
+    "price": "3",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1415,
+        "label": "Cadireta infantil (bicicletes seleccionades)",
+        "value": "€3"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "1 hora",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "1 hora",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "2 hores",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "2 hores",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "3 hores",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "3 hores",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Dia complet",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "Dia complet",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "24 hores",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "24 hores",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Dia extra",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "Dia extra",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "1 hora",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "1 hora",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "2 hores",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "2 hores",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "3 hores",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "3 hores",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Dia complet",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "Dia complet",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "24 hores",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "24 hores",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Dia extra",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1434,
+        "label": "Dia extra",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "ca",
+    "check": "service_schema_visible_prices",
+    "service": "scooter",
+    "schema": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "visible": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "prices_page": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "pass": true
+  },
+  {
+    "language": "ca",
+    "check": "service_schema_visible_prices",
+    "service": "rollerblades",
+    "schema": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "visible": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "prices_page": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "pass": true
+  },
+  {
+    "language": "ca",
+    "check": "home_from_prices",
+    "visible": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "prices_page": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "pass": true
+  },
+  {
+    "language": "ca",
+    "check": "prices_featured_offer",
+    "service": "scooter",
+    "name": "Lloguer de scooter dia complet a Barcelona",
+    "price": "35",
+    "pass": true
+  },
+  {
+    "language": "ca",
+    "check": "prices_featured_offer",
+    "service": "rollerblades",
+    "name": "Lloguer de patins en línia 1 hora a Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "ca",
+    "check": "prices_featured_offer",
+    "service": "bike",
+    "name": "Lloguer de bicicleta 1 hora a Barcelona",
+    "price": "4",
+    "pass": true
+  },
+  {
+    "language": "ca",
+    "check": "prices_featured_offer",
+    "service": "quads",
+    "name": "Lloguer de patins de 4 rodes 1 hora a Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "ca",
+    "check": "prices_featured_offer",
+    "service": "skateboard",
+    "name": "Lloguer de skateboard 1 hora a Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "ca",
+    "check": "prices_featured_offer",
+    "service": "longboard",
+    "name": "Lloguer de longboard 1 hora a Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Heldag",
+    "price": "35",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1402,
+        "label": "Heldag",
+        "value": "€35"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "24 timmar",
+    "price": "40",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1402,
+        "label": "24 timmar",
+        "value": "€40"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "2 dagar",
+    "price": "80",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1402,
+        "label": "2 dagar",
+        "value": "€80"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "3 dagar",
+    "price": "115",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1402,
+        "label": "3 dagar",
+        "value": "€115"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Extra dag",
+    "price": "30",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1402,
+        "label": "Extra dag",
+        "value": "€30"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "1 timme",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1412,
+        "label": "1 timme",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "2 timmar",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1412,
+        "label": "2 timmar",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "3 timmar",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1412,
+        "label": "3 timmar",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Heldag",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1412,
+        "label": "Heldag",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "24 timmar",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1412,
+        "label": "24 timmar",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Extra dag",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1412,
+        "label": "Extra dag",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "1 timme",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1431,
+        "label": "1 timme",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "2 timmar",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1431,
+        "label": "2 timmar",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "3 timmar",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1431,
+        "label": "3 timmar",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Heldag",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1431,
+        "label": "Heldag",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "24 timmar",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1431,
+        "label": "24 timmar",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Extra dag",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1431,
+        "label": "Extra dag",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "1 timme",
+    "price": "4",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1422,
+        "label": "1 timme",
+        "value": "€4"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "4 timmar",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1422,
+        "label": "4 timmar",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Heldag",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1422,
+        "label": "Heldag",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "24 timmar",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1422,
+        "label": "24 timmar",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "2 dagar",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1422,
+        "label": "2 dagar",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Extra dag",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1422,
+        "label": "Extra dag",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Barnstol (utvalda cyklar)",
+    "price": "3",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1422,
+        "label": "Barnstol (utvalda cyklar)",
+        "value": "€3"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "1 timme",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1441,
+        "label": "1 timme",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "2 timmar",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1441,
+        "label": "2 timmar",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "3 timmar",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1441,
+        "label": "3 timmar",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Heldag",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1441,
+        "label": "Heldag",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "24 timmar",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1441,
+        "label": "24 timmar",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Extra dag",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1441,
+        "label": "Extra dag",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "1 timme",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1441,
+        "label": "1 timme",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "2 timmar",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1441,
+        "label": "2 timmar",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "3 timmar",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1441,
+        "label": "3 timmar",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Heldag",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1441,
+        "label": "Heldag",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "24 timmar",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1441,
+        "label": "24 timmar",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Extra dag",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1441,
+        "label": "Extra dag",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "sv",
+    "check": "service_schema_visible_prices",
+    "service": "scooter",
+    "schema": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "visible": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "prices_page": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "pass": true
+  },
+  {
+    "language": "sv",
+    "check": "service_schema_visible_prices",
+    "service": "rollerblades",
+    "schema": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "visible": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "prices_page": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "pass": true
+  },
+  {
+    "language": "sv",
+    "check": "home_from_prices",
+    "visible": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "prices_page": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "pass": true
+  },
+  {
+    "language": "sv",
+    "check": "prices_featured_offer",
+    "service": "scooter",
+    "name": "Heldagsuthyrning av scooter i Barcelona",
+    "price": "35",
+    "pass": true
+  },
+  {
+    "language": "sv",
+    "check": "prices_featured_offer",
+    "service": "rollerblades",
+    "name": "Inlinesuthyrning 1 timme i Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "sv",
+    "check": "prices_featured_offer",
+    "service": "bike",
+    "name": "Cykeluthyrning 1 timme i Barcelona",
+    "price": "4",
+    "pass": true
+  },
+  {
+    "language": "sv",
+    "check": "prices_featured_offer",
+    "service": "quads",
+    "name": "Rullskridskouthyrning 1 timme i Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "sv",
+    "check": "prices_featured_offer",
+    "service": "skateboard",
+    "name": "Skateboarduthyrning 1 timme i Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "sv",
+    "check": "prices_featured_offer",
+    "service": "longboard",
+    "name": "Longboarduthyrning 1 timme i Barcelona",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Cały dzień",
+    "price": "35",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1408,
+        "label": "Cały dzień",
+        "value": "€35"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "24 godziny",
+    "price": "40",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1408,
+        "label": "24 godziny",
+        "value": "€40"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "2 dni",
+    "price": "80",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1408,
+        "label": "2 dni",
+        "value": "€80"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "3 dni",
+    "price": "115",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1408,
+        "label": "3 dni",
+        "value": "€115"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "scooter",
+    "offer": "Dodatkowy dzień",
+    "price": "30",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "scooter-prices",
+        "line": 1408,
+        "label": "Dodatkowy dzień",
+        "value": "€30"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "1 godzina",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1418,
+        "label": "1 godzina",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "2 godziny",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1418,
+        "label": "2 godziny",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "3 godziny",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1418,
+        "label": "3 godziny",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Cały dzień",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1418,
+        "label": "Cały dzień",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "24 godziny",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1418,
+        "label": "24 godziny",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "rollerblades",
+    "offer": "Dodatkowy dzień",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "skates-prices",
+        "line": 1418,
+        "label": "Dodatkowy dzień",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "1 godzina",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1437,
+        "label": "1 godzina",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "2 godziny",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1437,
+        "label": "2 godziny",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "3 godziny",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1437,
+        "label": "3 godziny",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Cały dzień",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1437,
+        "label": "Cały dzień",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "24 godziny",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1437,
+        "label": "24 godziny",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "quads",
+    "offer": "Dodatkowy dzień",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "quads-prices",
+        "line": 1437,
+        "label": "Dodatkowy dzień",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "1 godzina",
+    "price": "4",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1428,
+        "label": "1 godzina",
+        "value": "€4"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "4 godziny",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1428,
+        "label": "4 godziny",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Cały dzień",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1428,
+        "label": "Cały dzień",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "24 godziny",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1428,
+        "label": "24 godziny",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "2 dni",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1428,
+        "label": "2 dni",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Dodatkowy dzień",
+    "price": "8",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1428,
+        "label": "Dodatkowy dzień",
+        "value": "€8"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "bike",
+    "offer": "Fotelik dziecięcy (wybrane rowery)",
+    "price": "3",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "bike-prices",
+        "line": 1428,
+        "label": "Fotelik dziecięcy (wybrane rowery)",
+        "value": "€3"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "1 godzina",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1447,
+        "label": "1 godzina",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "2 godziny",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1447,
+        "label": "2 godziny",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "3 godziny",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1447,
+        "label": "3 godziny",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Cały dzień",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1447,
+        "label": "Cały dzień",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "24 godziny",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1447,
+        "label": "24 godziny",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "skateboard",
+    "offer": "Dodatkowy dzień",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1447,
+        "label": "Dodatkowy dzień",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "1 godzina",
+    "price": "6",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1447,
+        "label": "1 godzina",
+        "value": "€6"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "2 godziny",
+    "price": "12",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1447,
+        "label": "2 godziny",
+        "value": "€12"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "3 godziny",
+    "price": "15",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1447,
+        "label": "3 godziny",
+        "value": "€15"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Cały dzień",
+    "price": "18",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1447,
+        "label": "Cały dzień",
+        "value": "€18"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "24 godziny",
+    "price": "20",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1447,
+        "label": "24 godziny",
+        "value": "€20"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "catalog_offer_visible",
+    "service": "longboard",
+    "offer": "Dodatkowy dzień",
+    "price": "10",
+    "pass": true,
+    "visible_matches": [
+      {
+        "section": "boards-prices",
+        "line": 1447,
+        "label": "Dodatkowy dzień",
+        "value": "€10"
+      }
+    ]
+  },
+  {
+    "language": "pl",
+    "check": "service_schema_visible_prices",
+    "service": "scooter",
+    "schema": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "visible": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "prices_page": [
+      "35",
+      "40",
+      "80",
+      "115",
+      "30"
+    ],
+    "pass": true
+  },
+  {
+    "language": "pl",
+    "check": "aggregate_arithmetic",
+    "service": "scooter",
+    "declared": {
+      "lowPrice": "35",
+      "highPrice": "115",
+      "offerCount": "5"
+    },
+    "individual_min": 30.0,
+    "individual_max": 115.0,
+    "individual_count": 5,
+    "context": "Extra day is a conditional extension, not necessarily a standalone rental. Range interpretation requires review."
+  },
+  {
+    "language": "pl",
+    "check": "service_schema_visible_prices",
+    "service": "rollerblades",
+    "schema": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "visible": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "prices_page": [
+      "6",
+      "12",
+      "15",
+      "18",
+      "20",
+      "10"
+    ],
+    "pass": true
+  },
+  {
+    "language": "pl",
+    "check": "aggregate_arithmetic",
+    "service": "rollerblades",
+    "declared": {
+      "lowPrice": "6",
+      "highPrice": "20",
+      "offerCount": "6"
+    },
+    "individual_min": 6.0,
+    "individual_max": 20.0,
+    "individual_count": 6,
+    "context": "Extra day is a conditional extension, not necessarily a standalone rental. Range interpretation requires review."
+  },
+  {
+    "language": "pl",
+    "check": "home_from_prices",
+    "visible": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "prices_page": [
+      "35",
+      "6",
+      "4",
+      "6",
+      "6",
+      "6"
+    ],
+    "pass": true
+  },
+  {
+    "language": "pl",
+    "check": "prices_featured_offer",
+    "service": "scooter",
+    "name": "Całodniowy wynajem skuterów w Barcelonie",
+    "price": "35",
+    "pass": true
+  },
+  {
+    "language": "pl",
+    "check": "prices_featured_offer",
+    "service": "rollerblades",
+    "name": "Godzinny wynajem rolek w Barcelonie",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "pl",
+    "check": "prices_featured_offer",
+    "service": "bike",
+    "name": "Godzinny wynajem rowerów w Barcelonie",
+    "price": "4",
+    "pass": true
+  },
+  {
+    "language": "pl",
+    "check": "prices_featured_offer",
+    "service": "quads",
+    "name": "Godzinny wynajem wrotek w Barcelonie",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "pl",
+    "check": "prices_featured_offer",
+    "service": "skateboard",
+    "name": "Godzinny wynajem deskorolek w Barcelonie",
+    "price": "6",
+    "pass": true
+  },
+  {
+    "language": "pl",
+    "check": "prices_featured_offer",
+    "service": "longboard",
+    "name": "Godzinny wynajem longboardu w Barcelonie",
+    "price": "6",
+    "pass": true
+  }
+]

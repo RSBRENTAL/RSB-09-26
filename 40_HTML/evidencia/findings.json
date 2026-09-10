@@ -1,0 +1,330 @@
+[
+  {
+    "id": "P1",
+    "severity": "MEDIO",
+    "title": "Dos dateModified distintos para la misma WebPage",
+    "why": "Los dos bloques JSON-LD aportan valores diferentes a la misma propiedad del mismo @id. No son dos páginas ni dos reseñas: se está describiendo dos veces la última modificación de una única página.",
+    "impact": "Ambigüedad sobre la fecha de actualización en el grafo; no invalida el JSON ni demuestra un problema de indexación.",
+    "canonical": "CANONICAL.md §8 no define fechas dateModified; REQUIERE FUENTE CANÓNICA para elegir la fecha real.",
+    "recommendation": "Dejar un único dateModified con la fecha comprobada. No elegir automáticamente la fecha más reciente ni la fecha de esta auditoría.",
+    "cases": [
+      {
+        "group": "SCOOTER",
+        "language": "en",
+        "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/scooter/index.html",
+        "canonical": "https://rentalscooterbarcelona.com/scooter/",
+        "element": "WebPage https://rentalscooterbarcelona.com/scooter/#webpage",
+        "evidence": [
+          {
+            "line": 219,
+            "code": "\"dateModified\": \"2026-07-30\"",
+            "value": "2026-07-30"
+          },
+          {
+            "line": 641,
+            "code": "\"dateModified\": \"2026-08-24\"",
+            "value": "2026-08-24"
+          }
+        ],
+        "current": "2026-07-30 / 2026-08-24",
+        "recommended": "Una sola fecha de última modificación real, pendiente de fuente canónica.",
+        "expected_edits": "Si se conserva una de las fechas existentes: 1 sustitución o eliminación de propiedad por HTML; 10 en total. Si ninguna es real, el número depende de la consolidación aprobada."
+      },
+      {
+        "group": "SCOOTER",
+        "language": "es",
+        "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/es/scooter/index.html",
+        "canonical": "https://rentalscooterbarcelona.com/es/scooter/",
+        "element": "WebPage https://rentalscooterbarcelona.com/es/scooter/#webpage",
+        "evidence": [
+          {
+            "line": 216,
+            "code": "\"dateModified\": \"2026-07-30\"",
+            "value": "2026-07-30"
+          },
+          {
+            "line": 635,
+            "code": "\"dateModified\": \"2026-08-24\"",
+            "value": "2026-08-24"
+          }
+        ],
+        "current": "2026-07-30 / 2026-08-24",
+        "recommended": "Una sola fecha de última modificación real, pendiente de fuente canónica.",
+        "expected_edits": "Si se conserva una de las fechas existentes: 1 sustitución o eliminación de propiedad por HTML; 10 en total. Si ninguna es real, el número depende de la consolidación aprobada."
+      },
+      {
+        "group": "SCOOTER",
+        "language": "fr",
+        "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/fr/scooter/index.html",
+        "canonical": "https://rentalscooterbarcelona.com/fr/scooter/",
+        "element": "WebPage https://rentalscooterbarcelona.com/fr/scooter/#webpage",
+        "evidence": [
+          {
+            "line": 148,
+            "code": "\"dateModified\": \"2026-07-30\"",
+            "value": "2026-07-30"
+          },
+          {
+            "line": 530,
+            "code": "\"dateModified\": \"2026-08-24\"",
+            "value": "2026-08-24"
+          }
+        ],
+        "current": "2026-07-30 / 2026-08-24",
+        "recommended": "Una sola fecha de última modificación real, pendiente de fuente canónica.",
+        "expected_edits": "Si se conserva una de las fechas existentes: 1 sustitución o eliminación de propiedad por HTML; 10 en total. Si ninguna es real, el número depende de la consolidación aprobada."
+      },
+      {
+        "group": "SCOOTER",
+        "language": "it",
+        "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/it/scooter/index.html",
+        "canonical": "https://rentalscooterbarcelona.com/it/scooter/",
+        "element": "WebPage https://rentalscooterbarcelona.com/it/scooter/#webpage",
+        "evidence": [
+          {
+            "line": 147,
+            "code": "\"dateModified\": \"2026-07-30\"",
+            "value": "2026-07-30"
+          },
+          {
+            "line": 529,
+            "code": "\"dateModified\": \"2026-08-24\"",
+            "value": "2026-08-24"
+          }
+        ],
+        "current": "2026-07-30 / 2026-08-24",
+        "recommended": "Una sola fecha de última modificación real, pendiente de fuente canónica.",
+        "expected_edits": "Si se conserva una de las fechas existentes: 1 sustitución o eliminación de propiedad por HTML; 10 en total. Si ninguna es real, el número depende de la consolidación aprobada."
+      },
+      {
+        "group": "SCOOTER",
+        "language": "de",
+        "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/de/scooter/index.html",
+        "canonical": "https://rentalscooterbarcelona.com/de/scooter/",
+        "element": "WebPage https://rentalscooterbarcelona.com/de/scooter/#webpage",
+        "evidence": [
+          {
+            "line": 187,
+            "code": "\"dateModified\": \"2026-07-30\"",
+            "value": "2026-07-30"
+          },
+          {
+            "line": 576,
+            "code": "\"dateModified\": \"2026-08-24\"",
+            "value": "2026-08-24"
+          }
+        ],
+        "current": "2026-07-30 / 2026-08-24",
+        "recommended": "Una sola fecha de última modificación real, pendiente de fuente canónica.",
+        "expected_edits": "Si se conserva una de las fechas existentes: 1 sustitución o eliminación de propiedad por HTML; 10 en total. Si ninguna es real, el número depende de la consolidación aprobada."
+      },
+      {
+        "group": "SCOOTER",
+        "language": "nl",
+        "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/nl/scooter/index.html",
+        "canonical": "https://rentalscooterbarcelona.com/nl/scooter/",
+        "element": "WebPage https://rentalscooterbarcelona.com/nl/scooter/#webpage",
+        "evidence": [
+          {
+            "line": 200,
+            "code": "\"dateModified\": \"2026-07-30\"",
+            "value": "2026-07-30"
+          },
+          {
+            "line": 585,
+            "code": "\"dateModified\": \"2026-08-24\"",
+            "value": "2026-08-24"
+          }
+        ],
+        "current": "2026-07-30 / 2026-08-24",
+        "recommended": "Una sola fecha de última modificación real, pendiente de fuente canónica.",
+        "expected_edits": "Si se conserva una de las fechas existentes: 1 sustitución o eliminación de propiedad por HTML; 10 en total. Si ninguna es real, el número depende de la consolidación aprobada."
+      },
+      {
+        "group": "SCOOTER",
+        "language": "pt",
+        "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/pt/scooter/index.html",
+        "canonical": "https://rentalscooterbarcelona.com/pt/scooter/",
+        "element": "WebPage https://rentalscooterbarcelona.com/pt/scooter/#webpage",
+        "evidence": [
+          {
+            "line": 161,
+            "code": "\"dateModified\": \"2026-07-30\"",
+            "value": "2026-07-30"
+          },
+          {
+            "line": 554,
+            "code": "\"dateModified\": \"2026-08-24\"",
+            "value": "2026-08-24"
+          }
+        ],
+        "current": "2026-07-30 / 2026-08-24",
+        "recommended": "Una sola fecha de última modificación real, pendiente de fuente canónica.",
+        "expected_edits": "Si se conserva una de las fechas existentes: 1 sustitución o eliminación de propiedad por HTML; 10 en total. Si ninguna es real, el número depende de la consolidación aprobada."
+      },
+      {
+        "group": "SCOOTER",
+        "language": "ca",
+        "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/cat/scooter/index.html",
+        "canonical": "https://rentalscooterbarcelona.com/cat/scooter/",
+        "element": "WebPage https://rentalscooterbarcelona.com/cat/scooter/#webpage",
+        "evidence": [
+          {
+            "line": 147,
+            "code": "\"dateModified\": \"2026-07-30\"",
+            "value": "2026-07-30"
+          },
+          {
+            "line": 529,
+            "code": "\"dateModified\": \"2026-08-24\"",
+            "value": "2026-08-24"
+          }
+        ],
+        "current": "2026-07-30 / 2026-08-24",
+        "recommended": "Una sola fecha de última modificación real, pendiente de fuente canónica.",
+        "expected_edits": "Si se conserva una de las fechas existentes: 1 sustitución o eliminación de propiedad por HTML; 10 en total. Si ninguna es real, el número depende de la consolidación aprobada."
+      },
+      {
+        "group": "SCOOTER",
+        "language": "sv",
+        "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/sv/scooter/index.html",
+        "canonical": "https://rentalscooterbarcelona.com/sv/scooter/",
+        "element": "WebPage https://rentalscooterbarcelona.com/sv/scooter/#webpage",
+        "evidence": [
+          {
+            "line": 161,
+            "code": "\"dateModified\": \"2026-07-30\"",
+            "value": "2026-07-30"
+          },
+          {
+            "line": 546,
+            "code": "\"dateModified\": \"2026-08-24\"",
+            "value": "2026-08-24"
+          }
+        ],
+        "current": "2026-07-30 / 2026-08-24",
+        "recommended": "Una sola fecha de última modificación real, pendiente de fuente canónica.",
+        "expected_edits": "Si se conserva una de las fechas existentes: 1 sustitución o eliminación de propiedad por HTML; 10 en total. Si ninguna es real, el número depende de la consolidación aprobada."
+      },
+      {
+        "group": "SCOOTER",
+        "language": "pl",
+        "archive_path": "SCOOTER-main (1)(1)/SCOOTER-main/pl/scooter/index.html",
+        "canonical": "https://rentalscooterbarcelona.com/pl/scooter/",
+        "element": "WebPage https://rentalscooterbarcelona.com/pl/scooter/#webpage",
+        "evidence": [
+          {
+            "line": 180,
+            "code": "\"dateModified\": \"2026-07-30\"",
+            "value": "2026-07-30"
+          },
+          {
+            "line": 602,
+            "code": "\"dateModified\": \"2026-08-24\"",
+            "value": "2026-08-24"
+          }
+        ],
+        "current": "2026-07-30 / 2026-08-24",
+        "recommended": "Una sola fecha de última modificación real, pendiente de fuente canónica.",
+        "expected_edits": "Si se conserva una de las fechas existentes: 1 sustitución o eliminación de propiedad por HTML; 10 en total. Si ninguna es real, el número depende de la consolidación aprobada."
+      }
+    ]
+  },
+  {
+    "id": "P2",
+    "severity": "BAJO",
+    "title": "Partícula sobrante en la frase alemana de HOME",
+    "why": "La frase combina «gehe direkt zu» con un «an» final residual de «sieh … an». Ese segundo «an» no completa el verbo utilizado.",
+    "impact": "Redacción defectuosa; los enlaces siguen apuntando a destinos correctos.",
+    "canonical": "NO APLICA: error textual comprobado en el HTML.",
+    "recommendation": "Sustituir únicamente el fragmento indicado, conservando URL, marcado y resto del contenido.",
+    "cases": [
+      {
+        "group": "HOME",
+        "language": "de",
+        "archive_path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)(4)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/de/index.html",
+        "canonical": "https://rentalscooterbarcelona.com/de/",
+        "element": "Contenido visible",
+        "evidence": [
+          {
+            "line": 1186,
+            "code": "vor deinem Besuch an.</p>"
+          }
+        ],
+        "current": "vor deinem Besuch an.</p>",
+        "recommended": "vor deinem Besuch.</p>",
+        "expected_edits": 1
+      }
+    ]
+  },
+  {
+    "id": "P3",
+    "severity": "BAJO",
+    "title": "Frase sin verbo final en ROLLERBLADES alemán y neerlandés",
+    "why": "La frase termina después del enlace y deja incompletos «kannst du unseren …» y «kun je onze …». Faltan, respectivamente, los infinitivos «lesen» y «lezen».",
+    "impact": "Instrucción editorial incompleta. El href del artículo sí corresponde a su idioma.",
+    "canonical": "NO APLICA: error textual comprobado en el HTML.",
+    "recommendation": "Sustituir únicamente el fragmento indicado, conservando URL, marcado y resto del contenido.",
+    "cases": [
+      {
+        "group": "ROLLERBLADES",
+        "language": "de",
+        "archive_path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)(4)/RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/de/rollerblades/index.html",
+        "canonical": "https://rentalscooterbarcelona.com/de/rollerblades/",
+        "element": "Contenido visible",
+        "evidence": [
+          {
+            "line": 894,
+            "code": "Guide zum Inlineskates-Verleih in Barcelona</a>.</p>"
+          }
+        ],
+        "current": "Guide zum Inlineskates-Verleih in Barcelona</a>.</p>",
+        "recommended": "Guide zum Inlineskates-Verleih in Barcelona</a> lesen.</p>",
+        "expected_edits": 1
+      },
+      {
+        "group": "ROLLERBLADES",
+        "language": "nl",
+        "archive_path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)(4)/RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/nl/rollerblades/index.html",
+        "canonical": "https://rentalscooterbarcelona.com/nl/rollerblades/",
+        "element": "Contenido visible",
+        "evidence": [
+          {
+            "line": 906,
+            "code": "gids voor inline skates huren in Barcelona</a>.</p>"
+          }
+        ],
+        "current": "gids voor inline skates huren in Barcelona</a>.</p>",
+        "recommended": "gids voor inline skates huren in Barcelona</a> lezen.</p>",
+        "expected_edits": 1
+      }
+    ]
+  },
+  {
+    "id": "P4",
+    "severity": "BAJO",
+    "title": "Repetición literal en la introducción sueca de ROLLERBLADES",
+    "why": "La pregunta presenta «inlines eller inlines»: el mismo término a ambos lados de «o».",
+    "impact": "Repetición editorial verificable; no cambia los precios ni el servicio.",
+    "canonical": "NO APLICA: error textual comprobado en el HTML.",
+    "recommendation": "Sustituir únicamente el fragmento indicado, conservando URL, marcado y resto del contenido.",
+    "cases": [
+      {
+        "group": "ROLLERBLADES",
+        "language": "sv",
+        "archive_path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)(4)/RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/sv/rollerblades/index.html",
+        "canonical": "https://rentalscooterbarcelona.com/sv/rollerblades/",
+        "element": "Contenido visible",
+        "evidence": [
+          {
+            "line": 782,
+            "code": "Letar du efter att hyra inlines eller inlines i Barcelona?"
+          }
+        ],
+        "current": "Letar du efter att hyra inlines eller inlines i Barcelona?",
+        "recommended": "Letar du efter att hyra inlines i Barcelona?",
+        "expected_edits": 1
+      }
+    ]
+  }
+]

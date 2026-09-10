@@ -1,0 +1,286 @@
+[
+  {
+    "zip": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)(5).zip",
+    "html": [
+      {
+        "path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/cat/index.html",
+        "bytes": 94387,
+        "sha256": "d58b5796bae731b8a8f06a2cb69811063f26e3c5140b2cefc0530231922ae3b0",
+        "matches_primary": "HOME/ca"
+      },
+      {
+        "path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/de/index.html",
+        "bytes": 93653,
+        "sha256": "c2d621aba88b8a19d8b2662b6428800a3722947e192ad43f50a581e2c0260d9b",
+        "matches_primary": "HOME/de"
+      },
+      {
+        "path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/es/index.html",
+        "bytes": 93791,
+        "sha256": "69ab90fdd158968ed4e5172fc7097f02010eec4d6544968478f4bff55942310f",
+        "matches_primary": "HOME/es"
+      },
+      {
+        "path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/fr/index.html",
+        "bytes": 94612,
+        "sha256": "89cc3119cf7e272c79fe4a8c0a7c16bc9d204fbace473745c24f7c3f3974fc45",
+        "matches_primary": "HOME/fr"
+      },
+      {
+        "path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/index.html",
+        "bytes": 99733,
+        "sha256": "8c5d21e348d400d75c21452ae69f28b3edd96e32a6f068325c197927475790ac",
+        "matches_primary": "HOME/en"
+      },
+      {
+        "path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/it/index.html",
+        "bytes": 92913,
+        "sha256": "4d9499cb3d21da40b86753d1006122c6dfac56a7082f343a080310b4bf983950",
+        "matches_primary": "HOME/it"
+      },
+      {
+        "path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/nl/index.html",
+        "bytes": 92715,
+        "sha256": "4faddcd800a8f8f9ebe1f8bfad581ddcd8704fe17afe5693e1e8d4d439f4b726",
+        "matches_primary": "HOME/nl"
+      },
+      {
+        "path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/pl/index.html",
+        "bytes": 92841,
+        "sha256": "1126230d6f8652114c2f6403373f83545694ac414475356ed3bba3c4827fe13a",
+        "matches_primary": "HOME/pl"
+      },
+      {
+        "path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/pt/index.html",
+        "bytes": 93310,
+        "sha256": "fd88c6da82013dad760497d1dcadefa91b4ef64a9f7984b66b4d0d09f8c5ad7b",
+        "matches_primary": "HOME/pt"
+      },
+      {
+        "path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/sv/index.html",
+        "bytes": 92883,
+        "sha256": "e95dfcc440d4aebf5018bcd8f78f673f2a709e9d4afa7f87b8f386a0b8c8f0dc",
+        "matches_primary": "HOME/sv"
+      },
+      {
+        "path": "RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/RSB_01_HOME_CORREGIDO_FINAL_VALIDATOR_FIXED(2)/yandex_2501bd530b944ea2.html",
+        "bytes": 161,
+        "sha256": "c94fcb68f27b8cf28788dd1f7a128c2cc47feeca380b4274135c4bc6a7483f95",
+        "matches_primary": null
+      }
+    ]
+  },
+  {
+    "zip": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)(5).zip",
+    "html": [
+      {
+        "path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/cat/rollerblades/index.html",
+        "bytes": 82206,
+        "sha256": "c7bcd02ce33220fb8e2654fc43f4a4aa5f6ed70b284bcc1de18b73f18230b9b1",
+        "matches_primary": "ROLLERBLADES/ca"
+      },
+      {
+        "path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/de/rollerblades/index.html",
+        "bytes": 82382,
+        "sha256": "ed926e09d62c8cd160f39344866ddad51b9d46b70866d691f5ef8140a522fc8d",
+        "matches_primary": "ROLLERBLADES/de"
+      },
+      {
+        "path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/es/rollerblades/index.html",
+        "bytes": 83367,
+        "sha256": "99a9f801f010db7933139933db6d0d964c5452d9f821b32920379de9d9bba9c6",
+        "matches_primary": "ROLLERBLADES/es"
+      },
+      {
+        "path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/fr/rollerblades/index.html",
+        "bytes": 82619,
+        "sha256": "b1704ca4ab31ef0d6e82dd75bd6944af955526e8073cb1ff2bb222402d04f049",
+        "matches_primary": "ROLLERBLADES/fr"
+      },
+      {
+        "path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/it/rollerblades/index.html",
+        "bytes": 81984,
+        "sha256": "7a6bc18d71f4207cbdd88c9f8660b2d933e707093b89ab5fc836f095b1d66c13",
+        "matches_primary": "ROLLERBLADES/it"
+      },
+      {
+        "path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/nl/rollerblades/index.html",
+        "bytes": 81229,
+        "sha256": "0f78e231283e4d2f33a570e56af190109b5ea12bab85e5f50019ed43a3d4fa6b",
+        "matches_primary": "ROLLERBLADES/nl"
+      },
+      {
+        "path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/pl/rollerblades/index.html",
+        "bytes": 81315,
+        "sha256": "d44cfa107631f4c3cc1c9f0386f474672db2420a6eab46bdfffe96e1ccdd868a",
+        "matches_primary": "ROLLERBLADES/pl"
+      },
+      {
+        "path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/pt/rollerblades/index.html",
+        "bytes": 82678,
+        "sha256": "eb82c60bdca4364f0f763e4a5a909b76dc6e7b241a1955a400c4f036637fa0bc",
+        "matches_primary": "ROLLERBLADES/pt"
+      },
+      {
+        "path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/rollerblades/index.html",
+        "bytes": 81051,
+        "sha256": "30d4b5e4ff9ccf991797b90fe96cf02bb097dacd12b27f6935107b5ec1969712",
+        "matches_primary": "ROLLERBLADES/en"
+      },
+      {
+        "path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/sv/rollerblades/index.html",
+        "bytes": 80332,
+        "sha256": "2a872eafda34f391375c57ac9d8bdfa076cc013513cc93fa2eafdcc472307cad",
+        "matches_primary": "ROLLERBLADES/sv"
+      },
+      {
+        "path": "RSB_05_ROLLERBLADES_CORREGIDO_GUIAS_FINAL(1)/yandex_2501bd530b944ea2.html",
+        "bytes": 161,
+        "sha256": "c94fcb68f27b8cf28788dd1f7a128c2cc47feeca380b4274135c4bc6a7483f95",
+        "matches_primary": null
+      }
+    ]
+  },
+  {
+    "zip": "RSB_PRICES_PT_PUNTOS_14_15_16_17_18_CORREGIDO(3)(5).zip",
+    "html": [
+      {
+        "path": "Prices/index.html",
+        "bytes": 104389,
+        "sha256": "c06a02bf0dd31f8caa2bd404b024d758e4c139c791196c87b2ef3d3205493579",
+        "matches_primary": "PRICES/en"
+      },
+      {
+        "path": "pl/Prices/index.html",
+        "bytes": 105765,
+        "sha256": "d7cd0f48fe0faae38982f21dcb270c4a31c6c1518bae3d0588c1a94827cc6153",
+        "matches_primary": "PRICES/pl"
+      },
+      {
+        "path": "it/Prices/index.html",
+        "bytes": 108144,
+        "sha256": "9754fe138cade1d8c01f7823dc3d9e65282b835e910a598b59bf8d5d8b5fec2c",
+        "matches_primary": "PRICES/it"
+      },
+      {
+        "path": "nl/Prices/index.html",
+        "bytes": 106554,
+        "sha256": "006d505c457e59fdf789501ff714b8bb4b2df973687a69a3984ebb9de4186c1e",
+        "matches_primary": "PRICES/nl"
+      },
+      {
+        "path": "cat/Prices/index.html",
+        "bytes": 108741,
+        "sha256": "e4fd7950617972ea18dfadc58ca5fe3478f4e7a824d05d0f947bc879c7abb07f",
+        "matches_primary": "PRICES/ca"
+      },
+      {
+        "path": "fr/Prices/index.html",
+        "bytes": 109212,
+        "sha256": "9eb0d5b422bde8f51c7a9f244cfd1cce16d9e9ccb625534c16f1b3cbce8f34df",
+        "matches_primary": "PRICES/fr"
+      },
+      {
+        "path": "es/Prices/index.html",
+        "bytes": 107480,
+        "sha256": "027bacad6c0cdff172b30bd16167c403976c7b9e283c2dd9cfd91012796fa6cc",
+        "matches_primary": "PRICES/es"
+      },
+      {
+        "path": "de/Prices/index.html",
+        "bytes": 107476,
+        "sha256": "4b8388f9fb08d3363f95d89eaaaf297067ce9e280a3e3f3a3ba63e4e62ff233a",
+        "matches_primary": "PRICES/de"
+      },
+      {
+        "path": "pt/Prices/index.html",
+        "bytes": 108176,
+        "sha256": "e0d31ffaca4b400bba32df27434cc59969aa15cddd31fcb1353ca177f1578932",
+        "matches_primary": "PRICES/pt"
+      },
+      {
+        "path": "sv/Prices/index.html",
+        "bytes": 106467,
+        "sha256": "5b2510991ab922f59f4e3f19d69926cfe0390984445127c0a41dddf1ea1f7af5",
+        "matches_primary": "PRICES/sv"
+      },
+      {
+        "path": "yandex_2501bd530b944ea2.html",
+        "bytes": 161,
+        "sha256": "c94fcb68f27b8cf28788dd1f7a128c2cc47feeca380b4274135c4bc6a7483f95",
+        "matches_primary": null
+      }
+    ]
+  },
+  {
+    "zip": "SCOOTER-main (1)(2).zip",
+    "html": [
+      {
+        "path": "SCOOTER-main/cat/scooter/index.html",
+        "bytes": 74424,
+        "sha256": "6c34ccbc7467b1dd8a04056a9c987207841b8d6f3070afe5d922b12ffede4818",
+        "matches_primary": "SCOOTER/ca"
+      },
+      {
+        "path": "SCOOTER-main/de/scooter/index.html",
+        "bytes": 76157,
+        "sha256": "3f3c0ee126d19e43ef10e90b6092c2bb5209bbe40c1d57e27d30ed1ab0a1976a",
+        "matches_primary": "SCOOTER/de"
+      },
+      {
+        "path": "SCOOTER-main/es/scooter/index.html",
+        "bytes": 76646,
+        "sha256": "f65eb76170abc6e02ae2fdec0a8e648c9e740ce6bf447f4337c51d5416c01ee3",
+        "matches_primary": "SCOOTER/es"
+      },
+      {
+        "path": "SCOOTER-main/fr/scooter/index.html",
+        "bytes": 75713,
+        "sha256": "ca5bf1e7c7954892ea93eb5acc938d92dd4263faf6a0612fbcc7b917ec9f3d91",
+        "matches_primary": "SCOOTER/fr"
+      },
+      {
+        "path": "SCOOTER-main/it/scooter/index.html",
+        "bytes": 74748,
+        "sha256": "1e64b01482db311f39a4bbf685c8935924c1707548ec387f1661e491abb8ff73",
+        "matches_primary": "SCOOTER/it"
+      },
+      {
+        "path": "SCOOTER-main/nl/scooter/index.html",
+        "bytes": 75095,
+        "sha256": "eaf1e1b9f6e74877bc28df54efc714b3a725bd371785bb52cf348f78aad44a19",
+        "matches_primary": "SCOOTER/nl"
+      },
+      {
+        "path": "SCOOTER-main/pl/scooter/index.html",
+        "bytes": 75144,
+        "sha256": "dd54d7f4dcbcdd94019d25d453fd312e8373ca2f977a0effb1a8f046414aba60",
+        "matches_primary": "SCOOTER/pl"
+      },
+      {
+        "path": "SCOOTER-main/pt/scooter/index.html",
+        "bytes": 75293,
+        "sha256": "ad10a7e9c9d69229f63d4564981ea4b69d5f6296bca00b6c4107c8e87abaf75d",
+        "matches_primary": "SCOOTER/pt"
+      },
+      {
+        "path": "SCOOTER-main/scooter/index.html",
+        "bytes": 75110,
+        "sha256": "ba138ae5221694e86ad860624e7421f4485c53c2157af3dee423c4024d77cce2",
+        "matches_primary": "SCOOTER/en"
+      },
+      {
+        "path": "SCOOTER-main/sv/scooter/index.html",
+        "bytes": 73474,
+        "sha256": "4ac68d839ec026bfeb5bc65a5b93b752e6e9287f7b93f46a5d299e8042fa583e",
+        "matches_primary": "SCOOTER/sv"
+      },
+      {
+        "path": "SCOOTER-main/yandex_2501bd530b944ea2.html",
+        "bytes": 161,
+        "sha256": "c94fcb68f27b8cf28788dd1f7a128c2cc47feeca380b4274135c4bc6a7483f95",
+        "matches_primary": null
+      }
+    ]
+  }
+]
