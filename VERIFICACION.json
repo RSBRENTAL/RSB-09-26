@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-09",
+  "html": 200,
+  "groups": [
+    "01_HOME",
+    "02_PRICES",
+    "03_SCOOTER",
+    "04_BIKE",
+    "05_ROLLERBLADES",
+    "06_QUADS",
+    "07_SKATEBOARD",
+    "08_LONGBOARD",
+    "09_LOCATION_CONTACT",
+    "10_BLOG_HOME",
+    "11_BLOG_50CC_VS_125CC",
+    "12_BLOG_BEGINNER_INLINE_SKATING",
+    "13_BLOG_BEST_ROLLERBLADING_ROUTES",
+    "14_BLOG_BIKE",
+    "15_BLOG_HOURLY_INLINE_SKATE_RENTAL",
+    "16_BLOG_INLINE_SKATES",
+    "17_BLOG_LONGBOARD",
+    "18_BLOG_ROLLER_SKATES",
+    "19_BLOG_SCOOTER",
+    "20_BLOG_SKATEBOARD"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "it",
+    "de",
+    "nl",
+    "pt",
+    "ca",
+    "sv",
+    "pl"
+  ],
+  "source_html_modified": false,
+  "sha256_all_match": true,
+  "old_audits_preserved_byte_for_byte": true,
+  "findings_cases": 288,
+  "affected_html": 154,
+  "no_demonstrated_error_html": 46,
+  "cases_by_id": {
+    "U01": 100,
+    "U02": 18,
+    "U03": 130,
+    "U04": 32,
+    "U05": 6,
+    "U06": 1,
+    "U07": 1
+  },
+  "new_html": 40,
+  "new_cases": 32,
+  "new_jsonld_valid": 80,
+  "new_inline_js_syntax_checks_valid": 50,
+  "second_pass_checks": 920,
+  "second_pass_failures": {
+    "one_date_per_entity": 30
+  },
+  "new_price_checks": 90,
+  "new_price_checks_all_pass": true,
+  "prices_cross_checks": 30,
+  "internal_links_checked": 12046,
+  "internal_links_outside_corpus": 0,
+  "bad_local_fragments": 0,
+  "images_and_sizes": "DEFERRED_BY_USER",
+  "external_runtime": "NOT_VERIFIED",
+  "excluded": [
+    {
+      "zip": "BIKE_SOLO_HTML_CORREGIDO_3_PUNTOS(2).zip",
+      "path": "BIKE/yandex_2501bd530b944ea2.html",
+      "reason": "Verificador Yandex: excluido según el alcance previo."
+    }
+  ]
+}
