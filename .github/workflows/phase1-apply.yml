@@ -1,0 +1,80 @@
+name: Apply verified phase-one fixes
+
+on:
+  push:
+    branches:
+      - fix/phase1-language-u05-u07
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix/phase1-language-u05-u07
+          fetch-depth: 0
+      - name: Apply exact verified replacements
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          replacements = {
+              '05_ROLLERBLADES/de/index.html': [('Guide zum Inlineskates-Verleih in Barcelona</a>.</p>', 'Guide zum Inlineskates-Verleih in Barcelona</a> lesen.</p>')],
+              '05_ROLLERBLADES/nl/index.html': [('gids voor inline skates huren in Barcelona</a>.</p>', 'gids voor inline skates huren in Barcelona</a> lezen.</p>')],
+              '06_QUADS/de/index.html': [('Guide zum Rollschuhe mieten in Barcelona</a>.</p>', 'Guide zum Rollschuhe mieten in Barcelona</a> lesen.</p>')],
+              '07_SKATEBOARD/nl/index.html': [('gids voor skateboard huren in Barcelona</a>.</p>', 'gids voor skateboard huren in Barcelona</a> lezen.</p>')],
+              '08_LONGBOARD/de/index.html': [('Longboard-Verleih-Guide für Barcelona</a>.</p>', 'Longboard-Verleih-Guide für Barcelona</a> lesen.</p>')],
+              '08_LONGBOARD/nl/index.html': [('gids voor longboardverhuur in Barcelona</a>.</p>', 'gids voor longboardverhuur in Barcelona</a> lezen.</p>')],
+              '01_HOME/de/index.html': [('Fahrradverleih</a> vor deinem Besuch an.</p>', 'Fahrradverleih</a> vor deinem Besuch.</p>')],
+              '05_ROLLERBLADES/sv/index.html': [('Letar du efter att hyra inlines eller inlines i Barcelona?', 'Letar du efter att hyra inlines i Barcelona?')],
+          }
+          for rel, pairs in replacements.items():
+              p = Path(rel)
+              text = p.read_text(encoding='utf-8')
+              original = text
+              for old, new in pairs:
+                  count = text.count(old)
+                  if count != 1:
+                      raise SystemExit(f'{rel}: expected exactly one occurrence, found {count}')
+                  text = text.replace(old, new, 1)
+              p.write_text(text, encoding='utf-8', newline='')
+              if text == original:
+                  raise SystemExit(f'{rel}: no change applied')
+          PY
+      - name: Validate scope and diff
+        shell: bash
+        run: |
+          git diff --check
+          test "$(git diff --name-only | wc -l)" -eq 8
+          test "$(git diff --numstat | awk '{a+=$1; d+=$2} END{print a+0}')" -eq 8
+          test "$(git diff --numstat | awk '{a+=$1; d+=$2} END{print d+0}')" -eq 8
+          test "$(git diff --name-only | sort)" = "$(printf '%s\n' \
+            01_HOME/de/index.html \
+            05_ROLLERBLADES/de/index.html \
+            05_ROLLERBLADES/nl/index.html \
+            05_ROLLERBLADES/sv/index.html \
+            06_QUADS/de/index.html \
+            07_SKATEBOARD/nl/index.html \
+            08_LONGBOARD/de/index.html \
+            08_LONGBOARD/nl/index.html | sort)"
+          grep -Fq 'Guide zum Inlineskates-Verleih in Barcelona</a> lesen.</p>' 05_ROLLERBLADES/de/index.html
+          grep -Fq 'gids voor inline skates huren in Barcelona</a> lezen.</p>' 05_ROLLERBLADES/nl/index.html
+          grep -Fq 'Guide zum Rollschuhe mieten in Barcelona</a> lesen.</p>' 06_QUADS/de/index.html
+          grep -Fq 'gids voor skateboard huren in Barcelona</a> lezen.</p>' 07_SKATEBOARD/nl/index.html
+          grep -Fq 'Longboard-Verleih-Guide für Barcelona</a> lesen.</p>' 08_LONGBOARD/de/index.html
+          grep -Fq 'gids voor longboardverhuur in Barcelona</a> lezen.</p>' 08_LONGBOARD/nl/index.html
+          ! grep -Fq 'Fahrradverleih</a> vor deinem Besuch an.</p>' 01_HOME/de/index.html
+          grep -Fq 'Sieh dir unsere <a href="https://rentalscooterbarcelona.com/de/Prices/">Mietpreise</a> vor deinem Besuch an.' 01_HOME/de/index.html
+          ! grep -Fq 'inlines eller inlines' 05_ROLLERBLADES/sv/index.html
+      - name: Commit verified HTML changes
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add 01_HOME/de/index.html 05_ROLLERBLADES/de/index.html 05_ROLLERBLADES/nl/index.html 05_ROLLERBLADES/sv/index.html 06_QUADS/de/index.html 07_SKATEBOARD/nl/index.html 08_LONGBOARD/de/index.html 08_LONGBOARD/nl/index.html
+          git commit -m 'Apply confirmed phase-one language fixes'
+          git push origin HEAD:fix/phase1-language-u05-u07
